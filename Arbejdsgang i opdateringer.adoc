@@ -1,0 +1,12 @@
+. Kodeønsker modtages
+. Der findes et kodeforslag:
+.. find ud af om der er en kode i SNOMED-internationl (for tumorer i WHOs ICD-koder)
+.. check om den internationale kode passer ind i det danske system, dvs. er den brugt før? kommer koden til at stå i sammenhæng med tidligere beslægtede koder? Ellers brug pkt. 3
+.. hvis der ikke er en international kode, findes en kode, der placerer tilsdanden i sammenhæng med beslægtede koder
+. Ofte er det nødvendigt med en indledende, afklarende korrespondance med dem, der har kodeønsker, så kodeforslaget bliver entydigt
+. Samler kodeforslagene i en excel-fil,
+. Excel-fil med forslag tages til høring i Informatikudvalget
+. *Høringen afsluttes 2 måneder før opdateringen* og liste med M8 og M9 koder sendes til SDS (Margit Caroline Rasted).
+. Tilbagemelding fra SDS (Margit) efter senest 2 uger som en samlet respons/kommentar.
+. Der er 2 uger til behandling af komentarer i IT-udvalget.
+. Én måned før opdatering returneres listen til Henrik Tholstrup og Margit Caroline Rasted. Når Henrik har genereret opdateringsfilen fremsendes den til IT-udvalget til en sidste endelig gennemgang. Opdateringsfilen sendes til ansøgere med 1 uges frist for evt. tilbagemeldinger. Derefter returneres opdateringsfilen til Henrik som udfører opdateringen på planlagt opdateringsdato. 
