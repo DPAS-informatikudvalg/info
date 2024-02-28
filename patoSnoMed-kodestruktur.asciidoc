@@ -1,0 +1,26 @@
+Betydning og betingelser af felter af patoSnoMed tabel
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.patoSnoMed kodestruktur
+[options="header,footer"]
+|=======================
+|felt|antal|start pos.|felter|værdiset|bemærkninger
+|1|3|1|recordart|"sno"|Overgruppe-klassifikation (kode-katalog)
+|2|20|4|SNO-kode|an|alfanumerisk
+|3|8|24|dato:gyldig fra|ååååmmdd|officiel ibrugtagningsdato
+|4|8|32|dato:ænddring|ååååmmdd|oprettelsesdato eller sidste ;ndringsdato for eksisterende kode
+|5|8|40|dato:gyldig til|ååååmmdd|officiel slutdato
+|6|120|48|kodetekst|an|der anvendes maximalt 60 karakterer
+|7|3|168|gruppe A|blank|ikke anvendt
+|8|3|171|gruppe B|blank|ikke anvendt
+|9|3|174|gruppe C|blank|ikke anvendt
+|10|3|177|gruppe D|blank|ikke anvendt
+|11|3|180|gruppe E|"SNO"/blank|overordnet kodekatalog (udfyldt kun for nye koder/nye ændringer)
+|12|1|183|validering A|"M"/"K"/blank|køn (udfyldes når relevant)
+|13|2|184|validering B|nn/blank|alder fra (udfyldes når relevant)
+|14|2|186|validering C|nn/blank|alder til (udfyldes når relevant)
+|15|1|188|validering D|"1"/"3"/blank|"1" = ny kode, der tilføjes; "3" = ændret kode, der overskriver eksisterende kode; blank for tidligere koder
+|16|25|189|kodeart, inklusion|blank|ikke anvendt
+|17|1|214|kræver yderligere reg.|blank|ikke anvendt
+|ialt|214| 3+^|tegnsæt: Windows ANSI; alle felter alfanumeriske|
+|=======================
