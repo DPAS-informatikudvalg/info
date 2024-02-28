@@ -1,0 +1,2953 @@
+ICDO3.2	Level	Term
+	1	MORPHOLOGY
+800	2	Neoplasms, NOS
+8000/0	Preferred	Neoplasm, benign
+8000/0	Synonym	Tumor, benign
+8000/0	Synonym	Unclassified tumor, benign
+8000/1	Preferred	Neoplasm, uncertain whether benign or malignant
+8000/1	Synonym	Neoplasm, NOS
+8000/1	Synonym	Tumor, NOS
+8000/1	Synonym	Unclassified tumor, borderline malignancy
+8000/1	Synonym	Unclassified tumor, uncertain whether benign or malignant
+8000/3	Preferred	Neoplasm, malignant
+8000/3	Synonym	Blastoma, NOS
+8000/3	Synonym	Tumor, malignant, NOS
+8000/3	Synonym	Cancer
+8000/3	Synonym	Malignancy
+8000/3	Synonym	Unclassified tumor, malignant
+8000/6	Preferred	Neoplasm, metastatic
+8000/6	Synonym	Neoplasm, secondary
+8000/6	Synonym	Tumor embolus
+8000/6	Synonym	Tumor, metastatic
+8000/6	Synonym	Tumor, secondary
+8000/9	Preferred	Neoplasm, malignant, uncertain whether primary or metastatic
+8000/9	Synonym	Unclassified tumor, malignant, uncertain whether primary or metastatic
+8001/0	Preferred	Tumor cells, benign
+8001/1	Preferred	Tumor cells, uncertain whether benign or malignant
+8001/1	Synonym	Tumor cells, NOS
+8001/3	Preferred	Tumor cells, malignant
+8002/3	Preferred	Malignant tumor, small cell type
+8003/3	Preferred	Malignant tumor, giant cell type
+8004/3	Preferred	Malignant tumor, spindle cell type
+8004/3	Synonym	Malignant tumor, fusiform cell type
+8005/0	Preferred	Clear cell tumor, NOS
+8005/3	Preferred	Malignant tumor, clear cell type
+801-804	2	Epithelial neoplasms, NOS
+8010/0	Preferred	Epithelial tumor, benign
+8010/2	Preferred	Carcinoma in situ, NOS
+8010/2	Synonym	Intraepithelial carcinoma, NOS
+8010/3	Preferred	Carcinoma, NOS
+8010/3	Synonym	Epithelial tumor, malignant
+8010/3	Related	Heterotopia-associated carcinoma
+8010/6	Preferred	Carcinoma, metastatic, NOS
+8010/6	Synonym	Secondary carcinoma
+8010/9	Preferred	Carcinomatosis
+8011/0	Preferred	Epithelioma, benign
+8011/3	Preferred	Epithelioma, malignant
+8011/3	Synonym	Epithelioma, NOS
+8012/3	Preferred	Large cell carcinoma, NOS
+8013/3	Preferred	Large cell neuroendocrine carcinoma
+8013/3	Related	Combined large cell neuroendocrine carcinoma
+8014/3	Preferred	Large cell carcinoma with rhabdoid phenotype
+8015/3	Preferred	Glassy cell carcinoma
+8020/3	Preferred	Carcinoma, undifferentiated, NOS
+8020/3	Related	Carcinoma, poorly differentiated, NOS
+8020/3	Related	Anaplastic undifferentiated carcinoma
+8020/3	Related	Dedifferentiated carcinoma
+8021/3	Preferred	Carcinoma, anaplastic, NOS
+8022/3	Preferred	Pleomorphic carcinoma
+8023/3	Preferred	Nuclear protein in testis (NUT)-associated carcinoma
+8023/3	Synonym	NUT carcinoma
+8023/3	Synonym	NUT midline carcinoma
+8030/3	Preferred	Giant cell and spindle cell carcinoma
+8031/3	Preferred	Giant cell carcinoma
+8032/3	Preferred	Spindle cell carcinoma, NOS
+8033/3	Preferred	Pseudosarcomatous carcinoma
+8033/3	Synonym	Sarcomatoid carcinoma
+8034/3	Preferred	Polygonal cell carcinoma
+8035/3	Preferred	Carcinoma with osteoclast-like giant cells
+8035/3	Related	Squamous carcinoma with osteoclast-like giant cells
+8035/3	Related	Undifferentiated carcinoma with osteoclast-like giant cells
+8040/0	Preferred	Tumorlet, benign
+8040/0	Related	Diffuse idiopathic neuroendocrine cell hyperplasia
+8040/1	Preferred	Tumorlet, NOS
+8041/3	Preferred	Small cell carcinoma, NOS
+8041/3	Synonym	Reserve cell carcinoma
+8041/3	Synonym	Round cell carcinoma
+8041/3	Related	Small cell neuroendocrine carcinoma
+8041/3	Synonym	Small cell carcinoma, pulmonary type
+8042/3	Preferred	Oat cell carcinoma
+8043/3	Preferred	Small cell carcinoma, fusiform cell
+8044/3	Preferred	Small cell carcinoma, intermediate cell
+8044/3	Related	Small cell carcinoma, hypercalcemic type
+8045/3	Preferred	Combined small cell carcinoma
+8045/3	Synonym	Mixed small cell carcinoma
+8045/3	Related	Combined small cell-adenocarcinoma
+8045/3	Related	Combined small cell-large cell carcinoma
+8045/3	Related	Combined small cell-squamous cell carcinoma
+8046/3	Preferred	Non-small cell carcinoma
+805-808	2	Squamous cell neoplasms
+8050/0	Preferred	Papilloma, NOS (except of bladder M-8120/0)
+8050/2	Preferred	Papillary carcinoma in situ, NOS
+8050/3	Preferred	Papillary carcinoma, NOS (except of thyroid M-8260/3)
+8051/0	Preferred	Verrucous papilloma
+8051/3	Preferred	Verrucous carcinoma, NOS
+8051/3	Synonym	Verrucous epidermoid carcinoma
+8051/3	Synonym	Verrucous squamous cell carcinoma
+8052/0	Preferred	Squamous cell papilloma, NOS
+8052/0	Synonym	Keratotic papilloma
+8052/0	Synonym	Squamous papilloma
+8052/0	Related	Benign keratosis, NOS (see also M-8070/0)
+8052/0	Related	Seborrhoeic keratosis
+8052/0	Related	Solar lentigo
+8052/0	Related	Lichen planus-like keratosis
+8052/2	Preferred	Papillary squamous cell carcinoma, non-invasive
+8052/2	Synonym	Papillary squamous cell carcinoma in situ
+8052/3	Preferred	Papillary squamous cell carcinoma
+8052/3	Synonym	Papillary epidermoid carcinoma
+8053/0	Preferred	Squamous cell papilloma, inverted
+8054/0	Preferred	Warty dyskeratoma
+8054/3	Preferred	Warty carcinoma
+8054/3	Synonym	Condylomatous carcinoma
+8054/3	Related	Warty-basaloid carcinoma
+8060/0	Preferred	Squamous papillomatosis
+8060/0	Synonym	Papillomatosis, NOS
+8070/0	Preferred	Actinic keratosis
+8070/0	Related	Arsenical keratosis
+8070/0	Related	PUVA keratosis
+8070/2	Preferred	Squamous cell carcinoma in situ, NOS
+8070/2	Synonym	Epidermoid carcinoma in situ, NOS
+8070/2	Synonym	Intraepidermal carcinoma, NOS
+8070/2	Synonym	Intraepithelial squamous cell carcinoma
+8070/3	Preferred	Squamous cell carcinoma, NOS
+8070/3	Synonym	Squamous cell carcinoma, usual type
+8070/3	Synonym	Epidermoid carcinoma, NOS
+8070/3	Synonym	Squamous carcinoma
+8070/3	Synonym	Squamous cell epithelioma
+8070/6	Preferred	Squamous cell carcinoma, metastatic, NOS
+8071/2	Preferred	Differentiated intraepithelial neoplasia
+8071/2	Related	Differentiated penile intraepithelial neoplasia (PeIN)
+8071/2	Related	Differentiated vulvar intraepithelial neoplasia (VIN)
+8071/3	Preferred	Squamous cell carcinoma, keratinizing, NOS
+8071/3	Synonym	Epidermoid carcinoma, keratinizing
+8071/3	Synonym	Squamous cell carcinoma, large cell, keratinizing
+8071/3	Related	Keratoacanthoma
+8072/0	Preferred	Large cell acanthoma
+8072/3	Preferred	Squamous cell carcinoma, large cell, nonkeratinizing, NOS
+8072/3	Synonym	Epidermoid carcinoma, large cell, nonkeratinizing
+8072/3	Synonym	Squamous cell carcinoma, nonkeratinizing, NOS
+8073/3	Preferred	Squamous cell carcinoma, small cell, nonkeratinizing
+8073/3	Synonym	Epidermoid carcinoma, small cell, nonkeratinizing
+8074/3	Preferred	Squamous cell carcinoma, spindle cell
+8074/3	Synonym	Epidermoid carcinoma, spindle cell
+8074/3	Synonym	Squamous cell carcinoma, sarcomatoid
+8074/3	Related	Pseudovascular squamous cell carcinoma
+8075/3	Preferred	Squamous cell carcinoma, adenoid
+8075/3	Synonym	Squamous cell carcinoma, acantholytic
+8075/3	Synonym	Squamous cell carcinoma, pseudoglandular
+8076/2	Preferred	Squamous cell carcinoma in situ with questionable stromal invasion
+8076/2	Synonym	Epidermoid carcinoma in situ with questionable stromal invasion
+8076/3	Preferred	Squamous cell carcinoma, microinvasive
+8077/0	Preferred	Squamous intraepithelial neoplasia, low grade
+8077/0	Synonym	Squamous intraepithelial neoplasia, grade I
+8077/0	Synonym	Low grade squamous intraepithelial lesion
+8077/0	Related	Anal intraepithelial neoplasia, low grade
+8077/0	Related	Cervical intraepithelial neoplasia, low grade
+8077/0	Related	Esophageal squamous intraepithelial neoplasia (dysplasia), low grade
+8077/2	Preferred	Squamous intraepithelial neoplasia, high grade
+8077/2	Synonym	Squamous intraepithelial neoplasia, grade II
+8077/2	Synonym	Squamous intraepithelial neoplasia, grade III
+8077/2	Synonym	Squamous dysplasia, high grade
+8077/2	Synonym	High grade squamous intraepithelial lesion
+8077/2	Related	Anal intraepithelial neoplasia, grade III
+8077/2	Synonym	AIN III
+8077/2	Related	Cervical intraepithelial neoplasia, grade III
+8077/2	Synonym	CIN III, NOS
+8077/2	Synonym	CIN III with severe dysplasia
+8077/2	Related	Esophageal squamous intraepithelial neoplasia (dysplasia), high grade
+8077/2	Related	Vaginal intraepithelial neoplasia, grade III
+8077/2	Synonym	VAIN III
+8077/2	Related	Vulvar intraepithelial neoplasia, grade III
+8077/2	Synonym	VIN III
+8078/3	Preferred	Squamous cell carcinoma with horn formation
+8080/2	Preferred	Queyrat erythroplasia
+8081/2	Preferred	Bowen disease
+8081/2	Synonym	Intraepidermal squamous cell carcinoma, Bowen type
+8082/3	Preferred	Lymphoepithelial carcinoma
+8082/3	Synonym	Lymphoepithelioma
+8082/3	Synonym	Lymphoepithelioma-like carcinoma
+8082/3	Related	Schmincke tumor
+8083/3	Preferred	Basaloid squamous cell carcinoma
+8083/3	Related	Papillary-basaloid carcinoma
+8084/0	Preferred	Clear cell acanthoma
+8084/3	Preferred	Squamous cell carcinoma, clear cell type
+8085/3	Preferred	Squamous cell carcinoma, HPV positive
+8086/3	Preferred	Squamous cell carcinoma, HPV negative
+809-811	2	Basal cell neoplasms
+8090/1	Preferred	Basal cell tumor
+8090/3	Preferred	Basal cell carcinoma, NOS (except of prostate M-8147/3)
+8090/3	Synonym	Basal cell epithelioma
+8090/3	Synonym	Rodent ulcer
+8090/3	Related	Pigmented basal cell carcinoma
+8090/3	Related	Basal cell carcinoma with adnexal differentiation
+8091/3	Preferred	Superficial basal cell carcinoma
+8091/3	Synonym	Multifocal superficial basal cell carcinoma
+8091/3	Synonym	Multicentric basal cell carcinoma
+8092/3	Preferred	Infiltrating basal cell carcinoma, NOS
+8092/3	Related	Infiltrating basal cell carcinoma, non-sclerosing
+8092/3	Related	Infiltrating basal cell carcinoma, sclerosing
+8092/3	Synonym	Basal cell carcinoma, desmoplastic type
+8092/3	Synonym	Basal cell carcinoma, morpheic
+8092/3	Related	Basal cell carcinoma, sarcomatoid
+8093/3	Preferred	Basal cell carcinoma, fibroepithelial
+8093/3	Synonym	Fibroepithelioma, NOS
+8093/3	Synonym	Fibroepithelioma of Pinkus type
+8093/3	Synonym	Fibroepithelial basal cell carcinoma, Pinkus type
+8093/3	Synonym	Pinkus tumor
+8094/3	Preferred	Basosquamous carcinoma
+8094/3	Synonym	Mixed basal-squamous cell carcinoma
+8095/3	Preferred	Metatypical carcinoma
+8096/0	Preferred	Intraepidermal epithelioma of Jadassohn
+8097/3	Preferred	Basal cell carcinoma, nodular
+8097/3	Related	Basal cell carcinoma, micronodular
+8098/3	Preferred	Adenoid basal carcinoma
+8100/0	Preferred	Trichoepithelioma
+8100/0	Synonym	Brooke tumor
+8100/0	Synonym	Epithelioma adenoides cysticum
+8100/0	Related	Trichoblastoma
+8100/0	Related	Trichogerminoma
+8100/3	Preferred	Trichoblastic carcinoma
+8100/3	Related	Trichoblastic carcinosarcoma
+8101/0	Preferred	Trichofolliculoma
+8102/0	Preferred	Trichilemmoma
+8102/3	Preferred	Trichilemmocarcinoma
+8102/3	Synonym	Trichilemmal carcinoma
+8103/0	Preferred	Pilar tumor
+8103/1	Preferred	Proliferating trichilemmal cyst
+8103/1	Synonym	Proliferating trichilemmal tumor
+8104/0	Preferred	Pilar sheath acanthoma
+8104/0	Related	Tumor of follicular infundibulum
+8110/0	Preferred	Pilomatricoma, NOS
+8110/0	Synonym	Pilomatrixoma, NOS
+8110/0	Synonym	Calcifying epithelioma of Malherbe
+8110/0	Related	Melanocytic matricoma
+8110/3	Preferred	Pilomatrical carcinoma
+8110/3	Synonym	Pilomatrix carcinoma
+8110/3	Synonym	Matrical carcinoma
+8110/3	Synonym	Pilomatricoma, malignant
+8110/3	Synonym	Pilomatrixoma, malignant
+812-813	2	Transitional cell papillomas and carcinomas
+8120/0	Preferred	Urothelial papilloma, NOS
+8120/0	Synonym	Transitional cell papilloma, benign
+8120/0	Synonym	Transitional papilloma
+8120/0	Synonym	Transitional cell papilloma, NOS
+8120/0	Synonym	Papilloma of bladder
+8120/2	Preferred	Urothelial carcinoma in situ
+8120/2	Synonym	Transitional cell carcinoma in situ
+8120/3	Preferred	Transitional cell carcinoma, NOS
+8120/3	Synonym	Urothelial carcinoma, NOS
+8120/3	Related	Transitional carcinoma
+8120/3	Related	Squamotransitional carcinoma
+8121/0	Preferred	Sinonasal papilloma, exophytic
+8121/0	Synonym	Schneiderian papilloma, NOS
+8121/0	Synonym	Sinonasal papilloma, NOS
+8121/0	Synonym	Sinonasal papilloma, fungiform
+8121/0	Related	Urothelial papilloma, inverted
+8121/0	Related	Transitional papilloma, inverted, NOS
+8121/0	Synonym	Transitional cell papilloma, inverted, NOS
+8121/1	Preferred	Sinonasal papilloma, inverted
+8121/1	Related	Columnar cell papilloma
+8121/1	Related	Cylindrical cell papilloma
+8121/1	Related	Schneiderian papilloma, oncocytic
+8121/1	Related	Schneiderian papilloma, inverted
+8121/1	Related	Sinonasal papilloma, oncocytic
+8121/3	Preferred	Schneiderian carcinoma
+8121/3	Related	Cylindrical cell carcinoma
+8122/3	Preferred	Urothelial carcinoma, sarcomatoid 
+8122/3	Synonym	Urothelial carcinoma, spindle cell
+8122/3	Synonym	Transitional cell carcinoma, spindle cell
+8122/3	Synonym	Transitional cell carcinoma, sarcomatoid
+8123/3	Preferred	Basaloid carcinoma
+8124/3	Preferred	Cloacogenic carcinoma
+8130/1	Preferred	Papillary urothelial neoplasm of low malignant potential
+8130/1	Synonym	Papillary transitional cell neoplasm of low malignant potential
+8130/2	Preferred	Papillary urothelial carcinoma, non-invasive
+8130/2	Synonym	Papillary transitional cell carcinoma, non-invasive
+8130/3	Preferred	Papillary urothelial carcinoma
+8130/3	Synonym	Papillary transitional cell carcinoma
+8131/3	Preferred	Urothelial carcinoma, micropapillary
+8131/3	Synonym	Transitional cell carcinoma, micropapillary
+814-838	2	Adenomas and adenocarcinomas
+8140/0	Preferred	Adenoma, NOS (except of pituitary M-8272/0 or nipple M-8506/0 or rete ovarii M-9110/0)
+8140/1	Preferred	Atypical adenoma
+8140/1	Synonym	Bronchial adenoma, NOS
+8140/2	Preferred	Adenocarcinoma in situ, NOS
+8140/3	Preferred	Adenocarcinoma, NOS (except of anal glands/ducts M-8215/3 or rete ovarii M-9110/3)
+8140/3	Synonym	Adenocarcinoma, usual type
+8140/3	Related	Carcinoma of Skene, Cowper and Littre glands
+8140/3	Related	Endolymphatic sac tumor
+8140/3	Related	Parathyroid carcinoma
+8140/3	Related	Acinar adenocarcinoma of prostate
+8140/6	Preferred	Adenocarcinoma, metastatic, NOS
+8141/3	Preferred	Scirrhous adenocarcinoma
+8141/3	Synonym	Carcinoma with productive fibrosis
+8141/3	Synonym	Scirrhous carcinoma
+8142/3	Preferred	Linitis plastica
+8143/3	Preferred	Superficial spreading adenocarcinoma
+8144/0	Preferred	Adenoma, intestinal type
+8144/3	Preferred	Adenocarcinoma, intestinal type
+8144/3	Synonym	Adenocarcinoma, enteric
+8144/3	Synonym	Carcinoma, intestinal type
+8144/3	Synonym	Mucinous carcinoma, intestinal type
+8145/3	Preferred	Carcinoma, diffuse type
+8145/3	Synonym	Adenocarcinoma, diffuse type
+8146/0	Preferred	Monomorphic adenoma
+8147/0	Preferred	Basal cell adenoma
+8147/3	Preferred	Basal cell adenocarcinoma
+8147/3	Related	Basal cell carcinoma of prostate
+8148/0	Preferred	Glandular intraepithelial neoplasia, low grade
+8148/0	Synonym	Glandular intraepithelial neoplasia, grade I
+8148/0	Synonym	Glandular intraepithelial neoplasia, grade II
+8148/0	Related	Biliary intraepithelial neoplasia, low grade
+8148/0	Related	Esophageal glandular dysplasia (intraepithelial neoplasia), low grade
+8148/2	Preferred	Glandular intraepithelial neoplasia, high grade
+8148/2	Synonym	Glandular intraepithelial neoplasia, grade III
+8148/2	Synonym	Flat intraepithelial neoplasia, high grade
+8148/2	Related	Biliary intraepithelial neoplasia, high grade
+8148/2	Synonym	Biliary intraepithelial neoplasia, grade 3 (BilIN-3)
+8148/2	Related	Esophageal glandular dysplasia (intraepithelial neoplasia), high grade
+8148/2	Synonym	Esophageal intraepithelial neoplasia, high grade
+8148/2	Related	Prostatic intraepithelial neoplasia, grade III
+8148/2	Synonym	PIN III
+8148/2	Synonym	Prostatic intraepithelial neoplasia, high grade
+8149/0	Preferred	Canalicular adenoma
+8150/0	Preferred	Pancreatic neuroendocrine microadenoma
+8150/0	Synonym	Pancreatic endocrine tumor, benign
+8150/0	Synonym	Islet cell tumor, benign
+8150/0	Related	Pancreatic microadenoma
+8150/3	Preferred	Pancreatic neuroendocrine tumor, nonfunctioning
+8150/3	Synonym	Pancreatic endocrine tumor, nonfunctioning
+8150/3	Synonym	Pancreatic endocrine tumor, NOS
+8150/3	Related	Islet cell adenoma
+8150/3	Related	Islet cell adenomatosis
+8150/3	Related	Nesidioblastoma
+8150/3	Related	Islet cell tumor, NOS
+8150/3	Related	Islet cell adenocarcinoma
+8150/3	Related	Islet cell carcinoma
+8151/3	Preferred	Insulinoma, NOS
+8151/3	Synonym	Beta cell adenoma
+8151/3	Synonym	Beta cell tumor
+8152/3	Preferred	Glucagonoma
+8152/3	Synonym	Alpha cell tumor
+8152/3	Related	Enteroglucagonoma
+8152/3	Related	Glucagon-like peptide-producing tumor
+8152/3	Related	L-cell tumor
+8152/3	Related	Pancreatic peptide and pancreatic peptide-like peptide within terminal tyrosine amide producing tumor
+8152/3	Synonym	PP/PYY producing tumor
+8153/3	Preferred	Gastrinoma
+8153/3	Synonym	G cell tumor
+8153/3	Synonym	Gastrin cell tumor
+8154/3	Preferred	Mixed neuroendocrine non-neuroendocrine neoplasm (MiNEN)
+8154/3	Related	Mixed pancreatic endocrine and exocrine tumor, malignant
+8154/3	Synonym	Mixed islet cell and exocrine adenocarcinoma
+8154/3	Related	Mixed acinar-endocrine carcinoma
+8154/3	Synonym	Mixed acinar-neuroendocrine carcinoma
+8154/3	Related	Mixed acinar-endocrine-ductal carcinoma
+8154/3	Related	Mixed ductal-endocrine carcinoma
+8154/3	Synonym	Mixed ductal-neuroendocrine carcinoma
+8154/3	Related	Mixed endocrine and exocrine adenocarcinoma
+8155/3	Preferred	Vipoma
+8156/3	Preferred	Somatostatinoma
+8156/3	Synonym	Somatostatin cell tumor
+8158/3	Preferred	ACTH-producing tumor
+8158/3	Related	Endocrine tumor, functioning, NOS
+8160/0	Preferred	Bile duct adenoma
+8160/0	Synonym	Cholangioma
+8160/3	Preferred	Cholangiocarcinoma
+8160/3	Synonym	Bile duct adenocarcinoma
+8160/3	Synonym	Bile duct carcinoma
+8161/0	Preferred	Bile duct cystadenoma
+8161/3	Preferred	Bile duct cystadenocarcinoma
+8162/3	Preferred	Perihilar cholangiocarcinoma
+8162/3	Synonym	Klatskin tumor
+8163/0	Preferred	Pancreatobiliary neoplasm, non-invasive
+8163/0	Synonym	Non-invasive pancreatobiliary papillary neoplasm with low grade dysplasia
+8163/0	Synonym	Non-invasive pancreatobiliary papillary neoplasm with low grade intraepithelial neoplasia
+8163/2	Preferred	Papillary neoplasm, pancreatobiliary type, with high grade intraepithelial neoplasia
+8163/2	Synonym	Non-invasive pancreatobiliary papillary neoplasm with high grade dysplasia
+8163/2	Synonym	Non-invasive pancreatobiliary papillary neoplasm with high grade intraepithelial neoplasia
+8163/3	Preferred	Pancreatobiliary type carcinoma
+8163/3	Synonym	Adenocarcinoma, pancreatobiliary type
+8170/0	Preferred	Liver cell adenoma
+8170/0	Synonym	Hepatocellular adenoma
+8170/0	Synonym	Hepatoma, benign
+8170/3	Preferred	Hepatocellular carcinoma, NOS
+8170/3	Synonym	Hepatoma, NOS
+8170/3	Synonym	Hepatocarcinoma
+8170/3	Synonym	Hepatoma, malignant
+8170/3	Synonym	Liver cell carcinoma
+8171/3	Preferred	Hepatocellular carcinoma, fibrolamellar
+8172/3	Preferred	Hepatocellular carcinoma, scirrhous
+8172/3	Synonym	Sclerosing hepatic carcinoma
+8173/3	Preferred	Hepatocellular carcinoma, spindle cell variant
+8173/3	Synonym	Hepatocellular carcinoma, sarcomatoid
+8174/3	Preferred	Hepatocellular carcinoma, clear cell type
+8175/3	Preferred	Hepatocellular carcinoma, pleomorphic type
+8180/3	Preferred	Combined hepatocellular carcinoma and cholangiocarcinoma
+8180/3	Synonym	Hepatocholangiocarcinoma
+8180/3	Synonym	Mixed hepatocellular and bile duct carcinoma
+8190/0	Preferred	Trabecular adenoma
+8190/3	Preferred	Trabecular adenocarcinoma
+8190/3	Synonym	Trabecular carcinoma
+8191/0	Preferred	Embryonal adenoma
+8200/0	Preferred	Eccrine dermal cylindroma
+8200/0	Related	Cylindroma of skin
+8200/0	Related	Cylindroma of breast
+8200/0	Related	Turban tumor
+8200/3	Preferred	Adenoid cystic carcinoma
+8200/3	Synonym	Cylindroma, NOS (except of skin or breast M-8200/0)
+8200/3	Synonym	Adenocarcinoma, cylindroid
+8200/3	Synonym	Adenocystic carcinoma
+8200/3	Related	Bronchial adenoma, cylindroid
+8200/3	Related	Thymic carcinoma with adenoid cystic carcinoma-like features
+8201/2	Preferred	Cribriform carcinoma in situ
+8201/2	Synonym	Ductal carcinoma in situ, cribriform type
+8201/3	Preferred	Cribriform carcinoma, NOS
+8201/3	Synonym	Ductal carcinoma, cribriform type
+8201/3	Related	Cribriform comedo type carcinoma
+8201/3	Synonym	Adenocarcinoma, cribriform comedo type
+8202/0	Preferred	Microcystic adenoma
+8204/0	Preferred	Lactating adenoma
+8210/0	Preferred	Adenomatous polyp, NOS
+8210/0	Synonym	Polypoid adenoma
+8210/2	Preferred	Adenocarcinoma in situ in adenomatous polyp
+8210/2	Synonym	Adenocarcinoma in situ in polyp, NOS
+8210/2	Synonym	Carcinoma in situ in polyp, NOS
+8210/2	Synonym	Adenocarcinoma in situ in polypoid adenoma
+8210/2	Synonym	Adenocarcinoma in situ in tubular adenoma
+8210/2	Synonym	Carcinoma in situ in adenomatous polyp
+8210/3	Preferred	Adenocarcinoma in adenomatous polyp
+8210/3	Synonym	Adenocarcinoma in polyp, NOS
+8210/3	Synonym	Carcinoma in polyp, NOS
+8210/3	Synonym	Adenocarcinoma in polypoid adenoma
+8210/3	Synonym	Adenocarcinoma in tubular adenoma
+8210/3	Synonym	Carcinoma in adenomatous polyp
+8211/0	Preferred	Tubular adenoma, NOS
+8211/3	Preferred	Tubular adenocarcinoma
+8211/3	Synonym	Tubular carcinoma
+8212/0	Preferred	Flat adenoma
+8213/0	Preferred	Serrated adenoma, NOS
+8213/0	Synonym	Traditional serrated adenoma
+8213/0	Related	Mixed adenomatous and hyperplastic polyp
+8213/0	Related	Sessile serrated adenoma, NOS
+8213/0	Related	Sessile serrated polyp
+8213/0	Related	Traditional sessile serrated adenoma
+8213/3	Preferred	Serrated adenocarcinoma
+8214/3	Preferred	Parietal cell carcinoma
+8214/3	Synonym	Parietal cell adenocarcinoma
+8215/3	Preferred	Adenocarcinoma of anal glands
+8215/3	Synonym	Adenocarcinoma of anal ducts
+8220/0	Preferred	Adenomatous polyposis coli
+8220/0	Synonym	Adenomatosis, NOS
+8220/0	Synonym	Familial polyposis coli
+8220/3	Preferred	Adenocarcinoma in adenomatous polyposis coli
+8221/0	Preferred	Multiple adenomatous polyps
+8221/3	Preferred	Adenocarcinoma in multiple adenomatous polyps
+8230/2	Preferred	Ductal carcinoma in situ, solid type
+8230/2	Synonym	Intraductal carcinoma, solid type
+8230/3	Preferred	Solid carcinoma, NOS
+8230/3	Synonym	Solid adenocarcinoma, NOS
+8230/3	Related	Solid carcinoma with mucin formation
+8230/3	Synonym	Solid adenocarcinoma with mucin formation
+8231/3	Preferred	Carcinoma simplex
+8240/3	Preferred	Neuroendocrine tumor, NOS
+8240/3	Synonym	Carcinoid tumor, NOS
+8240/3	Synonym	Carcinoid, NOS
+8240/3	Related	Bronchial adenoma, carcinoid
+8240/3	Synonym	Neuroendocrine carcinoma, low grade
+8240/3	Synonym	Neuroendocrine carcinoma, well differentiated
+8240/3	Related	Neuroendocrine tumor, grade 1
+8240/3	Synonym	Typical carcinoid
+8241/3	Preferred	Enterochromaffin cell carcinoid
+8241/3	Synonym	Argentaffinoma
+8241/3	Synonym	Carcinoid tumor, argentaffin
+8241/3	Synonym	EC cell carcinoid
+8241/3	Synonym	Serotonin producing carcinoid
+8241/3	Synonym	Serotonin producing tumor
+8242/3	Preferred	Enterochromaffin-like cell tumor
+8242/3	Synonym	ECL cell carcinoid
+8243/3	Preferred	Goblet cell carcinoid
+8243/3	Synonym	Mucinous carcinoid
+8243/3	Synonym	Mucocarcinoid tumor
+8244/3	Preferred	Mixed adenoneuroendocrine carcinoma
+8244/3	Synonym	Combined carcinoid and adenocarcinoma
+8244/3	Synonym	Mixed carcinoid and adenocarcinoma
+8244/3	Synonym	Composite carcinoid
+8244/3	Synonym	MANEC
+8244/3	Synonym	Mixed carcinoid-adenocarcinoma
+8245/1	Preferred	Tubular carcinoid
+8245/3	Preferred	Adenocarcinoid tumor
+8246/3	Preferred	Neuroendocrine carcinoma, NOS
+8246/3	Synonym	Poorly differentiated neuroendocrine neoplasm
+8247/3	Preferred	Merkel cell carcinoma
+8247/3	Synonym	Merkel cell tumor
+8247/3	Synonym	Primary cutaneous neuroendocrine carcinoma
+8248/1	Preferred	Apudoma
+8249/3	Preferred	Neuroendocrine tumor, grade 2
+8249/3	Synonym	Atypical carcinoid tumor
+8249/3	Related	Neuroendocrine carcinoma, moderately differentiated
+8249/3	Related	Neuroendocrine tumor, grade 3
+8250/0	Preferred	Atypical adenomatous hyperplasia
+8250/1	Preferred	Pulmonary adenomatosis
+8250/2	Preferred	Adenocarcinoma in situ of lung, non-mucinous
+8250/3	Preferred	Lepidic adenocarcinoma
+8250/3	Synonym	Bronchiolo-alveolar adenocarcinoma, NOS
+8250/3	Synonym	Bronchiolo-alveolar carcinoma, NOS
+8250/3	Synonym	Alveolar cell carcinoma
+8250/3	Synonym	Bronchiolar adenocarcinoma
+8250/3	Synonym	Bronchiolar carcinoma
+8251/0	Preferred	Alveolar adenoma
+8251/3	Preferred	Alveolar adenocarcinoma
+8251/3	Synonym	Alveolar carcinoma
+8252/3	Preferred	Bronchiolo-alveolar carcinoma, non-mucinous
+8252/3	Synonym	Bronchiolo-alveolar carcinoma, Clara cell
+8252/3	Synonym	Bronchiolo-alveolar carcinoma, type II pneumocyte
+8253/2	Preferred	Adenocarcinoma in situ of lung, mucinous
+8253/3	Preferred	Adenocarcinoma of lung, mucinous
+8253/3	Synonym	Bronchiolo-alveolar carcinoma, mucinous
+8253/3	Synonym	Bronchiolo-alveolar carcinoma, goblet cell type
+8254/3	Preferred	Adenocarcinoma of lung, mixed mucinous and non-mucinous
+8254/3	Synonym	Bronchiolo-alveolar carcinoma, mixed mucinous and non-mucinous
+8254/3	Synonym	Bronchiolo-alveolar carcinoma, Clara cell and goblet cell type
+8254/3	Synonym	Bronchiolo-alveolar carcinoma, indeterminate type
+8254/3	Synonym	Bronchiolo-alveolar carcinoma, type II pneumocyte and goblet cell type
+8255/3	Preferred	Adenocarcinoma with mixed subtypes
+8255/3	Synonym	Adenocarcinoma combined with other types of carcinoma
+8256/3	Preferred	Minimally invasive adenocarcinoma, non-mucinous
+8257/3	Preferred	Minimally invasive adenocarcinoma, mucinous
+8260/0	Preferred	Papillary adenoma, NOS
+8260/0	Related	Glandular papilloma
+8260/1	Preferred	Aggressive papillary tumor
+8260/3	Preferred	Papillary adenocarcinoma, NOS
+8260/3	Related	Papillary carcinoma of thyroid
+8260/3	Related	Papillary renal cell carcinoma
+8261/0	Preferred	Villous adenoma, NOS
+8261/0	Related	Villous papilloma
+8261/2	Preferred	Adenocarcinoma in situ in villous adenoma
+8261/3	Preferred	Adenocarcinoma in villous adenoma
+8262/3	Preferred	Villous adenocarcinoma
+8263/0	Preferred	Tubulovillous adenoma, NOS
+8263/0	Synonym	Villoglandular adenoma
+8263/0	Related	Papillotubular adenoma
+8263/0	Synonym	Tubulo-papillary adenoma
+8263/2	Preferred	Adenocarcinoma in situ in tubulovillous adenoma
+8263/3	Preferred	Adenocarcinoma in tubulovillous adenoma
+8263/3	Related	Villoglandular carcinoma
+8263/3	Related	Villoglandular variant of endometrioid adenocarcinoma
+8263/3	Related	Papillotubular adenocarcinoma
+8263/3	Synonym	Tubulopapillary adenocarcinoma
+8264/0	Preferred	Papillomatosis, glandular
+8264/0	Related	Biliary papillomatosis
+8265/3	Preferred	Micropapillary carcinoma, NOS
+8265/3	Related	Micropapillary adenocarcinoma
+8270/0	Preferred	Chromophobe adenoma
+8270/3	Preferred	Chromophobe carcinoma
+8270/3	Synonym	Chromophobe adenocarcinoma
+8271/0	Preferred	Lactotroph adenoma
+8271/0	Synonym	Prolactinoma
+8272/0	Preferred	Pituitary adenoma, NOS
+8272/0	Related	Corticotroph adenoma
+8272/0	Related	Null cell adenoma
+8272/0	Related	Plurihormonal adenoma
+8272/0	Related	Gonodotroph adenoma
+8272/0	Related	Somatotroph adenoma
+8272/0	Related	Thyrotroph adenoma
+8272/0	Related	Pituitary adenoma, ectopic
+8272/3	Preferred	Pituitary carcinoma, NOS
+8273/3	Preferred	Pituitary blastoma
+8280/0	Preferred	Acidophil adenoma
+8280/0	Synonym	Eosinophil adenoma
+8280/3	Preferred	Acidophil carcinoma
+8280/3	Synonym	Acidophil adenocarcinoma
+8280/3	Synonym	Eosinophil adenocarcinoma
+8280/3	Synonym	Eosinophil carcinoma
+8281/0	Preferred	Mixed acidophil-basophil adenoma
+8281/3	Preferred	Mixed acidophil-basophil carcinoma
+8290/0	Preferred	Oxyphilic adenoma
+8290/0	Synonym	Oncocytic adenoma
+8290/0	Synonym	Oncocytoma
+8290/0	Related	Follicular adenoma, oxyphilic cell
+8290/0	Related	Hurthle cell adenoma
+8290/0	Related	Hurthle cell tumor
+8290/0	Related	Spindle cell oncocytoma
+8290/0	Related	Oncocytic papillary cystadenoma
+8290/3	Preferred	Oxyphilic adenocarcinoma
+8290/3	Synonym	Oncocytic adenocarcinoma
+8290/3	Synonym	Oncocytic carcinoma
+8290/3	Related	Hurthle cell carcinoma
+8290/3	Related	Hurthle cell adenocarcinoma
+8290/3	Related	Follicular carcinoma, oxyphilic cell
+8300/0	Preferred	Basophil adenoma
+8300/0	Synonym	Mucoid cell adenoma
+8300/3	Preferred	Basophil carcinoma
+8300/3	Synonym	Basophil adenocarcinoma
+8300/3	Synonym	Mucoid cell adenocarcinoma
+8310/0	Preferred	Clear cell adenoma
+8310/3	Preferred	Clear cell adenocarcinoma, NOS
+8310/3	Synonym	Clear cell carcinoma, NOS
+8310/3	Related	Clear cell adenocarcinoma, mesonephroid
+8310/3	Related	Clear cell renal cell carcinoma, NOS
+8311/1	Preferred	Hypernephroid tumor
+8311/3	Preferred	Hereditary leiomyomatosis and renal cell carcinoma (HLRCC) syndrome-associated renal cell carcinoma
+8311/3	Related	MiT family translocation carcinoma
+8311/3	Related	Succinate dehydrogenase deficient renal cell carcinoma
+8312/3	Preferred	Renal cell carcinoma, NOS
+8312/3	Synonym	Renal cell adenocarcinoma
+8312/3	Related	Renal cell carcinoma, unclassified
+8312/3	Synonym	Grawitz tumor
+8312/3	Synonym	Hypernephroma
+8313/0	Preferred	Clear cell adenofibroma
+8313/0	Synonym	Clear cell cystadenofibroma
+8313/1	Preferred	Clear cell borderline tumor
+8313/1	Synonym	Clear cell tumor, atypical proliferative
+8313/1	Synonym	Clear cell cystic tumor of borderline malignancy
+8313/1	Related	Clear cell adenofibroma of borderline malignancy
+8313/1	Synonym	Clear cell cystadenofibroma of borderline malignancy
+8313/3	Preferred	Clear cell adenocarcinofibroma
+8313/3	Synonym	Clear cell cystadenocarcinofibroma
+8314/3	Preferred	Lipid-rich carcinoma
+8315/3	Preferred	Glycogen-rich carcinoma
+8315/3	Synonym	Glycogen-rich clear cell carcinoma
+8316/1	Preferred	Multilocular cystic renal neoplasm of low malignant potential 
+8316/3	Preferred	Cyst-associated renal cell carcinoma
+8316/3	Related	Acquired cystic disease-associated renal cell carcinoma
+8316/3	Related	Tubulocystic renal cell carcinoma
+8317/3	Preferred	Renal cell carcinoma, chromophobe type
+8317/3	Synonym	Chromophobe cell renal carcinoma
+8317/3	Related	Hybrid oncocytic chromophobe tumor
+8318/3	Preferred	Renal cell carcinoma, sarcomatoid
+8318/3	Synonym	Renal cell carcinoma, spindle cell
+8319/3	Preferred	Collecting duct carcinoma
+8319/3	Synonym	Bellini duct carcinoma
+8319/3	Synonym	Renal carcinoma, collecting duct type
+8320/3	Preferred	Granular cell carcinoma
+8320/3	Synonym	Granular cell adenocarcinoma
+8321/0	Preferred	Chief cell adenoma
+8322/0	Preferred	Water-clear cell adenoma
+8322/3	Preferred	Water-clear cell adenocarcinoma
+8322/3	Synonym	Water-clear cell carcinoma
+8323/0	Preferred	Mixed cell adenoma
+8323/1	Preferred	Clear cell papillary renal cell carcinoma
+8323/3	Preferred	Mixed cell adenocarcinoma
+8324/0	Preferred	Lipoadenoma
+8324/0	Synonym	Adenolipoma
+8325/0	Preferred	Metanephric adenoma
+8330/0	Preferred	Follicular adenoma, NOS
+8330/1	Preferred	Atypical follicular adenoma
+8330/3	Preferred	Follicular carcinoma, NOS
+8330/3	Synonym	Follicular adenocarcinoma, NOS
+8331/3	Preferred	Follicular adenocarcinoma, well differentiated
+8331/3	Synonym	Follicular carcinoma, well differentiated
+8332/3	Preferred	Follicular adenocarcinoma, trabecular
+8332/3	Synonym	Follicular carcinoma, trabecular
+8332/3	Related	Follicular adenocarcinoma, moderately differentiated
+8332/3	Synonym	Follicular carcinoma, moderately differentiated
+8333/0	Preferred	Microfollicular adenoma, NOS
+8333/0	Synonym	Fetal adenoma
+8333/3	Preferred	Fetal adenocarcinoma
+8334/0	Preferred	Macrofollicular adenoma
+8334/0	Synonym	Colloid adenoma
+8335/1	Preferred	Follicular tumor of uncertain malignant potential
+8335/1	Synonym	Follicular carcinoma, encapsulated, NOS
+8335/3	Preferred	Follicular carcinoma, minimally invasive
+8336/1	Preferred	Hyalinizing trabecular tumor
+8336/1	Synonym	Hyalinizing trabecular adenoma
+8337/3	Preferred	Poorly differentiated thyroid carcinoma
+8337/3	Synonym	Insular carcinoma
+8339/3	Preferred	Follicular carcinoma, encapsulated, angioinvasive
+8340/3	Preferred	Papillary carcinoma, follicular variant
+8340/3	Synonym	Papillary adenocarcinoma, follicular variant
+8340/3	Related	Papillary and follicular adenocarcinoma
+8340/3	Related	Papillary and follicular carcinoma
+8341/3	Preferred	Papillary microcarcinoma
+8342/3	Preferred	Papillary carcinoma, oncocytic variant
+8342/3	Synonym	Papillary carcinoma, oxyphilic cell
+8343/3	Preferred	Papillary carcinoma, encapsulated, of thyroid
+8344/3	Preferred	Papillary carcinoma, columnar cell
+8344/3	Synonym	Papillary carcinoma, tall cell
+8345/3	Preferred	Medullary thyroid carcinoma
+8345/3	Synonym	C cell carcinoma
+8345/3	Synonym	Parafollicular cell carcinoma
+8345/3	Related	Medullary carcinoma with amyloid stroma
+8346/3	Preferred	Mixed medullary-follicular carcinoma
+8347/3	Preferred	Mixed medullary-papillary carcinoma
+8348/1	Preferred	Well differentiated tumor of uncertain malignant potential
+8349/1	Preferred	Non-invasive follicular thyroid neoplasm with papillary-like nuclear features (NIFTP)
+8350/3	Preferred	Nonencapsulated sclerosing carcinoma
+8350/3	Synonym	Nonencapsulated sclerosing adenocarcinoma
+8350/3	Synonym	Nonencapsulated sclerosing tumor
+8350/3	Related	Papillary carcinoma, diffuse sclerosing
+8360/1	Preferred	Multiple endocrine adenomas
+8360/1	Synonym	Endocrine adenomatosis
+8361/0	Preferred	Juxtaglomerular tumor
+8361/0	Synonym	Juxtaglomerular cell tumor
+8361/0	Synonym	Reninoma
+8370/0	Preferred	Adrenal cortical adenoma, NOS
+8370/0	Synonym	Adrenal cortical tumor, NOS
+8370/0	Synonym	Adrenal cortical tumor, benign
+8370/3	Preferred	Adrenal cortical carcinoma
+8370/3	Synonym	Adrenal cortical adenocarcinoma
+8370/3	Synonym	Adrenal cortical tumor, malignant
+8371/0	Preferred	Adrenal cortical adenoma, compact cell
+8372/0	Preferred	Adrenal cortical adenoma, pigmented
+8372/0	Synonym	Black adenoma
+8372/0	Synonym	Pigmented adenoma
+8373/0	Preferred	Adrenal cortical adenoma, clear cell
+8374/0	Preferred	Adrenal cortical adenoma, glomerulosa cell
+8375/0	Preferred	Adrenal cortical adenoma, mixed cell
+8380/0	Preferred	Endometrioid adenoma, NOS
+8380/0	Synonym	Endometrioid cystadenoma, NOS
+8380/1	Preferred	Endometrioid adenoma, borderline malignancy
+8380/1	Synonym	Endometrioid tumor, borderline
+8380/1	Synonym	Atypical proliferative endometrioid tumor
+8380/1	Synonym	Endometrioid cystadenoma, borderline malignancy
+8380/1	Synonym	Endometrioid tumor of low malignant potential
+8380/2	Preferred	Endometrioid intraepithelial neoplasia
+8380/2	Synonym	Atypical hyperplasia of endometrium
+8380/3	Preferred	Endometrioid adenocarcinoma, NOS
+8380/3	Synonym	Endometrioid carcinoma, NOS
+8380/3	Related	Endometrioid cystadenocarcinoma
+8381/0	Preferred	Endometrioid adenofibroma, NOS
+8381/0	Synonym	Endometrioid cystadenofibroma, NOS
+8381/1	Preferred	Endometrioid adenofibroma, borderline malignancy
+8381/1	Synonym	Endometrioid cystadenofibroma, borderline malignancy
+8381/3	Preferred	Endometrioid adenofibroma, malignant
+8381/3	Synonym	Endometrioid cystadenofibroma, malignant
+8382/3	Preferred	Endometrioid adenocarcinoma, secretory variant
+8383/3	Preferred	Endometrioid adenocarcinoma, ciliated cell variant
+8384/3	Preferred	Adenocarcinoma, endocervical type, NOS
+839-842	2	Adnexal and skin appendage neoplasms
+8390/0	Preferred	Skin appendage adenoma
+8390/0	Synonym	Adnexal tumor, benign
+8390/0	Synonym	Skin appendage tumor, benign
+8390/3	Preferred	Adnexal adenocarcinoma, NOS
+8390/3	Synonym	Skin appendage carcinoma
+8390/3	Synonym	Adnexal carcinoma
+8391/0	Preferred	Follicular fibroma
+8391/0	Synonym	Fibrofolliculoma
+8391/0	Synonym	Perifollicular fibroma
+8391/0	Synonym	Trichodiscoma
+8391/0	Related	Spindle cell predominant trichodiscoma
+8392/0	Preferred	Syringofibroadenoma
+8400/0	Preferred	Sweat gland adenoma
+8400/0	Synonym	Syringadenoma, NOS
+8400/0	Synonym	Sweat gland tumor, benign
+8400/1	Preferred	Sweat gland tumor, NOS
+8400/3	Preferred	Sweat gland adenocarcinoma
+8400/3	Synonym	Sweat gland carcinoma
+8400/3	Synonym	Sweat gland tumor, malignant
+8401/0	Preferred	Apocrine adenoma
+8401/0	Synonym	Apocrine cystadenoma
+8401/3	Preferred	Apocrine adenocarcinoma
+8401/3	Synonym	Apocrine carcinoma
+8402/0	Preferred	Hidradenoma, NOS
+8402/0	Synonym	Nodular hidradenoma
+8402/0	Related	Clear cell hidradenoma
+8402/0	Related	Eccrine acrospiroma
+8402/3	Preferred	Hidradenocarcinoma
+8402/3	Synonym	Nodular hidradenoma, malignant
+8403/0	Preferred	Spiradenoma, NOS
+8403/0	Synonym	Eccrine spiradenoma
+8403/3	Preferred	Malignant eccrine spiradenoma
+8403/3	Related	Malignant neoplasm arising from pre-existing spiradenoma
+8403/3	Related	Malignant neoplasm arising from pre-existing cylindroma
+8403/3	Related	Malignant neoplasm arising from pre-existing spiradenocylindroma
+8404/0	Preferred	Hidrocystoma
+8404/0	Synonym	Hidrocystadenoma
+8404/0	Synonym	Eccrine cystadenoma
+8405/0	Preferred	Papillary hidradenoma
+8405/0	Synonym	Hidradenoma papilliferum
+8406/0	Preferred	Syringocystadenoma papilliferum
+8406/0	Synonym	Papillary syringadenoma
+8406/0	Synonym	Papillary syringocystadenoma
+8406/0	Related	Sialadenoma papilliferum
+8406/3	Preferred	Syringocystadenocarcinoma papilliferum
+8407/0	Preferred	Syringoma, NOS
+8407/0	Related	Syringomatous tumor of nipple
+8407/0	Synonym	Syringomatous adenoma of nipple
+8407/0	Synonym	Infiltrating syringomatous adenoma of nipple
+8407/3	Preferred	Microcystic adnexal carcinoma
+8407/3	Synonym	Sclerosing sweat duct carcinoma
+8407/3	Synonym	Syringomatous carcinoma
+8408/0	Preferred	Eccrine papillary adenoma
+8408/3	Preferred	Digital papillary adenocarcinoma
+8408/3	Synonym	Aggressive digital papillary adenoma
+8408/3	Synonym	Eccrine papillary adenocarcinoma
+8409/0	Preferred	Poroma, NOS
+8409/0	Related	Eccrine poroma, NOS
+8409/0	Related	Apocrine poroma
+8409/2	Preferred	Porocarcinoma in situ
+8409/3	Preferred	Porocarcinoma, NOS
+8409/3	Synonym	Eccrine poroma, malignant
+8410/0	Preferred	Sebaceoma
+8410/0	Related	Sebaceous adenoma
+8410/0	Related	Sebaceous epithelioma
+8410/3	Preferred	Sebaceous carcinoma
+8410/3	Synonym	Sebaceous adenocarcinoma
+8413/3	Preferred	Eccrine adenocarcinoma
+8420/0	Preferred	Ceruminous adenoma
+8420/3	Preferred	Ceruminous adenocarcinoma
+8420/3	Synonym	Ceruminous carcinoma
+843	2	Mucoepidermoid neoplasms
+8430/1	Preferred	Mucoepidermoid tumor
+8430/3	Preferred	Mucoepidermoid carcinoma
+844-849	2	Cystic, mucinous and serous neoplasms
+8440/0	Preferred	Cystadenoma, NOS
+8440/0	Synonym	Cystoma, NOS
+8440/3	Preferred	Cystadenocarcinoma, NOS
+8441/0	Preferred	Serous cystadenoma, NOS
+8441/0	Synonym	Serous cystoma
+8441/0	Related	Serous microcystic adenoma
+8441/0	Synonym	Papillary serous cystadenoma, NOS
+8441/2	Preferred	Serous intraepithelial carcinoma
+8441/2	Related	Serous tubal intraepithelial carcinoma (STIC)
+8441/2	Related	Serous endometrial intraepithelial carcinoma
+8441/3	Preferred	Serous carcinoma, NOS
+8441/3	Synonym	Serous cystadenocarcinoma, NOS
+8441/3	Synonym	Serous adenocarcinoma, NOS
+8441/3	Synonym	Serous papillary adenocarcinoma, NOS
+8441/3	Synonym	Papillary serous cystadenocarcinoma
+8441/3	Synonym	Papillary serous adenocarcinoma
+8441/3	Synonym	Serous surface papillary carcinoma
+8442/1	Preferred	Serous borderline tumor, NOS
+8442/1	Synonym	Serous tumor, atypical proliferative
+8442/1	Synonym	Serous cystadenoma, borderline malignancy
+8442/1	Synonym	Serous tumor, NOS, of low malignant potential
+8442/1	Synonym	Serous papillary cystic tumor of borderline malignancy
+8442/1	Synonym	Atypical proliferative papillary serous tumor
+8442/1	Synonym	Papillary serous cystadenoma, borderline malignancy
+8442/1	Synonym	Papillary serous tumor of low malignant potential
+8442/1	Synonym	Serous surface papillary tumor of borderline malignancy
+8443/0	Preferred	Clear cell cystadenoma
+8450/0	Preferred	Papillary cystadenoma, NOS
+8450/0	Related	Papillary cystadenofibroma
+8450/3	Preferred	Papillary cystadenocarcinoma, NOS
+8450/3	Synonym	Papillocystic adenocarcinoma
+8451/1	Preferred	Papillary cystadenoma, borderline malignancy
+8452/1	Preferred	Solid pseudopapillary tumor of ovary
+8452/1	Synonym	Papillary cystic tumor
+8452/1	Synonym	Solid and cystic tumor
+8452/1	Synonym	Solid and papillary epithelial neoplasm
+8452/3	Preferred	Solid pseudopapillary neoplasm of pancreas
+8452/3	Related	Solid pseudopapillary carcinoma
+8453/0	Preferred	Intraductal papillary mucinous adenoma
+8453/0	Related	Intraductal papillary mucinous tumor with intermediate dysplasia
+8453/0	Related	Intraductal papillary mucinous tumor with low grade dysplasia
+8453/0	Synonym	Intraductal papillary mucinous neoplasm with low grade dysplasia
+8453/0	Related	Intraductal papillary mucinous tumor with moderate dysplasia
+8453/0	Synonym	Intraductal papillary mucinous neoplasm with moderate dysplasia
+8453/2	Preferred	Intraductal papillary mucinous neoplasm with high grade dysplasia
+8453/2	Related	Intraductal papillary mucinous carcinoma, non-invasive
+8453/3	Preferred	Intraductal papillary mucinous neoplasm with an associated invasive carcinoma
+8453/3	Related	Intraductal papillary mucinous carcinoma, invasive
+8454/0	Preferred	Cystic tumor of atrio-ventricular node
+8460/2	Preferred	Serous borderline tumor, micropapillary variant
+8460/2	Synonym	Serous carcinoma, non-invasive, low grade
+8460/3	Preferred	Low grade serous carcinoma
+8460/3	Related	Micropapillary serous carcinoma
+8461/0	Preferred	Serous surface papilloma
+8461/3	Preferred	High grade serous carcinoma
+8470/0	Preferred	Mucinous cystadenoma, NOS
+8470/0	Synonym	Papillary mucinous cystadenoma, NOS
+8470/0	Synonym	Papillary pseudomucinous cystadenoma, NOS
+8470/0	Synonym	Pseudomucinous cystadenoma, NOS
+8470/0	Synonym	Mucinous cystoma
+8470/0	Related	Mucinous cystic neoplasm with intermediate grade dysplasia
+8470/0	Related	Mucinous cystic neoplasm with intermediate grade intraepithelial neoplasia
+8470/0	Related	Mucinous cystic neoplasm with low grade dysplasia
+8470/0	Related	Mucinous cystic neoplasm with low grade intraepithelial neoplasia
+8470/0	Related	Mucinous cystic tumor with intermediate dysplasia
+8470/0	Related	Mucinous cystic tumor with low grade dysplasia
+8470/0	Related	Mucinous cystic tumor with moderate dysplasia
+8470/2	Preferred	Mucinous cystic neoplasm with high grade dysplasia
+8470/2	Related	Mucinous cystadenocarcinoma, non-invasive
+8470/2	Related	Mucinous cystic tumor with high grade dysplasia
+8470/2	Synonym	Mucinous cystic neoplasm with high grade intraepithelial neoplasia
+8470/3	Preferred	Mucinous cystadenocarcinoma, NOS
+8470/3	Synonym	Pseudomucinous cystadenocarcinoma, NOS
+8470/3	Synonym	Pseudomucinous adenocarcinoma
+8470/3	Related	Mucinous cystic tumor with an associated invasive carcinoma
+8470/3	Synonym	Mucinous cystic neoplasm with an associated invasive carcinoma
+8470/3	Synonym	Papillary mucinous cystadenocarcinoma
+8470/3	Synonym	Papillary pseudomucinous cystadenocarcinoma
+8472/1	Preferred	Mucinous cystic tumor of borderline malignancy
+8472/1	Synonym	Mucinous borderline tumor
+8472/1	Synonym	Mucinous tumor, NOS, of low malignant potential
+8472/1	Synonym	Atypical proliferative mucinous tumor
+8472/1	Synonym	Mucinous cystadenoma, borderline malignancy
+8472/1	Synonym	Pseudomucinous cystadenoma, borderline malignancy
+8472/1	Synonym	Papillary mucinous cystadenoma, borderline malignancy
+8472/1	Synonym	Papillary pseudomucinous cystadenoma, borderline malignancy
+8472/1	Synonym	Papillary mucinous tumor of low malignant potential
+8474/0	Preferred	Seromucinous cystadenoma
+8474/1	Preferred	Seromucinous borderline tumor
+8474/1	Synonym	Seromucinous tumor, atypical proliferative
+8474/3	Preferred	Seromucinous carcinoma
+8480/0	Preferred	Mucinous adenoma
+8480/0	Related	Mucous gland adenoma
+8480/1	Preferred	Low grade appendiceal mucinous neoplasm
+8480/3	Preferred	Mucinous adenocarcinoma (except of lung M-8253/3)
+8480/3	Synonym	Acinar adenocarcinoma, mucinous variant
+8480/3	Synonym	Colloid adenocarcinoma
+8480/3	Synonym	Colloid carcinoma
+8480/3	Synonym	Gelatinous adenocarcinoma
+8480/3	Synonym	Gelatinous carcinoma
+8480/3	Synonym	Mucinous carcinoma
+8480/3	Synonym	Mucoid adenocarcinoma
+8480/3	Synonym	Mucoid carcinoma
+8480/3	Synonym	Mucous adenocarcinoma
+8480/3	Synonym	Mucous carcinoma
+8480/3	Related	Pseudomyxoma peritonei with unknown primary site
+8480/3	Related	Mucinous tubular and spindle cell carcinoma
+8480/6	Preferred	Pseudomyxoma peritonei
+8481/3	Preferred	Mucin-producing adenocarcinoma
+8481/3	Synonym	Mucin-producing carcinoma
+8481/3	Synonym	Mucin-secreting adenocarcinoma
+8481/3	Synonym	Mucin-secreting carcinoma
+8482/3	Preferred	Mucinous carcinoma, gastric type
+8482/3	Synonym	Mucinous adenocarcinoma, endocervical type
+8490/3	Preferred	Signet ring cell carcinoma
+8490/3	Synonym	Signet ring cell adenocarcinoma
+8490/3	Synonym	Acinar adenocarcinoma, signet ring-like variant
+8490/3	Synonym	Mucinous carcinoma, signet ring cell type
+8490/3	Related	Poorly cohesive carcinoma
+8490/3	Related	Signet ring cell/histiocytoid carcinoma
+8490/6	Preferred	Metastatic signet ring cell carcinoma
+8490/6	Related	Krukenberg tumor
+850-854	2	Ductal and lobular neoplasms
+8500/2	Preferred	Intraductal carcinoma, noninfiltrating, NOS
+8500/2	Synonym	Intraductal adenocarcinoma, noninfiltrating, NOS
+8500/2	Synonym	Intraductal carcinoma, NOS
+8500/2	Related	Ductal carcinoma in situ, NOS
+8500/2	Synonym	DCIS, NOS
+8500/2	Synonym	DIN 3
+8500/2	Synonym	Ductal intraepithelial neoplasia 3
+8500/2	Related	Cystic hypersecretory carcinoma, intraductal
+8500/3	Preferred	Infiltrating duct carcinoma, NOS
+8500/3	Synonym	Invasive breast carcinoma of no special type
+8500/3	Synonym	Duct adenocarcinoma, NOS
+8500/3	Synonym	Duct carcinoma, NOS
+8500/3	Synonym	Ductal carcinoma, NOS
+8500/3	Synonym	Duct cell carcinoma
+8500/3	Synonym	Infiltrating duct adenocarcinoma
+8500/3	Related	Basal-like carcinoma of breast
+8500/3	Related	Adenocarcinoma of mammary gland type
+8500/3	Related	Adenocarcinoma of anogenital mammary-like glands
+8500/3	Related	Carcinoma of male breast
+8501/2	Preferred	Comedocarcinoma, noninfiltrating
+8501/2	Synonym	Ductal carcinoma in situ, comedo type
+8501/2	Synonym	DCIS, comedo type
+8501/3	Preferred	Comedocarcinoma, NOS
+8502/3	Preferred	Secretory carcinoma
+8502/3	Related	Juvenile carcinoma of breast
+8503/0	Preferred	Intraductal papilloma
+8503/0	Synonym	Duct adenoma, NOS
+8503/0	Synonym	Ductal papilloma
+8503/0	Related	Intraductal papillary neoplasm, NOS
+8503/0	Related	Intracystic papillary neoplasm with low grade intraepithelial neoplasia
+8503/0	Synonym	Intracystic papillary neoplasm with intermediate grade intraepithelial neoplasia
+8503/0	Synonym	Intraglandular papillary neoplasm with low grade intraepithelial neoplasia
+8503/0	Synonym	Intraductal papillary neoplasm with intermediate grade neoplasia
+8503/0	Related	Intraductal papillary neoplasm with low grade intraepithelial neoplasia
+8503/0	Related	Intraductal tubular-papillary neoplasm, low grade
+8503/0	Related	Intraductal papilloma with atypical ductal hyperplasia
+8503/2	Preferred	Noninfiltrating intraductal papillary adenocarcinoma
+8503/2	Synonym	Intraductal papillary adenocarcinoma, NOS
+8503/2	Synonym	Intraductal papillary carcinoma, NOS
+8503/2	Synonym	DCIS, papillary
+8503/2	Synonym	Ductal carcinoma in situ, papillary
+8503/2	Synonym	Noninfiltrating intraductal papillary carcinoma
+8503/2	Related	Intraductal papilloma with DCIS
+8503/2	Related	Intraductal papillary neoplasm with high grade intraepithelial neoplasia
+8503/2	Synonym	Intracystic papillary neoplasm with high grade intraepithelial neoplasia
+8503/2	Synonym	Intracystic papillary tumor with high grade dysplasia
+8503/2	Synonym	Intracystic papillary tumor with high grade intraepithelial neoplasia
+8503/2	Synonym	Intraductal papillary neoplasm with high grade dysplasia
+8503/2	Synonym	Intraductal papillary tumor with high grade dysplasia
+8503/2	Synonym	Intraductal papillary tumor with high grade intraepithelial neoplasia
+8503/2	Related	Intraductal tubular-papillary neoplasm, high grade
+8503/2	Related	Intraductal tubulopapillary neoplasm
+8503/3	Preferred	Intraductal papillary adenocarcinoma with invasion
+8503/3	Synonym	Infiltrating papillary adenocarcinoma
+8503/3	Synonym	Infiltrating and papillary adenocarcinoma
+8503/3	Related	Papillary carcinoma of breast
+8503/3	Related	Intraductal papillary neoplasm with associated invasive carcinoma
+8503/3	Synonym	Intracystic papillary neoplasm with associated invasive carcinoma
+8504/0	Preferred	Intracystic papillary adenoma
+8504/0	Synonym	Intracystic papilloma
+8504/2	Preferred	Encapsulated papillary carcinoma (except of thyroid M-8343/3)
+8504/2	Synonym	Noninfiltrating intracystic carcinoma
+8504/2	Synonym	Encysted papillary carcinoma
+8504/2	Synonym	Intracystic papillary carcinoma
+8504/2	Synonym	Intracystic carcinoma, NOS
+8504/2	Synonym	Intracystic papillary adenocarcinoma
+8504/3	Preferred	Encapsulated papillary carcinoma with invasion
+8504/3	Synonym	Encysted papillary carcinoma with invasion
+8504/3	Synonym	Intracystic papillary carcinoma with invasion
+8505/0	Preferred	Intraductal papillomatosis, NOS
+8505/0	Synonym	Diffuse intraductal papillomatosis
+8506/0	Preferred	Adenoma of nipple
+8506/0	Synonym	Subareolar duct papillomatosis
+8507/2	Preferred	Intraductal micropapillary carcinoma
+8507/2	Synonym	Ductal carcinoma in situ, micropapillary
+8507/2	Related	Intraductal carcinoma, clinging, high grade
+8507/3	Preferred	Invasive micropapillary carcinoma of breast
+8507/3	Synonym	Micropapillary carcinoma of breast
+8508/3	Preferred	Cystic hypersecretory carcinoma
+8509/2	Preferred	Solid papillary carcinoma in situ
+8509/2	Related	Endocrine mucin-producing sweat gland carcinoma in situ
+8509/3	Preferred	Solid papillary carcinoma with invasion
+8509/3	Related	Endocrine mucin-producing sweat gland carcinoma
+8510/3	Preferred	Medullary carcinoma, NOS
+8510/3	Related	Medullary adenocarcinoma
+8510/3	Related	Medullary-like carcinoma
+8512/3	Preferred	Medullary carcinoma with lymphoid stroma
+8513/3	Preferred	Atypical medullary carcinoma
+8514/3	Preferred	Duct carcinoma, desmoplastic type
+8519/2	Preferred	Lobular carcinoma in situ, pleomorphic
+8519/2	Synonym	LCIS, pleomorphic
+8520/2	Preferred	Lobular carcinoma in situ, NOS
+8520/2	Synonym	LCIS, NOS
+8520/2	Synonym	Lobular carcinoma, noninfiltrating
+8520/2	Synonym	Lobular carcinoma in situ, classic
+8520/2	Related	Intraductal papilloma with lobular carcinoma in situ
+8520/3	Preferred	Lobular carcinoma, NOS
+8520/3	Synonym	Infiltrating lobular carcinoma, NOS
+8520/3	Synonym	Lobular adenocarcinoma
+8520/3	Related	Tubulolobular carcinoma
+8520/3	Related	Lobular carcinoma, pleomorphic
+8521/3	Preferred	Infiltrating ductular carcinoma
+8522/2	Preferred	Intraductal carcinoma and lobular carcinoma in situ
+8522/3	Preferred	Infiltrating duct and lobular carcinoma
+8522/3	Synonym	Lobular and ductal carcinoma
+8522/3	Related	Intraductal and lobular carcinoma
+8522/3	Related	Infiltrating duct and lobular carcinoma in situ
+8522/3	Related	Infiltrating lobular carcinoma and ductal carcinoma in situ
+8523/3	Preferred	Infiltrating duct mixed with other types of carcinoma
+8523/3	Related	Infiltrating duct and colloid carcinoma
+8523/3	Related	Infiltrating duct and cribriform carcinoma
+8523/3	Related	Infiltrating duct and mucinous carcinoma
+8523/3	Related	Infiltrating duct and tubular carcinoma
+8524/3	Preferred	Infiltrating lobular mixed with other types of carcinoma
+8525/3	Preferred	Polymorphous adenocarcinoma
+8525/3	Synonym	Polymorphous carcinoma
+8525/3	Synonym	Terminal duct adenocarcinoma
+8530/3	Preferred	Inflammatory carcinoma
+8530/3	Synonym	Inflammatory adenocarcinoma
+8540/3	Preferred	Paget disease, mammary
+8540/3	Synonym	Paget disease of breast
+8540/3	Synonym	Paget disease of nipple
+8541/3	Preferred	Paget disease and infiltrating duct carcinoma of breast
+8542/3	Preferred	Paget disease, extramammary (except of bone: not neoplastic)
+8543/3	Preferred	Paget disease and intraductal carcinoma of breast
+855	2	Acinar cell neoplasms
+8550/0	Preferred	Acinar cell adenoma
+8550/0	Synonym	Acinar adenoma
+8550/0	Synonym	Acinic cell adenoma
+8550/1	Preferred	Acinar cell tumor
+8550/1	Synonym	Acinic cell tumor
+8550/3	Preferred	Acinar cell carcinoma
+8550/3	Synonym	Acinar adenocarcinoma, NOS (except of lung M-8551/3 or prostate M-8140/3)
+8550/3	Synonym	Acinar carcinoma
+8550/3	Synonym	Acinic cell adenocarcinoma
+8551/3	Preferred	Acinar cell cystadenocarcinoma
+8551/3	Related	Acinar adenocarcinoma of lung
+8552/3	Preferred	Mixed acinar-ductal carcinoma
+856-857	2	Complex epithelial neoplasms
+8560/0	Preferred	Mixed squamous cell and glandular papilloma
+8560/0	Synonym	Tubulosquamous polyp
+8560/3	Preferred	Adenosquamous carcinoma
+8560/3	Synonym	Mixed adenocarcinoma and epidermoid carcinoma
+8560/3	Synonym	Mixed adenocarcinoma and squamous cell carcinoma
+8560/3	Related	Squamoid eccrine ductal carcinoma
+8561/0	Preferred	Adenolymphoma
+8561/0	Synonym	Papillary cystadenoma lymphomatosum
+8561/0	Synonym	Warthin tumor
+8562/3	Preferred	Epithelial-myoepithelial carcinoma
+8563/0	Preferred	Lymphadenoma
+8570/3	Preferred	Adenocarcinoma with squamous metaplasia
+8570/3	Synonym	Adenoacanthoma
+8570/3	Related	Endometrioid carcinoma with squamous differentiation
+8571/3	Preferred	Adenocarcinoma with cartilaginous and osseous metaplasia
+8571/3	Synonym	Adenocarcinoma with cartilaginous metaplasia
+8571/3	Synonym	Adenocarcinoma with chondroid differentiation
+8571/3	Synonym	Adenocarcinoma with osseous metaplasia
+8572/3	Preferred	Adenocarcinoma with spindle cell metaplasia
+8572/3	Synonym	Acinar adenocarcinoma, sarcomatoid variant
+8572/3	Related	Fibromatosis-like metaplastic carcinoma
+8573/3	Preferred	Adenocarcinoma with apocrine metaplasia
+8573/3	Synonym	Carcinoma with apocrine metaplasia
+8574/3	Preferred	Adenocarcinoma with neuroendocrine differentiation
+8574/3	Synonym	Carcinoma with neuroendocrine differentiation
+8574/3	Synonym	Adenocarcinoma admixed with neuroendocrine carcinoma
+8575/3	Preferred	Metaplastic carcinoma, NOS
+8576/3	Preferred	Hepatoid adenocarcinoma
+8576/3	Synonym	Hepatoid carcinoma
+858	2	Thymic epithelial neoplasms
+8580/0	Preferred	Microscopic thymoma
+8580/0	Related	Thymoma, benign
+8580/1	Preferred	Micronodular thymoma with lymphoid stroma
+8580/3	Preferred	Thymoma, NOS
+8580/3	Related	Intrapulmonary thymoma
+8580/3	Related	Sclerosing thymoma
+8580/3	Related	Metaplastic thymoma
+8581/3	Preferred	Thymoma, type A
+8581/3	Synonym	Thymoma, medullary
+8581/3	Synonym	Thymoma, spindle cell
+8582/3	Preferred	Thymoma, type AB
+8582/3	Synonym	Thymoma, mixed type
+8583/3	Preferred	Thymoma, type B1
+8583/3	Synonym	Thymoma, lymphocyte-rich
+8583/3	Synonym	Thymoma, lymphocytic
+8583/3	Synonym	Thymoma, organoid
+8583/3	Synonym	Thymoma, predominantly cortical
+8584/3	Preferred	Thymoma, type B2
+8584/3	Synonym	Thymoma, cortical
+8585/3	Preferred	Thymoma, type B3
+8585/3	Synonym	Thymoma, atypical
+8585/3	Synonym	Thymoma, epithelial
+8585/3	Synonym	Well differentiated thymic carcinoma
+8586/3	Preferred	Thymic carcinoma, NOS
+8586/3	Synonym	Thymoma, type C
+8587/0	Preferred	Ectopic hamartomatous thymoma
+8588/3	Preferred	Spindle epithelial tumor with thymus-like element
+8588/3	Synonym	SETTLE
+8588/3	Synonym	Spindle epithelial tumor with thymus-like differentiation
+8589/3	Preferred	Intrathyroid thymic carcinoma
+8589/3	Synonym	Carcinoma showing thymus-like element
+8589/3	Synonym	Carcinoma showing thymus-like differentiation
+8589/3	Synonym	CASTLE
+859-867	2	Specialized gonadal neoplasms
+8590/0	Preferred	Sex cord-stromal tumor, benign
+8590/0	Related	Signet-ring stromal tumor
+8590/0	Related	Microcystic stromal tumor
+8590/1	Preferred	Sex cord-gonadal stromal tumor, NOS
+8590/1	Synonym	Gonadal stromal tumor, NOS
+8590/1	Synonym	Sex cord tumor, NOS
+8590/1	Synonym	Sex cord-stromal tumor, NOS
+8590/1	Synonym	Ovarian stromal tumor
+8590/1	Synonym	Testicular stromal tumor
+8590/1	Related	Uterine tumor resembling ovarian sex cord tumor
+8591/1	Preferred	Sex cord-gonadal stromal tumor, incompletely differentiated
+8591/1	Related	Sex cord-stromal tumor, unclassified
+8592/1	Preferred	Sex cord-gonadal stromal tumor, mixed forms
+8592/1	Synonym	Sex cord-gonadal stromal tumor, mixed
+8593/1	Preferred	Stromal tumor with minor sex cord elements
+8594/1	Preferred	Mixed germ cell-sex cord-stromal tumor, NOS
+8594/1	Related	Mixed germ cell-sex cord-stromal tumor, unclassified
+8600/0	Preferred	Thecoma, NOS
+8600/0	Synonym	Theca cell tumor
+8600/3	Preferred	Thecoma, malignant
+8601/0	Preferred	Thecoma, luteinized
+8602/0	Preferred	Sclerosing stromal tumor
+8610/0	Preferred	Luteoma, NOS
+8610/0	Synonym	Luteinoma
+8620/1	Preferred	Adult granulosa cell tumor of testis
+8620/1	Synonym	Granulosa cell tumor of testis, NOS
+8620/3	Preferred	Adult granulosa cell tumor of ovary
+8620/3	Related	Granulosa cell tumor, adult type
+8620/3	Related	Granulosa cell carcinoma
+8620/3	Related	Granulosa cell tumor, sarcomatoid
+8621/1	Preferred	Granulosa cell-theca cell tumor
+8621/1	Synonym	Theca cell-granulosa cell tumor
+8622/0	Preferred	Granulosa cell tumor of testis, juvenile
+8622/1	Preferred	Granulosa cell tumor, juvenile (except of testis M-8622/0)
+8623/1	Preferred	Sex cord tumor with annular tubules
+8630/0	Preferred	Androblastoma, benign
+8630/0	Synonym	Arrhenoblastoma, benign
+8630/1	Preferred	Androblastoma, NOS
+8630/1	Synonym	Arrhenoblastoma, NOS
+8630/3	Preferred	Androblastoma, malignant
+8630/3	Synonym	Arrhenoblastoma, malignant
+8631/0	Preferred	Sertoli-Leydig cell tumor, well differentiated
+8631/1	Preferred	Sertoli-Leydig cell tumor of intermediate differentiation, NOS
+8631/1	Synonym	Sertoli-Leydig cell tumor, moderately differentiated
+8631/1	Related	Sertoli-Leydig cell tumor, NOS
+8631/3	Preferred	Sertoli-Leydig cell tumor, poorly differentiated
+8631/3	Related	Sertoli-Leydig cell tumor, sarcomatoid
+8632/1	Preferred	Gynandroblastoma
+8633/1	Preferred	Sertoli-Leydig cell tumor, retiform
+8634/1	Preferred	Sertoli-Leydig cell tumor, intermediate differentiation, with heterologous elements
+8634/1	Synonym	Sertoli-Leydig cell tumor, moderately differentiated, with heterologous elements
+8634/1	Related	Sertoli-Leydig cell tumor, retiform, with heterologous elements
+8634/3	Preferred	Sertoli-Leydig cell tumor, poorly differentiated, with heterologous elements
+8640/1	Preferred	Sertoli cell tumor, NOS
+8640/1	Synonym	Tubular androblastoma, NOS
+8640/1	Synonym	Pick tubular adenoma
+8640/1	Synonym	Sertoli cell adenoma
+8640/1	Synonym	Testicular adenoma
+8640/3	Preferred	Sertoli cell carcinoma
+8641/0	Preferred	Sertoli cell tumor with lipid storage
+8641/0	Synonym	Folliculome lipidique
+8641/0	Synonym	Lipid-rich Sertoli cell tumor
+8641/0	Synonym	Tubular androblastoma with lipid storage
+8642/1	Preferred	Large cell calcifying Sertoli cell tumor
+8643/1	Preferred	Intratubular large cell hyalinizing Sertoli cell neoplasia
+8650/0	Preferred	Leydig cell tumor of ovary, NOS
+8650/1	Preferred	Leydig cell tumor of testis, NOS
+8650/1	Synonym	Interstitial cell tumor, NOS
+8650/3	Preferred	Leydig cell tumor, malignant
+8650/3	Synonym	Interstitial cell tumor, malignant
+8660/0	Preferred	Hilus cell tumor
+8660/0	Synonym	Hilar cell tumor
+8670/0	Preferred	Lipid cell tumor of ovary
+8670/0	Synonym	Steroid cell tumor, NOS
+8670/0	Synonym	Lipoid cell tumor of ovary
+8670/0	Related	Masculinovoblastoma
+8670/3	Preferred	Steroid cell tumor, malignant
+8671/0	Preferred	Adrenal rest tumor
+868-871	2	Paragangliomas and glomus tumors
+8680/3	Preferred	Paraganglioma, NOS
+8681/3	Preferred	Sympathetic paraganglioma
+8682/3	Preferred	Parasympathetic paraganglioma
+8683/0	Preferred	Gangliocytic paraganglioma
+8690/3	Preferred	Middle ear paraganglioma
+8690/3	Synonym	Glomus jugulare tumor, NOS
+8690/3	Synonym	Jugular paraganglioma
+8690/3	Synonym	Jugulotympanic paraganglioma
+8691/3	Preferred	Aortic body tumor
+8691/3	Synonym	Aortic body paraganglioma
+8691/3	Synonym	Aorticopulmonary paraganglioma
+8692/3	Preferred	Carotid body paraganglioma
+8692/3	Synonym	Carotid body tumor
+8693/3	Preferred	Extra-adrenal paraganglioma, NOS
+8693/3	Related	Nonchromaffin paraganglioma, NOS
+8693/3	Related	Laryngeal paraganglioma
+8693/3	Related	Vagal paraganglioma
+8693/3	Related	Chemodectoma
+8693/3	Related	Composite paraganglioma
+8700/3	Preferred	Pheochromocytoma, NOS
+8700/3	Synonym	Adrenal medullary paraganglioma
+8700/3	Synonym	Chromaffin paraganglioma
+8700/3	Synonym	Chromaffin tumor
+8700/3	Synonym	Chromaffinoma
+8700/3	Related	Composite pheochromocytoma
+8700/3	Synonym	Pheochromoblastoma
+8710/3	Preferred	Glomangiosarcoma
+8710/3	Synonym	Glomoid sarcoma
+8711/0	Preferred	Glomus tumor, NOS
+8711/1	Preferred	Glomangiomatosis
+8711/1	Related	Glomus tumor of uncertain malignant potential
+8711/3	Preferred	Glomus tumor, malignant
+8712/0	Preferred	Glomangioma
+8713/0	Preferred	Glomangiomyoma
+8714/0	Preferred	Perivascular epithelioid tumor, benign
+8714/0	Synonym	PEComa, benign
+8714/3	Preferred	Perivascular epithelioid tumor, malignant
+8714/3	Synonym	PEComa, malignant
+872-879	2	Nevi and melanomas
+8720/0	Preferred	Pigmented nevus, NOS
+8720/0	Synonym	Nevus, NOS
+8720/0	Synonym	Melanocytic nevus, NOS
+8720/0	Related	Hairy nevus
+8720/0	Related	Nevus spilus
+8720/0	Related	Meyerson nevus
+8720/0	Related	Deep penetrating nevus
+8720/0	Related	Combined nevus
+8720/0	Related	Genital nevus
+8720/0	Related	Conjunctival nevus
+8720/2	Preferred	Melanoma in situ
+8720/3	Preferred	Malignant melanoma, NOS (except of soft parts M-9044/3)
+8720/3	Synonym	Melanoma, NOS
+8720/3	Related	Nevoid melanoma
+8720/3	Related	Melanoma, meningeal
+8721/3	Preferred	Nodular melanoma
+8722/0	Preferred	Balloon cell nevus
+8722/3	Preferred	Balloon cell melanoma
+8723/0	Preferred	Halo nevus
+8723/0	Synonym	Regressing nevus
+8723/3	Preferred	Malignant melanoma, regressing
+8725/0	Preferred	Neuronevus
+8726/0	Preferred	Magnocellular nevus
+8726/0	Synonym	Melanocytoma, eyeball
+8726/0	Related	Melanocytoma, NOS (see also M-8780/1)
+8727/0	Preferred	Dysplastic nevus
+8728/0	Preferred	Meningeal melanocytosis
+8728/0	Related	Diffuse melanocytosis
+8728/1	Preferred	Meningeal melanocytoma
+8728/3	Preferred	Meningeal melanomatosis
+8730/0	Preferred	Nonpigmented nevus
+8730/0	Synonym	Achromic nevus
+8730/3	Preferred	Amelanotic melanoma
+8740/0	Preferred	Junctional nevus, NOS
+8740/0	Synonym	Intraepidermal nevus
+8740/0	Synonym	Junction nevus
+8740/3	Preferred	Malignant melanoma in junctional nevus
+8741/2	Preferred	Precancerous melanosis, NOS
+8741/3	Preferred	Malignant melanoma in precancerous melanosis
+8742/0	Preferred	Lentiginous melanocytic nevus
+8742/0	Related	Simple lentigo
+8742/0	Synonym	Lentigo simplex
+8742/2	Preferred	Lentigo maligna
+8742/2	Synonym	Hutchinson melanotic freckle, NOS
+8742/3	Preferred	Lentigo maligna melanoma
+8742/3	Synonym	Malignant melanoma in Hutchinson melanotic freckle
+8743/3	Preferred	Low cumulative sun damage melanoma
+8743/3	Related	Superficial spreading melanoma
+8744/0	Preferred	Acral nevus
+8744/3	Preferred	Acral melanoma
+8744/3	Synonym	Acral lentiginous melanoma, malignant
+8745/3	Preferred	Desmoplastic melanoma, NOS
+8745/3	Related	Desmoplastic melanoma, amelanotic
+8745/3	Related	Neurotropic melanoma, malignant
+8746/3	Preferred	Mucosal lentiginous melanoma
+8750/0	Preferred	Dermal nevus
+8750/0	Synonym	Intradermal nevus
+8750/0	Synonym	Stromal nevus
+8760/0	Preferred	Compound nevus
+8760/0	Synonym	Dermal and epidermal nevus
+8761/0	Preferred	Congenital melanocytic nevus, NOS
+8761/1	Preferred	Giant pigmented nevus, NOS
+8761/1	Related	Intermediate and giant congenital nevus
+8761/3	Preferred	Malignant melanoma arising in giant congenital nevus
+8761/3	Synonym	Malignant melanoma in giant pigmented nevus
+8761/3	Synonym	Malignant melanoma in congenital melanocytic nevus
+8762/1	Preferred	Proliferative dermal lesion in congenital nevus
+8762/1	Synonym	Proliferative nodule in congenital melanocytic nevus
+8770/0	Preferred	Epithelioid and spindle cell nevus
+8770/0	Synonym	Juvenile melanoma
+8770/0	Synonym	Juvenile nevus
+8770/0	Synonym	Spitz nevus, NOS
+8770/0	Related	Spitz nevus, atypical
+8770/0	Related	Pigmented spindle cell nevus of Reed
+8770/0	Synonym	Pigmented spindle cell Spitz nevus
+8770/3	Preferred	Malignant Spitz tumor
+8770/3	Related	Mixed epithelioid and spindle cell melanoma
+8770/3	Synonym	Spitz melanoma
+8770/3	Synonym	Spitzoid melanoma
+8771/0	Preferred	Epithelioid cell nevus
+8771/3	Preferred	Epithelioid cell melanoma
+8772/0	Preferred	Spindle cell nevus, NOS
+8772/3	Preferred	Spindle cell melanoma, NOS
+8773/3	Preferred	Spindle cell melanoma, type A
+8774/3	Preferred	Spindle cell melanoma, type B
+8780/0	Preferred	Blue nevus, NOS
+8780/0	Synonym	Jadassohn blue nevus
+8780/1	Preferred	Pigmented epithelioid melanocytoma
+8780/1	Synonym	Blue nevus, epithelioid
+8780/3	Preferred	Blue nevus, malignant
+8780/3	Synonym	Melanoma arising in blue nevus
+8790/0	Preferred	Cellular blue nevus
+880	2	Soft tissue tumors and sarcomas, NOS
+8800/0	Preferred	Soft tissue tumor, benign
+8800/3	Preferred	Sarcoma, NOS
+8800/3	Synonym	Mesenchymal tumor, malignant
+8800/3	Synonym	Soft tissue sarcoma
+8800/3	Synonym	Soft tissue tumor, malignant
+8800/9	Preferred	Sarcomatosis, NOS
+8801/3	Preferred	Spindle cell sarcoma
+8801/3	Synonym	Spindle cell sarcoma, undifferentiated
+8802/1	Preferred	Pleomorphic hyalinizing angiectatic tumor
+8802/3	Preferred	Giant cell sarcoma (except of bone M-9250/3)
+8802/3	Synonym	Pleomorphic cell sarcoma, NOS
+8802/3	Synonym	Pleomorphic cell sarcoma, undifferentiated
+8802/3	Synonym	Pleomorphic sarcoma
+8802/3	Related	Pleomorphic dermal sarcoma
+8803/3	Preferred	Small cell sarcoma
+8803/3	Synonym	Round cell sarcoma, NOS
+8803/3	Synonym	Round cell sarcoma, undifferentiated
+8804/3	Preferred	Epithelioid sarcoma, NOS
+8804/3	Synonym	Epithelioid cell sarcoma
+8804/3	Related	Epithelioid sarcoma, undifferentiated
+8805/3	Preferred	Undifferentiated sarcoma
+8806/3	Preferred	Desmoplastic small round cell tumor
+881-883	2	Fibromatous neoplasms
+8810/0	Preferred	Fibroma, NOS (except of tendon sheath M-8813/0)
+8810/0	Related	Desmoplastic fibroblastoma
+8810/0	Related	Gardner fibroma
+8810/0	Related	Nuchal fibroma
+8810/0	Related	Collagenous fibroma
+8810/0	Related	Plaque-like CD34 positive dermal fibroma
+8810/1	Preferred	Cellular fibroma
+8810/3	Preferred	Fibrosarcoma, NOS
+8811/0	Preferred	Fibromyxoma, NOS
+8811/0	Synonym	Myxofibroma, NOS
+8811/0	Synonym	Myxoid fibroma
+8811/0	Related	Plexiform fibromyxoma
+8811/0	Related	Acral fibromyxoma
+8811/1	Preferred	Myxoinflammatory fibroblastic sarcoma
+8811/1	Related	Atypical myxoinflammatory fibroblastic tumor
+8811/1	Related	Hemosiderotic fibrolipomatous tumor
+8811/3	Preferred	Myxofibrosarcoma
+8811/3	Related	Fibromyxosarcoma
+8812/0	Preferred	Periosteal fibroma
+8812/3	Preferred	Periosteal fibrosarcoma
+8812/3	Related	Periosteal sarcoma, NOS
+8813/0	Preferred	Fibroma of tendon sheath
+8813/0	Related	Fascial fibroma
+8813/1	Preferred	Palmar/plantar type fibromatosis
+8813/1	Synonym	Superficial fibromatosis
+8813/3	Preferred	Fascial fibrosarcoma
+8814/3	Preferred	Infantile fibrosarcoma
+8814/3	Synonym	Congenital fibrosarcoma
+8815/0	Preferred	Solitary fibrous tumor/Hemangiopericytoma, grade 1
+8815/0	Synonym	Hemangiopericytoma, benign
+8815/1	Preferred	Solitary fibrous tumor, NOS
+8815/1	Synonym	Hemangiopericytoma, NOS
+8815/1	Synonym	Localized fibrous tumor
+8815/1	Related	Solitary fibrous tumor/Hemangiopericytoma, grade 2
+8815/1	Related	Hemangiopericytic meningioma
+8815/3	Preferred	Solitary fibrous tumor, malignant
+8815/3	Related	Solitary fibrous tumor/Hemangiopericytoma, grade 3
+8815/3	Synonym	Hemangiopericytoma, malignant
+8816/0	Preferred	Calcifying aponeurotic fibroma
+8817/0	Preferred	Calcifying fibrous tumor
+8818/0	Preferred	Fibrous dysplasia
+8820/0	Preferred	Elastofibroma
+8821/1	Preferred	Aggressive fibromatosis
+8821/1	Synonym	Desmoid type fibromatosis
+8821/1	Synonym	Desmoid, NOS
+8821/1	Synonym	Desmoid tumor, NOS
+8821/1	Synonym	Extra-abdominal desmoid
+8821/1	Synonym	Invasive fibroma
+8822/1	Preferred	Abdominal fibromatosis
+8822/1	Synonym	Abdominal desmoid
+8822/1	Synonym	Mesenteric fibromatosis
+8822/1	Synonym	Retroperitoneal fibromatosis
+8823/0	Preferred	Sclerotic fibroma
+8823/1	Preferred	Desmoplastic fibroma
+8824/0	Preferred	Myofibroma
+8824/0	Related	Dermatomyofibroma
+8824/0	Related	Myopericytoma
+8824/1	Preferred	Myofibromatosis
+8824/1	Related	Congenital generalized fibromatosis
+8824/1	Synonym	Infantile myofibromatosis
+8825/0	Preferred	Myofibroblastoma
+8825/1	Preferred	Myofibroblastic tumor, NOS
+8825/1	Synonym	Inflammatory myofibroblastic tumor
+8825/3	Preferred	Myofibroblastic sarcoma
+8826/0	Preferred	Angiomyofibroblastoma
+8827/1	Preferred	Myofibroblastic tumor, peribronchial
+8827/1	Synonym	Congenital peribronchial myofibroblastic tumor
+8828/0	Preferred	Nodular fasciitis
+8828/0	Related	Proliferative fasciitis
+8828/0	Related	Proliferative myositis
+8830/0	Preferred	Benign fibrous histiocytoma, NOS
+8830/0	Synonym	Fibrous histiocytoma, NOS (except of tendon sheath M-9252/0)
+8830/0	Synonym	Fibroxanthoma, NOS
+8830/0	Synonym	Xanthofibroma
+8830/0	Related	Epithelioid fibrous histiocytoma
+8830/1	Preferred	Atypical fibrous histiocytoma
+8830/1	Synonym	Atypical fibroxanthoma
+8830/3	Preferred	Malignant fibrous histiocytoma
+8830/3	Synonym	Undifferentiated high grade pleomorphic sarcoma of bone
+8830/3	Synonym	Fibroxanthoma, malignant
+8831/0	Preferred	Histiocytoma, NOS
+8831/0	Related	Deep histiocytoma
+8831/0	Synonym	Deep benign fibrous histiocytoma
+8831/0	Related	Juvenile histiocytoma
+8831/0	Related	Reticulohistiocytoma
+8831/0	Synonym	Reticulohistocytosis
+8832/0	Preferred	Dermatofibroma, NOS
+8832/0	Synonym	Cutaneous histiocytoma, NOS
+8832/0	Synonym	Dermatofibroma lenticulare
+8832/0	Synonym	Sclerosing hemangioma
+8832/0	Synonym	Subepidermal nodular fibrosis
+8832/0	Related	Sclerosing pneumocytoma
+8832/0	Related	Pleomorphic fibroma
+8832/1	Preferred	Dermatofibrosarcoma protuberans, NOS
+8832/1	Synonym	Dermatofibrosarcoma, NOS
+8832/3	Preferred	Dermatofibrosarcoma protuberans, fibrosarcomatous
+8832/3	Synonym	Dermatofibrosarcoma, sarcomatous
+8833/1	Preferred	Pigmented dermatofibrosarcoma protuberans
+8833/1	Synonym	Bednar tumor
+8834/1	Preferred	Giant cell fibroblastoma
+8835/1	Preferred	Plexiform fibrohistiocytic tumor
+8836/1	Preferred	Angiomatoid fibrous histiocytoma
+884	2	Myxomatous neoplasms
+8840/0	Preferred	Myxoma, NOS
+8840/3	Preferred	Myxosarcoma
+8840/3	Related	Low grade fibromyxoid sarcoma
+8840/3	Related	Sclerosing epithelioid fibrosarcoma
+8841/0	Preferred	Angiomyxoma, NOS
+8841/0	Related	Aggressive angiomyxoma
+8841/0	Related	Superficial angiomyxoma
+8842/0	Preferred	Ossifying fibromyxoid tumor, NOS
+8842/3	Preferred	Ossifying fibromyxoid tumor, malignant
+8842/3	Related	Pulmonary myxoid sarcoma with EWSR1-CREB1 translocation
+885-888	2	Lipomatous neoplasms
+8850/0	Preferred	Lipoma, NOS
+8850/0	Related	Thymolipoma
+8850/1	Preferred	Atypical lipomatous tumor
+8850/1	Synonym	Atypical lipoma
+8850/1	Synonym	Liposarcoma, well differentiated, superficial
+8850/3	Preferred	Liposarcoma, NOS
+8850/3	Synonym	Fibroliposarcoma
+8851/0	Preferred	Fibrolipoma
+8851/1	Preferred	Lipofibromatosis
+8851/3	Preferred	Liposarcoma, well differentiated, NOS
+8851/3	Synonym	Lipoma-like liposarcoma
+8851/3	Synonym	Liposarcoma, differentiated
+8851/3	Related	Inflammatory liposarcoma
+8851/3	Related	Sclerosing liposarcoma
+8852/0	Preferred	Fibromyxolipoma
+8852/0	Synonym	Myxolipoma
+8852/3	Preferred	Myxoid liposarcoma
+8852/3	Synonym	Myxoliposarcoma
+8853/3	Preferred	Round cell liposarcoma (see also M-8852/3)
+8854/0	Preferred	Pleomorphic lipoma
+8854/3	Preferred	Pleomorphic liposarcoma
+8855/3	Preferred	Mixed liposarcoma
+8856/0	Preferred	Intramuscular lipoma
+8856/0	Related	Infiltrating angiolipoma
+8856/0	Related	Infiltrating lipoma
+8857/0	Preferred	Spindle cell lipoma
+8857/3	Preferred	Fibroblastic liposarcoma
+8858/3	Preferred	Dedifferentiated liposarcoma
+8860/0	Preferred	Angiomyolipoma
+8860/1	Preferred	Angiomyolipoma, epithelioid
+8861/0	Preferred	Angiolipoma, NOS
+8862/0	Preferred	Chondroid lipoma
+8870/0	Preferred	Myelolipoma
+8880/0	Preferred	Hibernoma
+8880/0	Synonym	Brown fat tumor
+8880/0	Synonym	Fetal fat cell lipoma
+8881/0	Preferred	Lipoblastomatosis
+8881/0	Synonym	Fetal lipoma, NOS
+8881/0	Synonym	Fetal lipomatosis
+8881/0	Synonym	Lipoblastoma
+889-892	2	Myomatous neoplasms
+8890/0	Preferred	Leiomyoma, NOS
+8890/0	Synonym	Fibroid uterus
+8890/0	Synonym	Fibromyoma
+8890/0	Synonym	Leiomyofibroma
+8890/0	Related	Lipoleiomyoma
+8890/0	Synonym	Lipomatous leiomyoma
+8890/0	Related	Plexiform leiomyoma
+8890/0	Related	Leiomyoma, apoplectic
+8890/0	Related	Leiomyoma, hydropic
+8890/0	Related	Myolipoma
+8890/0	Related	Cotyledonoid leiomyoma
+8890/0	Synonym	Dissecting leiomyoma
+8890/1	Preferred	Leiomyomatosis, NOS
+8890/1	Related	Leiomyomatosis, peritonealis disseminata
+8890/1	Related	Intravascular leiomyomatosis
+8890/1	Synonym	Intravenous leiomyomatosis
+8890/3	Preferred	Leiomyosarcoma, NOS
+8891/0	Preferred	Epithelioid leiomyoma
+8891/0	Synonym	Leiomyoblastoma
+8891/3	Preferred	Epithelioid leiomyosarcoma
+8892/0	Preferred	Cellular leiomyoma
+8893/0	Preferred	Bizarre leiomyoma
+8893/0	Synonym	Atypical leiomyoma
+8893/0	Synonym	Pleomorphic leiomyoma
+8893/0	Synonym	Symplastic leiomyoma
+8894/0	Preferred	Angioleiomyoma
+8894/0	Synonym	Angiomyoma
+8894/0	Synonym	Vascular leiomyoma
+8894/3	Preferred	Angiomyosarcoma
+8895/0	Preferred	Myoma
+8895/3	Preferred	Myosarcoma
+8896/0	Preferred	Myxoid leiomyoma
+8896/3	Preferred	Myxoid leiomyosarcoma
+8897/1	Preferred	Smooth muscle tumor of uncertain malignant potential
+8897/1	Synonym	Smooth muscle tumor, atypical
+8897/1	Related	Smooth muscle tumor, NOS
+8897/1	Related	Leiomyosarcoma, cutaneous
+8898/1	Preferred	Metastasizing leiomyoma
+8900/0	Preferred	Rhabdomyoma, NOS
+8900/3	Preferred	Rhabdomyosarcoma, NOS
+8900/3	Synonym	Rhabdosarcoma
+8901/3	Preferred	Pleomorphic rhabdomyosarcoma, adult type
+8901/3	Related	Pleomorphic rhabdomyosarcoma, NOS
+8901/3	Synonym	Rhabdomyosarcoma, pleomorphic type
+8902/3	Preferred	Mixed type rhabdomyosarcoma
+8902/3	Related	Mixed embryonal rhabdomyosarcoma and alveolar rhabdomyosarcoma
+8903/0	Preferred	Fetal rhabdomyoma
+8904/0	Preferred	Adult cellular rhabdomyoma
+8904/0	Synonym	Adult rhabdomyoma
+8904/0	Related	Glycogenic rhabdomyoma
+8905/0	Preferred	Genital rhabdomyoma
+8910/3	Preferred	Embryonal rhabdomyosarcoma, NOS
+8910/3	Synonym	Rhabdomyosarcoma, embryonal type
+8910/3	Related	Embryonal rhabdomyosarcoma, pleomorphic
+8910/3	Related	Sarcoma botryoides
+8910/3	Synonym	Botryoid sarcoma
+8912/3	Preferred	Spindle cell rhabdomyosarcoma
+8912/3	Synonym	Sclerosing rhabdomyosarcoma
+8912/3	Synonym	Rhabdomyosarcoma, spindle cell/sclerosing type
+8920/3	Preferred	Alveolar rhabdomyosarcoma
+8921/3	Preferred	Ectomesenchymoma
+8921/3	Synonym	Rhabdomyosarcoma with ganglionic differentiation
+893-899	2	Complex mixed and stromal neoplasms
+8930/0	Preferred	Endometrial stromal nodule
+8930/3	Preferred	Endometrial stromal sarcoma, NOS
+8930/3	Synonym	Endometrial sarcoma, NOS
+8930/3	Related	Endometrial stromal sarcoma, high grade
+8930/3	Synonym	Endometrioid stromal sarcoma, high grade
+8931/3	Preferred	Endometrial stromal sarcoma, low grade
+8931/3	Synonym	Endolymphatic stromal myosis
+8931/3	Synonym	Endometrioid stromal sarcoma, low grade
+8931/3	Synonym	Endometrial stromatosis
+8931/3	Synonym	Stromal endometriosis
+8931/3	Synonym	Stromal myosis, NOS
+8932/0	Preferred	Adenomyoma, NOS
+8932/0	Related	Atypical polypoid adenomyoma
+8933/3	Preferred	Adenosarcoma
+8934/3	Preferred	Carcinofibroma
+8935/0	Preferred	Stromal tumor, benign
+8935/1	Preferred	Stromal tumor, NOS
+8935/1	Related	Metanephric stromal tumor
+8935/1	Related	Stromal tumor of uncertain malignant potential
+8935/3	Preferred	Stromal sarcoma, NOS
+8936/3	Preferred	Gastrointestinal stromal tumor
+8936/3	Synonym	GIST
+8936/3	Synonym	Gastrointestinal stromal sarcoma
+8936/3	Related	Gastrointestinal autonomic nerve tumor
+8936/3	Synonym	GANT
+8936/3	Related	Gastrointestinal pacemaker cell tumor
+8940/0	Preferred	Pleomorphic adenoma
+8940/0	Synonym	Mixed tumor, NOS
+8940/0	Synonym	Mixed tumor, salivary gland type, NOS
+8940/0	Related	Chondroid syringoma, NOS
+8940/3	Preferred	Mixed tumor, malignant, NOS
+8940/3	Synonym	Mixed tumor, salivary gland type, malignant
+8940/3	Related	Malignant chondroid syringoma
+8941/3	Preferred	Carcinoma ex pleomorphic adenoma
+8941/3	Synonym	Carcinoma in pleomorphic adenoma
+8950/3	Preferred	Mullerian mixed tumor
+8951/3	Preferred	Mesodermal mixed tumor
+8959/0	Preferred	Benign cystic nephroma
+8959/0	Related	Mixed epithelial and stromal tumor
+8959/0	Related	Pediatric cystic nephroma
+8959/0	Related	Adult cystic nephroma
+8959/1	Preferred	Cystic partially differentiated nephroblastoma
+8959/3	Preferred	Malignant cystic nephroma
+8959/3	Synonym	Malignant multilocular cystic nephroma
+8960/1	Preferred	Mesoblastic nephroma
+8960/3	Preferred	Nephroblastoma, NOS
+8960/3	Synonym	Nephroma, NOS
+8960/3	Synonym	Wilms tumor
+8963/3	Preferred	Rhabdoid tumor, NOS
+8963/3	Synonym	Malignant rhabdoid tumor
+8963/3	Synonym	Rhabdoid sarcoma
+8964/3	Preferred	Clear cell sarcoma of kidney
+8966/0	Preferred	Renomedullary interstitial cell tumor
+8966/0	Synonym	Renomedullary fibroma
+8966/0	Synonym	Medullary fibroma
+8967/0	Preferred	Ossifying renal tumor
+8970/3	Preferred	Hepatoblastoma, NOS
+8970/3	Synonym	Embryonal hepatoma
+8970/3	Related	Hepatoblastoma, epithelioid
+8970/3	Related	Hepatoblastoma, mixed epithelial-mesenchymal
+8971/3	Preferred	Pancreatoblastoma
+8972/3	Preferred	Pulmonary blastoma
+8972/3	Synonym	Pneumoblastoma
+8973/3	Preferred	Pleuropulmonary blastoma
+8974/1	Preferred	Sialoblastoma
+8975/1	Preferred	Calcifying nested stromal-epithelial tumor
+8980/3	Preferred	Carcinosarcoma, NOS
+8981/3	Preferred	Carcinosarcoma, embryonal
+8982/0	Preferred	Myoepithelioma, NOS
+8982/0	Synonym	Myoepithelial adenoma
+8982/0	Synonym	Myoepithelial tumor
+8982/0	Synonym	Ectomesenchymal chondromyxoid tumor
+8982/3	Preferred	Myoepithelial carcinoma
+8982/3	Synonym	Malignant myoepithelioma
+8982/3	Synonym	Myoepithelioma, infiltrating
+8983/0	Preferred	Adenomyoepithelioma, NOS
+8983/0	Related	Adenomyoepithelioma, benign
+8983/3	Preferred	Adenomyoepithelioma with carcinoma
+8983/3	Synonym	Malignant adenomyoepithelioma
+8990/0	Preferred	Mesenchymoma, benign
+8990/0	Related	Phosphaturic mesenchymal tumor, benign
+8990/0	Synonym	Phosphaturic mesenchymal tumor, NOS
+8990/1	Preferred	Mesenchymoma, NOS
+8990/1	Synonym	Mixed mesenchymal tumor
+8990/1	Related	Primitive non-neural granular cell tumor
+8990/3	Preferred	Mesenchymoma, malignant
+8990/3	Synonym	Mixed mesenchymal sarcoma
+8990/3	Related	Phosphaturic mesenchymal tumor, malignant
+8991/3	Preferred	Embryonal sarcoma
+8992/0	Preferred	Pulmonary hamartoma
+900-903	2	Fibroepithelial neoplasms
+9000/0	Preferred	Brenner tumor, NOS
+9000/1	Preferred	Brenner tumor, borderline malignancy
+9000/1	Synonym	Borderline Brenner tumor
+9000/1	Synonym	Brenner tumor, atypical proliferative
+9000/1	Synonym	Brenner tumor, proliferating
+9000/3	Preferred	Brenner tumor, malignant
+9010/0	Preferred	Fibroadenoma, NOS
+9010/0	Related	Lipofibroadenoma
+9011/0	Preferred	Intracanalicular fibroadenoma
+9012/0	Preferred	Pericanalicular fibroadenoma
+9013/0	Preferred	Adenofibroma, NOS
+9013/0	Related	Metanephric adenofibroma
+9013/0	Synonym	Nephrogenic adenofibroma
+9013/0	Related	Cystadenofibroma, NOS
+9013/0	Related	Papillary adenofibroma
+9014/0	Preferred	Serous adenofibroma, NOS
+9014/0	Related	Serous cystadenofibroma, NOS
+9014/0	Related	Seromucinous adenofibroma
+9014/1	Preferred	Serous adenofibroma of borderline malignancy
+9014/1	Related	Serous cystadenofibroma of borderline malignancy
+9014/3	Preferred	Serous adenocarcinofibroma
+9014/3	Synonym	Malignant serous adenofibroma
+9014/3	Related	Serous cystadenocarcinofibroma
+9014/3	Synonym	Malignant serous cystadenofibroma
+9015/0	Preferred	Mucinous adenofibroma, NOS
+9015/0	Related	Mucinous cystadenofibroma, NOS
+9015/1	Preferred	Mucinous adenofibroma of borderline malignancy
+9015/1	Related	Mucinous cystadenofibroma of borderline malignancy
+9015/3	Preferred	Mucinous adenocarcinofibroma
+9015/3	Synonym	Malignant mucinous adenofibroma
+9015/3	Related	Mucinous cystadenocarcinofibroma
+9015/3	Synonym	Malignant mucinous cystadenofibroma
+9016/0	Preferred	Giant fibroadenoma
+9020/0	Preferred	Phyllodes tumor, benign
+9020/0	Synonym	Cystosarcoma phyllodes, benign
+9020/1	Preferred	Phyllodes tumor, borderline
+9020/1	Synonym	Cystosarcoma phyllodes, NOS
+9020/1	Synonym	Phyllodes tumor, NOS
+9020/3	Preferred	Phyllodes tumor, malignant
+9020/3	Synonym	Cystosarcoma phyllodes, malignant
+9020/3	Related	Periductal stromal tumor, low grade
+9030/0	Preferred	Juvenile fibroadenoma
+904	2	Synovial-like neoplasms
+9040/0	Preferred	Synovioma, benign
+9040/3	Preferred	Synovial sarcoma, NOS
+9040/3	Synonym	Synovioma, NOS
+9040/3	Synonym	Synovioma, malignant
+9041/3	Preferred	Synovial sarcoma, spindle cell
+9041/3	Synonym	Synovial sarcoma, monophasic fibrous
+9042/3	Preferred	Synovial sarcoma, epithelioid cell
+9043/3	Preferred	Synovial sarcoma, biphasic
+9044/3	Preferred	Clear cell sarcoma, NOS (except of kidney M-8964/3)
+9044/3	Related	Malignant melanoma of soft parts
+9045/3	Preferred	Biphenotypic sinonasal sarcoma
+905	2	Mesothelial neoplasms
+9050/0	Preferred	Mesothelioma, benign
+9050/3	Preferred	Mesothelioma, malignant
+9050/3	Synonym	Mesothelioma, NOS
+9051/0	Preferred	Fibrous mesothelioma, benign
+9051/3	Preferred	Fibrous mesothelioma, malignant
+9051/3	Synonym	Fibrous mesothelioma, NOS
+9051/3	Synonym	Desmoplastic mesothelioma
+9051/3	Synonym	Sarcomatoid mesothelioma
+9051/3	Synonym	Spindled mesothelioma
+9052/0	Preferred	Epithelioid mesothelioma, benign
+9052/0	Related	Well differentiated papillary mesothelioma (except of pleura M-9052/1)
+9052/0	Synonym	Mesothelial papilloma
+9052/1	Preferred	Well differentiated papillary mesothelioma of pleura
+9052/3	Preferred	Epithelioid mesothelioma, malignant
+9052/3	Synonym	Epithelioid mesothelioma, NOS
+9053/3	Preferred	Mesothelioma, biphasic, malignant
+9053/3	Synonym	Mesothelioma, biphasic, NOS
+9054/0	Preferred	Adenomatoid tumor, NOS
+9055/0	Preferred	Peritoneal inclusion cysts
+9055/0	Synonym	Cystic mesothelioma
+9055/0	Synonym	Multicystic mesothelioma
+906-909	2	Germ cell neoplasms
+9060/3	Preferred	Dysgerminoma
+9061/3	Preferred	Seminoma, NOS
+9062/3	Preferred	Seminoma, anaplastic
+9062/3	Synonym	Seminoma with high mitotic index
+9063/3	Preferred	Spermatocytic seminoma
+9063/3	Synonym	Spermatocytoma
+9063/3	Synonym	Spermatocytic tumor
+9064/2	Preferred	Intratubular malignant germ cells
+9064/2	Synonym	Intratubular germ cell neoplasia
+9064/2	Synonym	Germ cell neoplasia in situ
+9064/3	Preferred	Germinoma
+9064/3	Synonym	Germ cell tumor, NOS
+9065/3	Preferred	Germ cell tumor, nonseminomatous
+9070/3	Preferred	Embryonal carcinoma, NOS
+9070/3	Synonym	Embryonal adenocarcinoma
+9071/3	Preferred	Yolk sac tumor, NOS
+9071/3	Synonym	Embryonal carcinoma, infantile
+9071/3	Synonym	Yolk sac tumor, pre-pubertal type
+9071/3	Synonym	Endodermal sinus tumor
+9071/3	Synonym	Orchioblastoma
+9071/3	Synonym	Polyvesicular vitelline tumor
+9071/3	Related	Hepatoid yolk sac tumor
+9071/3	Related	Yolk sac tumor, post-pubertal type
+9072/3	Preferred	Polyembryoma
+9072/3	Synonym	Embryonal carcinoma, polyembryonal type
+9073/1	Preferred	Gonadoblastoma
+9073/1	Synonym	Gonocytoma
+9080/0	Preferred	Teratoma, benign
+9080/0	Synonym	Adult teratoma, NOS
+9080/0	Synonym	Cystic teratoma, NOS
+9080/0	Synonym	Adult cystic teratoma
+9080/0	Synonym	Mature teratoma, NOS
+9080/0	Synonym	Teratoma, differentiated
+9080/1	Preferred	Teratoma, NOS
+9080/1	Synonym	Solid teratoma
+9080/1	Related	Germ cell tumor, regressed
+9080/1	Related	Immature teratoma of lung
+9080/1	Related	Immature teratoma of thymus
+9080/1	Related	Immature teratoma of thyroid
+9080/3	Preferred	Teratoma, malignant, NOS
+9080/3	Synonym	Embryonal teratoma
+9080/3	Synonym	Teratoblastoma, malignant
+9080/3	Related	Immature teratoma, malignant
+9080/3	Synonym	Immature teratoma, NOS (except of lung, thymus or thyroid M-9080/1)
+9081/3	Preferred	Teratocarcinoma
+9081/3	Synonym	Mixed embryonal carcinoma and teratoma
+9081/3	Related	Teratocarcinosarcoma
+9082/3	Preferred	Malignant teratoma, undifferentiated
+9082/3	Synonym	Malignant teratoma, anaplastic
+9083/3	Preferred	Malignant teratoma, intermediate
+9084/0	Preferred	Dermoid cyst, NOS
+9084/0	Synonym	Dermoid, NOS
+9084/0	Related	Teratoma, prepubertal type
+9084/0	Synonym	Teratoma, mature, prepubertal type
+9084/3	Preferred	Teratoma with malignant transformation
+9084/3	Synonym	Teratoma with somatic type malignancies
+9084/3	Synonym	Dermoid cyst with malignant transformation
+9084/3	Synonym	Dermoid cyst with secondary tumor
+9085/3	Preferred	Mixed germ cell tumor
+9085/3	Related	Mixed teratoma and seminoma
+9086/3	Preferred	Germ cell tumor with associated hematological malignancy
+9090/0	Preferred	Struma ovarii, NOS
+9090/3	Preferred	Struma ovarii, malignant
+9091/1	Preferred	Strumal carcinoid
+9091/1	Synonym	Struma ovarii and carcinoid
+910	2	Trophoblastic neoplasms
+9100/0	Preferred	Hydatidiform mole, NOS
+9100/0	Synonym	Complete hydatidiform mole
+9100/0	Synonym	Hydatid mole
+9100/1	Preferred	Invasive hydatidiform mole
+9100/1	Synonym	Invasive mole, NOS
+9100/1	Synonym	Chorioadenoma, NOS
+9100/1	Synonym	Chorioadenoma destruens
+9100/1	Synonym	Malignant hydatidiform mole
+9100/3	Preferred	Choriocarcinoma, NOS
+9100/3	Synonym	Chorioepithelioma
+9100/3	Synonym	Chorionepithelioma
+9101/3	Preferred	Choriocarcinoma combined with other germ cell elements
+9101/3	Synonym	Choriocarcinoma combined with embryonal carcinoma
+9101/3	Synonym	Choriocarcinoma combined with teratoma
+9102/3	Preferred	Malignant teratoma, trophoblastic
+9103/0	Preferred	Partial hydatidiform mole
+9104/1	Preferred	Placental site trophoblastic tumor
+9105/3	Preferred	Trophoblastic tumor, epithelioid
+911	2	Mesonephromas
+9110/0	Preferred	Adenoma of rete ovarii
+9110/0	Related	Mesonephroma, benign
+9110/0	Synonym	Mesonephric adenoma
+9110/0	Synonym	Wolffian duct adenoma
+9110/1	Preferred	Wolffian tumor
+9110/1	Synonym	Wolffian duct tumor
+9110/1	Synonym	Mesonephric tumor
+9110/3	Preferred	Mesonephroma, malignant
+9110/3	Synonym	Mesonephroma, NOS
+9110/3	Synonym	Mesonephric adenocarcinoma
+9110/3	Synonym	Wolffian duct carcinoma
+9110/3	Related	Adenocarcinoma of rete ovarii
+912-916	2	Blood vessel tumors
+9120/0	Preferred	Hemangioma, NOS
+9120/0	Synonym	Angioma, NOS
+9120/0	Synonym	Chorioangioma
+9120/0	Related	Cherry hemangioma
+9120/0	Related	Sinusoidal hemangioma
+9120/0	Related	Microvenular hemangioma
+9120/0	Related	Glomeruloid hemangioma
+9120/0	Related	Spindle cell hemangioma
+9120/0	Related	Hobnail hemangioma
+9120/3	Preferred	Hemangiosarcoma
+9120/3	Synonym	Angiosarcoma
+9121/0	Preferred	Cavernous hemangioma
+9122/0	Preferred	Venous hemangioma
+9123/0	Preferred	Racemose hemangioma
+9123/0	Synonym	Arteriovenous hemangioma
+9124/3	Preferred	Kupffer cell sarcoma
+9125/0	Preferred	Epithelioid hemangioma
+9125/0	Synonym	Histiocytoid hemangioma
+9125/0	Related	Cutaneous epithelioid angiomatoid nodule
+9126/0	Preferred	Atypical vascular lesion
+9130/0	Preferred	Hemangioendothelioma, benign
+9130/1	Preferred	Hemangioendothelioma, NOS
+9130/1	Synonym	Angioendothelioma
+9130/1	Related	Kaposiform hemangioendothelioma
+9130/3	Preferred	Hemangioendothelioma, malignant
+9130/3	Synonym	Hemangioendothelial sarcoma
+9131/0	Preferred	Capillary hemangioma
+9131/0	Synonym	Hemangioma simplex
+9131/0	Synonym	Infantile hemangioma
+9131/0	Synonym	Juvenile hemangioma
+9131/0	Synonym	Plexiform hemangioma
+9131/0	Related	Lobular capillary hemangioma
+9131/0	Related	Congenital hemangioma, NOS
+9131/0	Related	Congenital hemangioma, rapidly involuting
+9131/0	Related	Congenital hemangioma, non-involuting
+9132/0	Preferred	Intramuscular hemangioma
+9132/0	Synonym	Intramuscular angioma
+9133/3	Preferred	Epithelioid hemangioendothelioma, NOS
+9133/3	Synonym	Epithelioid hemangioendothelioma, malignant
+9133/3	Related	Intravascular bronchial alveolar tumor
+9135/1	Preferred	Papillary intralymphatic angioendothelioma
+9135/1	Synonym	Endovascular papillary angioendothelioma
+9135/1	Synonym	Dabska tumor
+9136/1	Preferred	Spindle cell hemangioendothelioma
+9136/1	Synonym	Spindle cell angioendothelioma
+9136/1	Related	Retiform hemangioendothelioma
+9136/1	Related	Composite hemangioendothelioma
+9137/0	Preferred	Myointimoma
+9137/3	Preferred	Intimal sarcoma
+9138/1	Preferred	Pseudomyogenic (epithelioid sarcoma-like) hemangioendothelioma
+9140/3	Preferred	Kaposi sarcoma
+9140/3	Synonym	Multiple hemorrhagic sarcoma
+9141/0	Preferred	Angiokeratoma
+9142/0	Preferred	Verrucous keratotic hemangioma
+9142/0	Synonym	Verrucous venous malformation
+9160/0	Preferred	Angiofibroma, NOS
+9160/0	Synonym	Fibrous papule of nose
+9160/0	Synonym	Involuting nevus
+9160/0	Synonym	Juvenile angiofibroma
+9160/0	Related	Cellular angiofibroma
+9160/0	Related	Giant cell angiofibroma
+9161/0	Preferred	Acquired tufted hemangioma
+9161/0	Synonym	Tufted hemangioma
+9161/1	Preferred	Hemangioblastoma
+9161/1	Synonym	Angioblastoma
+917	2	Lymphatic vessel tumors
+9170/0	Preferred	Lymphangioma, NOS
+9170/0	Synonym	Lymphangioendothelioma, NOS
+9170/3	Preferred	Lymphangiosarcoma
+9170/3	Synonym	Lymphangioendothelial sarcoma
+9170/3	Synonym	Lymphangioendothelioma, malignant
+9171/0	Preferred	Capillary lymphangioma
+9172/0	Preferred	Cavernous lymphangioma
+9173/0	Preferred	Cystic lymphangioma
+9173/0	Synonym	Hygroma, NOS
+9173/0	Synonym	Cystic hygroma
+9174/0	Preferred	Lymphangiomyoma
+9174/1	Preferred	Lymphangioleiomyomatosis
+9174/1	Synonym	Lymphangiomyomatosis
+9175/0	Preferred	Hemolymphangioma
+918-924	2	Osseous and chondromatous neoplasms
+9180/0	Preferred	Osteoma, NOS
+9180/3	Preferred	Osteosarcoma, NOS
+9180/3	Synonym	Osteogenic sarcoma, NOS
+9180/3	Synonym	Osteoblastic sarcoma
+9180/3	Synonym	Osteochondrosarcoma
+9180/3	Related	Osteosarcoma, extraskeletal
+9181/3	Preferred	Chondroblastic osteosarcoma
+9182/3	Preferred	Fibroblastic osteosarcoma
+9182/3	Synonym	Osteofibrosarcoma
+9183/3	Preferred	Telangiectatic osteosarcoma
+9184/3	Preferred	Osteosarcoma in Paget disease of bone
+9184/3	Synonym	Secondary osteosarcoma
+9185/3	Preferred	Small cell osteosarcoma
+9185/3	Synonym	Round cell osteosarcoma
+9186/3	Preferred	Central osteosarcoma, NOS
+9186/3	Synonym	Conventional central osteosarcoma
+9186/3	Synonym	Medullary osteosarcoma
+9187/3	Preferred	Low grade central osteosarcoma
+9187/3	Synonym	Low grade intramedullary osteosarcoma
+9187/3	Related	Intraosseous well differentiated osteosarcoma
+9187/3	Synonym	Intraosseous low grade osteosarcoma
+9191/0	Preferred	Osteoid osteoma, NOS
+9192/3	Preferred	Parosteal osteosarcoma
+9192/3	Synonym	Juxtacortical osteosarcoma
+9193/3	Preferred	Periosteal osteosarcoma
+9194/3	Preferred	High grade surface osteosarcoma
+9195/3	Preferred	Intracortical osteosarcoma
+9200/0	Preferred	Osteoblastoma, NOS
+9200/0	Synonym	Giant osteoid osteoma
+9200/1	Preferred	Aggressive osteoblastoma
+9210/0	Preferred	Osteochondroma
+9210/0	Synonym	Cartilaginous exostosis
+9210/0	Synonym	Ecchondroma
+9210/0	Synonym	Osteocartilaginous exostosis
+9210/1	Preferred	Osteochondromatosis, NOS
+9210/1	Synonym	Ecchondrosis
+9211/0	Preferred	Osteochondromyxoma
+9212/0	Preferred	Bizarre parosteal osteochondromatous proliferation
+9213/0	Preferred	Subungual exostosis
+9220/0	Preferred	Chondroma, NOS
+9220/0	Related	Enchondroma
+9220/1	Preferred	Chondromatosis, NOS
+9220/3	Preferred	Chondrosarcoma, NOS
+9220/3	Related	Fibrochondrosarcoma
+9220/3	Related	Chondrosarcoma, grade 2
+9220/3	Related	Chondrosarcoma, grade 3
+9221/0	Preferred	Periosteal chondroma
+9221/0	Related	Juxtacortical chondroma
+9221/3	Preferred	Periosteal chondrosarcoma
+9221/3	Related	Juxtacortical chondrosarcoma
+9222/1	Preferred	Atypical cartilaginous tumor
+9222/1	Synonym	Chondrosarcoma, grade 1
+9230/1	Preferred	Chondroblastoma, NOS
+9230/1	Synonym	Chondromatous giant cell tumor
+9230/1	Synonym	Codman tumor
+9230/3	Preferred	Chondroblastoma, malignant
+9231/3	Preferred	Myxoid chondrosarcoma
+9240/3	Preferred	Mesenchymal chondrosarcoma
+9241/0	Preferred	Chondromyxoid fibroma
+9242/3	Preferred	Clear cell chondrosarcoma
+9243/3	Preferred	Dedifferentiated chondrosarcoma
+925	2	Giant cell tumors
+9250/1	Preferred	Giant cell tumor of bone, NOS
+9250/1	Synonym	Osteoclastoma, NOS
+9250/3	Preferred	Giant cell tumor of bone, malignant
+9250/3	Synonym	Giant cell sarcoma of bone
+9250/3	Synonym	Osteoclastoma, malignant
+9251/1	Preferred	Giant cell tumor of soft parts, NOS
+9251/3	Preferred	Malignant giant cell tumor of soft parts
+9252/0	Preferred	Tenosynovial giant cell tumor, NOS
+9252/0	Related	Tenosynovial giant cell tumor, localised
+9252/0	Synonym	Fibrous histiocytoma of tendon sheath
+9252/0	Synonym	Giant cell tumor of tendon sheath, NOS
+9252/1	Preferred	Tenosynovial giant cell tumor, diffuse
+9252/1	Synonym	Pigmented villonodular synovitis
+9252/3	Preferred	Malignant tenosynovial giant cell tumor
+9252/3	Synonym	Giant cell tumor of tendon sheath, malignant
+926	2	Miscellaneous bone tumors
+9260/0	Preferred	Aneurysmal bone cyst
+9261/3	Preferred	Adamantinoma of long bones
+9262/0	Preferred	Ossifying fibroma
+9262/0	Synonym	Fibro-osteoma
+9262/0	Synonym	Osteofibroma
+927-934	2	Odontogenic tumors
+9270/0	Preferred	Odontogenic tumor, benign
+9270/1	Preferred	Odontogenic tumor, NOS
+9270/3	Preferred	Odontogenic tumor, malignant
+9270/3	Synonym	Ameloblastic carcinoma
+9270/3	Synonym	Odontogenic carcinoma
+9270/3	Synonym	Odontogenic sarcoma
+9270/3	Synonym	Primary intraosseous carcinoma
+9271/0	Preferred	Ameloblastic fibrodentinoma
+9271/0	Synonym	Dentinoma
+9272/0	Preferred	Cementoma, NOS
+9272/0	Synonym	Periapical cemental dysplasia
+9272/0	Synonym	Periapical cemento-osseous dysplasia
+9273/0	Preferred	Cementoblastoma, benign
+9274/0	Preferred	Cemento-ossifying fibroma
+9274/0	Related	Cementifying fibroma
+9275/0	Preferred	Gigantiform cementoma
+9275/0	Synonym	Florid osseous dysplasia
+9280/0	Preferred	Odontoma, NOS
+9281/0	Preferred	Compound odontoma
+9282/0	Preferred	Complex odontoma
+9290/0	Preferred	Ameloblastic fibro-odontoma
+9290/0	Synonym	Fibroameloblastic odontoma
+9290/3	Preferred	Ameloblastic odontosarcoma
+9290/3	Synonym	Ameloblastic fibro-odontosarcoma
+9290/3	Synonym	Ameloblastic fibrodentinosarcoma
+9300/0	Preferred	Adenomatoid odontogenic tumor
+9300/0	Synonym	Adenoameloblastoma
+9301/0	Preferred	Calcifying odontogenic cyst
+9302/0	Preferred	Dentinogenic ghost cell tumor
+9302/0	Synonym	Odontogenic ghost cell tumor
+9302/3	Preferred	Ghost cell odontogenic carcinoma
+9310/0	Preferred	Ameloblastoma, NOS
+9310/0	Synonym	Adamantinoma, NOS (except of long bones M-9261/3)
+9310/3	Preferred	Ameloblastoma, metastasizing
+9310/3	Synonym	Ameloblastoma, malignant
+9310/3	Synonym	Adamantinoma, malignant (except of long bones M-9261/3)
+9311/0	Preferred	Odontoameloblastoma
+9312/0	Preferred	Squamous odontogenic tumor
+9320/0	Preferred	Odontogenic myxoma
+9320/0	Synonym	Odontogenic myxofibroma
+9321/0	Preferred	Odontogenic fibroma, NOS
+9321/0	Synonym	Central odontogenic fibroma
+9322/0	Preferred	Peripheral odontogenic fibroma
+9330/0	Preferred	Ameloblastic fibroma
+9330/3	Preferred	Ameloblastic fibrosarcoma
+9330/3	Synonym	Ameloblastic sarcoma
+9330/3	Synonym	Odontogenic fibrosarcoma
+9340/0	Preferred	Calcifying epithelial odontogenic tumor
+9340/0	Synonym	Pindborg tumor
+9341/3	Preferred	Clear cell odontogenic carcinoma
+9341/3	Synonym	Clear cell odontogenic tumor
+9342/3	Preferred	Odontogenic carcinosarcoma
+935-937	2	Miscellaneous tumors
+9350/1	Preferred	Craniopharyngioma, NOS
+9350/1	Synonym	Rathke pouch tumor
+9351/1	Preferred	Craniopharyngioma, adamantinomatous
+9352/1	Preferred	Craniopharyngioma, papillary
+9360/1	Preferred	Pinealoma
+9361/1	Preferred	Pineocytoma
+9362/3	Preferred	Pineoblastoma
+9362/3	Related	Mixed pineal tumor
+9362/3	Synonym	Mixed pineocytoma-pineoblastoma
+9362/3	Related	Pineal parenchymal tumor of intermediate differentiation
+9362/3	Related	Transitional pineal tumor
+9363/0	Preferred	Melanotic neuroectodermal tumor
+9363/0	Synonym	Melanoameloblastoma
+9363/0	Synonym	Melanotic progonoma
+9363/0	Synonym	Retinal anlage tumor
+9364/3	Preferred	Ewing sarcoma
+9364/3	Synonym	Ewing tumor
+9364/3	Synonym	Peripheral neuroectodermal tumor
+9364/3	Related	Neuroectodermal tumor, NOS
+9364/3	Related	Peripheral primitive neuroectodermal tumor
+9364/3	Synonym	PPNET
+9365/3	Preferred	Askin tumor
+9370/0	Preferred	Benign notochordal cell tumor
+9370/3	Preferred	Chordoma, NOS
+9371/3	Preferred	Chondroid chordoma
+9372/3	Preferred	Dedifferentiated chordoma
+9373/0	Preferred	Parachordoma
+938-948	2	Gliomas
+9380/3	Preferred	Glioma, malignant
+9380/3	Synonym	Glioma, NOS (except nasal glioma: not neoplastic)
+9381/3	Preferred	Gliomatosis cerebri
+9382/3	Preferred	Oligoastrocytoma, NOS
+9382/3	Synonym	Mixed glioma
+9382/3	Synonym	Anaplastic oligoastrocytoma
+9383/1	Preferred	Subependymoma
+9383/1	Synonym	Subependymal astrocytoma, NOS
+9383/1	Synonym	Subependymal glioma
+9383/1	Related	Mixed subependymoma-ependymoma
+9384/1	Preferred	Subependymal giant cell astrocytoma
+9385/3	Preferred	Diffuse midline glioma, H3 K27M-mutant
+9385/3	Related	Diffuse intrinsic pontine glioma, H3 K27M-mutant
+9390/0	Preferred	Choroid plexus papilloma, NOS
+9390/1	Preferred	Atypical choroid plexus papilloma
+9390/3	Preferred	Choroid plexus carcinoma
+9390/3	Synonym	Choroid plexus papilloma, anaplastic
+9390/3	Synonym	Choroid plexus papilloma, malignant
+9391/1	Preferred	Sellar ependymoma
+9391/3	Preferred	Ependymoma, NOS
+9391/3	Synonym	Epithelial ependymoma
+9391/3	Related	Cellular ependymoma
+9391/3	Related	Clear cell ependymoma
+9391/3	Related	Tanycytic ependymoma
+9392/3	Preferred	Ependymoma, anaplastic
+9392/3	Synonym	Ependymoblastoma
+9393/3	Preferred	Papillary ependymoma
+9394/1	Preferred	Myxopapillary ependymoma
+9395/3	Preferred	Papillary tumor of pineal region
+9396/3	Preferred	Ependymoma, RELA fusion positive
+9400/3	Preferred	Astrocytoma, NOS
+9400/3	Synonym	Astrocytic glioma
+9400/3	Synonym	Astroglioma
+9400/3	Related	Astrocytoma, low grade
+9400/3	Related	Cystic astrocytoma
+9400/3	Related	Diffuse astrocytoma, NOS
+9400/3	Related	Diffuse astrocytoma, low grade
+9400/3	Related	Diffuse astrocytoma, IDH-mutant
+9400/3	Related	Diffuse astrocytoma, IDH-wildtype
+9401/3	Preferred	Astrocytoma, anaplastic, NOS
+9401/3	Related	Astrocytoma, anaplastic, IDH-mutant
+9401/3	Related	Astrocytoma, anaplastic, IDH-wildtype
+9410/3	Preferred	Protoplasmic astrocytoma
+9411/3	Preferred	Gemistocytic astrocytoma, NOS
+9411/3	Synonym	Gemistocytic astrocytoma, IDH-mutant
+9411/3	Synonym	Gemistocytoma
+9412/1	Preferred	Desmoplastic infantile astrocytoma
+9412/1	Related	Desmoplastic infantile ganglioglioma
+9413/0	Preferred	Dysembryoplastic neuroepithelial tumor
+9420/3	Preferred	Fibrillary astrocytoma
+9420/3	Synonym	Fibrous astrocytoma
+9421/1	Preferred	Pilocytic astrocytoma
+9421/1	Synonym	Spongioblastoma, NOS
+9421/1	Synonym	Juvenile astrocytoma
+9421/1	Synonym	Piloid astrocytoma
+9423/3	Preferred	Polar spongioblastoma
+9423/3	Synonym	Primitive polar spongioblastoma
+9423/3	Synonym	Spongioblastoma polare
+9424/3	Preferred	Pleomorphic xanthoastrocytoma, NOS
+9424/3	Related	Anaplastic pleomorphic xanthoastrocytoma
+9425/3	Preferred	Pilomyxoid astrocytoma
+9430/3	Preferred	Astroblastoma
+9431/1	Preferred	Angiocentric glioma
+9432/1	Preferred	Pituicytoma
+9440/3	Preferred	Glioblastoma, NOS
+9440/3	Related	Epithelioid glioblastoma
+9440/3	Related	Glioblastoma, IDH-wildtype
+9440/3	Related	Glioblastoma, primary, NOS
+9440/3	Synonym	Glioblastoma multiforme
+9440/3	Synonym	Spongioblastoma multiforme
+9440/3	Related	Diffuse midline glioma, NOS (see also M-9385/3)
+9440/3	Related	Diffuse intrinsic pontine glioma (see also M-9385/3)
+9441/3	Preferred	Giant cell glioblastoma
+9441/3	Synonym	Monstrocellular sarcoma
+9442/1	Preferred	Gliofibroma
+9442/3	Preferred	Gliosarcoma
+9442/3	Synonym	Glioblastoma with sarcomatous component
+9444/1	Preferred	Chordoid glioma
+9444/1	Related	Chordoid glioma of third ventricle
+9445/3	Preferred	Glioblastoma, IDH-mutant
+9445/3	Synonym	Glioblastoma, secondary, IDH-mutant
+9445/3	Related	Glioblastoma, secondary, NOS
+9450/3	Preferred	Oligodendroglioma, NOS
+9450/3	Related	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted
+9451/3	Preferred	Oligodendroglioma, anaplastic, NOS
+9451/3	Related	Oligodendroglioma, anaplastic, IDH-mutant and 1p/19q codeleted
+9460/3	Preferred	Oligodendroblastoma
+9470/3	Preferred	Medulloblastoma, NOS
+9470/3	Related	Classic medulloblastoma
+9470/3	Related	Melanotic medulloblastoma
+9471/3	Preferred	Desmoplastic nodular medulloblastoma
+9471/3	Synonym	Circumscribed arachnoidal cerebellar sarcoma
+9471/3	Synonym	Desmoplastic medulloblastoma, NOS
+9471/3	Related	Medulloblastoma with extensive nodularity
+9471/3	Related	Medulloblastoma, SHH-activated and TP53-wildtype
+9471/3	Related	Medulloblastoma, SHH activated, NOS
+9472/3	Preferred	Medullomyoblastoma
+9473/3	Preferred	CNS embryonal tumor, NOS
+9473/3	Synonym	Primitive neuroectodermal tumor, NOS
+9473/3	Synonym	PNET, NOS
+9473/3	Related	Central primitive neuroectodermal tumor
+9473/3	Synonym	CPNET
+9473/3	Related	Supratentorial PNET
+9474/3	Preferred	Large cell medulloblastoma
+9474/3	Related	Anaplastic medulloblastoma
+9475/3	Preferred	Medulloblastoma, WNT-activated, NOS
+9475/3	Related	Medulloblastoma, WNT-activated, classic
+9475/3	Related	Medulloblastoma, WNT-activated, large cell type
+9475/3	Related	Medulloblastoma, WNT-activated, anaplastic type
+9476/3	Preferred	Medulloblastoma, SHH-activated and TP53-mutant
+9477/3	Preferred	Medulloblastoma, non-WNT/non-SHH
+9477/3	Related	Medulloblastoma, group 3
+9477/3	Related	Medulloblastoma, group 4
+9478/3	Preferred	Embryonal tumor with multilayered rosettes with C19MC alteration
+9478/3	Related	Embryonal tumor with multilayered rosettes, NOS
+9480/3	Preferred	Cerebellar sarcoma, NOS
+949-952	2	Neuroepitheliomatous neoplasms
+9490/0	Preferred	Ganglioneuroma
+9490/3	Preferred	Ganglioneuroblastoma
+9490/3	Related	CNS ganglioneuroblastoma
+9491/0	Preferred	Ganglioneuromatosis
+9492/0	Preferred	Gangliocytoma, NOS
+9493/0	Preferred	Dysplastic gangliocytoma of cerebellum (Lhermitte-Duclos)
+9500/3	Preferred	Neuroblastoma, NOS
+9500/3	Synonym	Central neuroblastoma
+9500/3	Synonym	CNS neuroblastoma
+9500/3	Synonym	Sympathicoblastoma
+9501/0	Preferred	Medulloepithelioma, benign
+9501/0	Synonym	Diktyoma, benign
+9501/3	Preferred	Medulloepithelioma, NOS
+9501/3	Synonym	Diktyoma, malignant
+9502/0	Preferred	Teratoid medulloepithelioma, benign
+9502/3	Preferred	Teratoid medulloepithelioma, NOS
+9503/3	Preferred	Neuroepithelioma, NOS
+9504/3	Preferred	Spongioneuroblastoma
+9505/1	Preferred	Ganglioglioma, NOS
+9505/1	Synonym	Glioneuroma
+9505/1	Synonym	Neuroastrocytoma
+9505/3	Preferred	Ganglioglioma, anaplastic
+9506/1	Preferred	Central neurocytoma
+9506/1	Synonym	Neurocytoma, NOS
+9506/1	Related	Cerebellar liponeurocytoma
+9506/1	Synonym	Lipomatous medulloblastoma
+9506/1	Synonym	Medullocytoma
+9506/1	Synonym	Neurolipocytoma
+9506/1	Related	Extraventricular neurocytoma
+9507/0	Preferred	Pacinian tumor
+9508/3	Preferred	Atypical teratoid/rhabdoid tumor
+9508/3	Related	CNS embryonal tumor with rhabdoid features
+9509/1	Preferred	Papillary glioneuronal tumor
+9509/1	Related	Rosette-forming glioneuronal tumor
+9510/0	Preferred	Retinocytoma
+9510/3	Preferred	Retinoblastoma, NOS
+9511/3	Preferred	Retinoblastoma, differentiated
+9512/3	Preferred	Retinoblastoma, undifferentiated
+9513/3	Preferred	Retinoblastoma, diffuse
+9514/1	Preferred	Retinoblastoma, spontaneously regressed
+9520/3	Preferred	Olfactory neurogenic tumor
+9521/3	Preferred	Olfactory neurocytoma
+9521/3	Synonym	Esthesioneurocytoma
+9522/3	Preferred	Olfactory neuroblastoma
+9522/3	Synonym	Esthesioneuroblastoma
+9523/3	Preferred	Olfactory neuroepithelioma
+9523/3	Synonym	Esthesioneuroepithelioma
+953	2	Meningiomas
+9530/0	Preferred	Meningioma, NOS
+9530/0	Related	Lymphoplasmacyte-rich meningioma
+9530/0	Related	Metaplastic meningioma
+9530/0	Related	Microcystic meningioma
+9530/0	Related	Secretory meningioma
+9530/3	Preferred	Meningioma, malignant
+9530/3	Synonym	Leptomeningeal sarcoma
+9530/3	Synonym	Meningeal sarcoma
+9530/3	Synonym	Meningioma, anaplastic
+9530/3	Synonym	Meningothelial sarcoma
+9531/0	Preferred	Meningothelial meningioma
+9531/0	Synonym	Endotheliomatous meningioma
+9531/0	Synonym	Syncytial meningioma
+9532/0	Preferred	Fibrous meningioma
+9532/0	Synonym	Fibroblastic meningioma
+9533/0	Preferred	Psammomatous meningioma
+9534/0	Preferred	Angiomatous meningioma
+9535/0	Preferred	Hemangioblastic meningioma
+9535/0	Synonym	Angioblastic meningioma
+9537/0	Preferred	Transitional meningioma
+9537/0	Synonym	Mixed meningioma
+9538/1	Preferred	Clear cell meningioma
+9538/1	Related	Chordoid meningioma
+9538/3	Preferred	Papillary meningioma
+9538/3	Related	Rhabdoid meningioma
+9539/1	Preferred	Atypical meningioma
+9539/3	Preferred	Meningeal sarcomatosis
+954-957	2	Nerve sheath tumors
+9540/0	Preferred	Neurofibroma, NOS
+9540/3	Preferred	Malignant peripheral nerve sheath tumor, NOS
+9540/3	Synonym	MPNST, NOS
+9540/3	Synonym	Neurofibrosarcoma
+9540/3	Synonym	Neurogenic sarcoma
+9540/3	Synonym	Neurosarcoma
+9540/3	Related	Melanotic MPNST
+9540/3	Related	Melanotic psammomatous MPNST
+9540/3	Related	MPNST with glandular differentiation
+9540/3	Related	MPNST with mesenchymal differentiation
+9540/3	Related	MPNST with perineurial differentiation
+9541/0	Preferred	Melanotic neurofibroma
+9542/3	Preferred	Malignant peripheral nerve sheath tumor, epithelioid
+9542/3	Synonym	Epithelioid MPNST
+9550/0	Preferred	Plexiform neurofibroma
+9550/0	Synonym	Plexiform neuroma
+9560/0	Preferred	Schwannoma, NOS
+9560/0	Synonym	Neurilemoma, NOS
+9560/0	Synonym	Neurinoma
+9560/0	Related	Acoustic neuroma
+9560/0	Related	Ancient schwannoma
+9560/0	Related	Cellular schwannoma
+9560/0	Related	Degenerated schwannoma
+9560/0	Related	Plexiform schwannoma
+9560/0	Related	Psammomatous schwannoma
+9560/1	Preferred	Melanotic schwannoma
+9560/1	Synonym	Pigmented schwannoma
+9560/3	Preferred	Neurilemoma, malignant
+9560/3	Synonym	Malignant schwannoma, NOS
+9560/3	Synonym	Neurilemosarcoma
+9561/3	Preferred	Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation
+9561/3	Synonym	Malignant schwannoma with rhabdomyoblastic differentiation
+9561/3	Synonym	MPNST with rhabdomyoblastic differentiation
+9561/3	Synonym	Triton tumor, malignant
+9562/0	Preferred	Nerve sheath myxoma
+9562/0	Synonym	Neurothekeoma
+9562/0	Related	Cellular neurothekeoma
+9563/0	Preferred	Nerve sheath tumor, NOS
+9563/0	Related	Hybrid nerve sheath tumor
+9570/0	Preferred	Neuroma, NOS
+9570/0	Related	Solitary circumscribed neuroma
+9571/0	Preferred	Perineurioma, NOS
+9571/0	Related	Intraneural perineurioma
+9571/0	Related	Soft tissue perineurioma
+9571/3	Preferred	Perineurioma, malignant
+958	2	Granular cell tumors and alveolar soft part sarcomas
+9580/0	Preferred	Granular cell tumor, NOS (except of sellar region M-9582/0)
+9580/0	Synonym	Granular cell myoblastoma, NOS
+9580/3	Preferred	Granular cell tumor, malignant
+9580/3	Synonym	Granular cell myoblastoma, malignant
+9581/3	Preferred	Alveolar soft part sarcoma
+9582/0	Preferred	Granular cell tumor of sellar region
+959-972	2	Hodgkin and non-Hodgkin lymphomas
+959	3	Malignant lymphomas, NOS or diffuse
+9590/3	Preferred	Malignant lymphoma, NOS
+9590/3	Synonym	Lymphoma, NOS
+9590/3	Synonym	Microglioma
+9591/1	Preferred	Monoclonal B-cell lymphocytosis, NOS (see also M-9823/1)
+9591/1	Related	Monoclonal B-cell lymphocytosis, non-CLL type
+9591/3	Preferred	Malignant lymphoma, non-Hodgkin, NOS
+9591/3	Synonym	Non-Hodgkin lymphoma, NOS
+9591/3	Related	B-cell lymphoma, NOS
+9591/3	Related	Lymphosarcoma, NOS
+9591/3	Synonym	Lymphosarcoma, diffuse
+9591/3	Related	Malignant lymphoma, diffuse, NOS
+9591/3	Related	Malignant lymphoma, non-cleaved cell, NOS
+9591/3	Related	Reticulum cell sarcoma, NOS
+9591/3	Synonym	Reticulosarcoma, NOS
+9591/3	Synonym	Reticulum cell sarcoma, diffuse
+9591/3	Synonym	Reticulosarcoma, diffuse
+9591/3	Related	Hairy cell leukemia variant
+9591/3	Related	Malignant lymphoma, lymphocytic, intermediate differentiation, nodular
+9591/3	Related	Malignant lymphoma, lymphocytic, poorly differentiated, diffuse
+9591/3	Synonym	Malignant lymphoma, cleaved cell, NOS
+9591/3	Synonym	Malignant lymphoma, small cleaved cell, NOS
+9591/3	Related	Malignant lymphoma, small cell, noncleaved, diffuse
+9591/3	Synonym	Malignant lymphoma, undifferentiated cell type, NOS
+9591/3	Synonym	Malignant lymphoma, undifferentiated cell, non-Burkitt
+9591/3	Related	Malignant lymphoma, small cleaved cell, diffuse
+9591/3	Related	Splenic B-cell lymphoma/leukemia, unclassifiable
+9591/3	Related	Splenic diffuse red pulp small B-cell lymphoma
+9596/3	Preferred	Composite Hodgkin and non-Hodgkin lymphoma
+9596/3	Related	B-cell lymphoma, unclassifiable, with features intermediate between diffuse large B-cell lymphoma and classical Hodgkin lymphoma
+9597/3	Preferred	Primary cutaneous follicle center lymphoma
+965-966	3	Hodgkin lymphomas
+9650/3	Preferred	Hodgkin lymphoma, NOS
+9650/3	Synonym	Hodgkin disease, NOS
+9650/3	Synonym	Malignant lymphoma, Hodgkin
+9650/3	Related	Classical Hodgkin lymphoma post-transplant lymphoproliferative disease
+9651/3	Preferred	Hodgkin lymphoma, lymphocyte-rich
+9651/3	Synonym	Classical Hodgkin lymphoma, lymphocyte-rich
+9651/3	Related	Hodgkin disease, lymphocyte predominance, NOS
+9651/3	Synonym	Hodgkin disease, lymphocyte predominance, diffuse
+9651/3	Synonym	Hodgkin disease, lymphocytic-histiocytic predominance
+9652/3	Preferred	Hodgkin lymphoma, mixed cellularity, NOS
+9652/3	Synonym	Classical Hodgkin lymphoma, mixed cellularity, NOS
+9653/3	Preferred	Hodgkin lymphoma, lymphocyte depletion, NOS
+9653/3	Synonym	Classical Hodgkin lymphoma, lymphocyte depletion, NOS
+9654/3	Preferred	Hodgkin lymphoma, lymphocyte depletion, diffuse fibrosis
+9654/3	Synonym	Classical Hodgkin lymphoma, lymphocyte depletion, diffuse fibrosis
+9655/3	Preferred	Hodgkin lymphoma, lymphocyte depletion, reticular
+9655/3	Synonym	Classical Hodgkin lymphoma, lymphocyte depletion, reticular
+9659/3	Preferred	Hodgkin lymphoma, nodular lymphocyte predominant
+9659/3	Synonym	Hodgkin paragranuloma, NOS
+9659/3	Synonym	Hodgkin paragranuloma, nodular
+9661/3	Preferred	Hodgkin granuloma
+9662/3	Preferred	Hodgkin sarcoma
+9663/3	Preferred	Hodgkin lymphoma, nodular sclerosis, NOS
+9663/3	Synonym	Classical Hodgkin lymphoma, nodular sclerosis, NOS
+9663/3	Synonym	Hodgkin disease, nodular sclerosis, NOS
+9664/3	Preferred	Hodgkin lymphoma, nodular sclerosis, cellular phase
+9664/3	Synonym	Classical Hodgkin lymphoma, nodular sclerosis, cellular phase
+9665/3	Preferred	Hodgkin lymphoma, nodular sclerosis, grade 1
+9665/3	Synonym	Classical Hodgkin lymphoma, nodular sclerosis, grade 1
+9665/3	Synonym	Hodgkin disease, nodular sclerosis, lymphocyte predominance
+9665/3	Synonym	Hodgkin disease, nodular sclerosis, mixed cellularity
+9667/3	Preferred	Hodgkin lymphoma, nodular sclerosis, grade 2
+9667/3	Synonym	Classical Hodgkin lymphoma, nodular sclerosis, grade 2
+9667/3	Synonym	Hodgkin disease, nodular sclerosis, lymphocyte depletion
+9667/3	Synonym	Hodgkin disease, nodular sclerosis, syncytial variant
+967-972	3	Non-hodgkin lymphomas
+967-969	3	Mature B-cell lymphomas
+9671/3	Preferred	Lymphoplasmacytic lymphoma (see also M-9761/3)
+9671/3	Synonym	Malignant lymphoma, lymphoplasmacytoid
+9671/3	Related	Immunocytoma
+9671/3	Related	Malignant lymphoma, plasmacytoid
+9671/3	Related	Plasmacytic lymphoma
+9673/1	Preferred	In situ mantle cell neoplasia
+9673/1	Synonym	In situ mantle cell lymphoma
+9673/3	Preferred	Mantle cell lymphoma includes all variants
+9673/3	Synonym	Malignant lymphoma, centrocytic
+9673/3	Synonym	Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse
+9673/3	Synonym	Malignant lymphomatous polyposis
+9673/3	Synonym	Mantle zone lymphoma
+9675/3	Preferred	Malignant lymphoma, mixed small and large cell, diffuse (see also M-9690/3)
+9675/3	Synonym	Malignant lymphoma, centroblastic-centrocytic, NOS
+9675/3	Synonym	Malignant lymphoma, centroblastic-centrocytic, diffuse
+9675/3	Synonym	Malignant lymphoma, mixed cell type, diffuse
+9675/3	Synonym	Malignant lymphoma, mixed lymphocytic-histiocytic, diffuse
+9678/3	Preferred	Primary effusion lymphoma
+9679/3	Preferred	Mediastinal large B-cell lymphoma
+9679/3	Synonym	Thymic large B-cell lymphoma
+9680/1	Preferred	EBV positive mucocutaneous ulcer
+9680/3	Preferred	Diffuse large B-cell lymphoma, NOS
+9680/3	Synonym	Malignant lymphoma, large B-cell, diffuse, NOS
+9680/3	Synonym	Malignant lymphoma, histiocytic, NOS
+9680/3	Synonym	Malignant lymphoma, large B-cell, NOS
+9680/3	Synonym	Malignant lymphoma, large B-cell, diffuse, centroblastic, NOS
+9680/3	Synonym	Malignant lymphoma, large cell, NOS
+9680/3	Synonym	Malignant lymphoma, large cell, cleaved, NOS
+9680/3	Synonym	Malignant lymphoma, large cell, diffuse, NOS
+9680/3	Synonym	Malignant lymphoma, large cell, noncleaved, NOS
+9680/3	Synonym	Malignant lymphoma, noncleaved, NOS
+9680/3	Synonym	Malignant lymphoma, noncleaved, diffuse, NOS
+9680/3	Synonym	Malignant lymphoma, histiocytic, diffuse
+9680/3	Synonym	Malignant lymphoma, large cell, cleaved and noncleaved
+9680/3	Synonym	Malignant lymphoma, large cell, cleaved, diffuse
+9680/3	Synonym	Malignant lymphoma, large cell, noncleaved, diffuse
+9680/3	Related	Malignant lymphoma, centroblastic, NOS
+9680/3	Related	Diffuse large B-cell lymphoma, germinal center B-cell subtype
+9680/3	Related	Diffuse large B-cell lymphoma, activated B-cell subtype
+9680/3	Related	Malignant lymphoma, centroblastic, diffuse
+9680/3	Related	Anaplastic large B-cell lymphoma
+9680/3	Related	B-cell lymphoma, unclassifiable, with features intermediate between diffuse large B-cell lymphoma and Burkitt lymphoma
+9680/3	Related	Diffuse large B-cell lymphoma associated with chronic inflammation
+9680/3	Related	EBV positive diffuse large B-cell lymphoma
+9680/3	Related	Primary cutaneous diffuse large B-cell lymphoma, leg type
+9680/3	Related	Primary diffuse large B-cell lymphoma of CNS
+9680/3	Related	High grade B-cell lymphoma, NOS
+9680/3	Related	High grade B-cell lymphoma with MYC and BCL2 and/or BCL6 rearrangements
+9680/3	Related	Vitreoretinal lymphoma
+9684/3	Preferred	Malignant lymphoma, large B-cell, diffuse, immunoblastic, NOS
+9684/3	Synonym	Malignant lymphoma, immunoblastic, NOS
+9684/3	Synonym	Immunoblastic sarcoma
+9684/3	Synonym	Malignant lymphoma, large cell, immunoblastic
+9687/3	Preferred	Burkitt lymphoma, NOS includes all variants
+9687/3	Synonym	Burkitt tumor
+9687/3	Synonym	Malignant lymphoma, small noncleaved, Burkitt type
+9687/3	Synonym	Malignant lymphoma, undifferentiated, Burkitt type
+9687/3	Related	Burkitt-like lymphoma, NOS
+9687/3	Related	Burkitt-like lymphoma with 11q aberration
+9687/3	Synonym	Burkitt cell leukemia
+9687/3	Synonym	Acute leukemia, Burkitt type
+9687/3	Synonym	Acute lymphoblastic leukemia, mature B-cell type
+9687/3	Synonym	B-ALL
+9687/3	Synonym	FAB L3
+9688/3	Preferred	T-cell/histiocyte rich large B-cell lymphoma
+9688/3	Synonym	T-cell rich large B-cell lymphoma
+9688/3	Synonym	Histiocyte-rich large B-cell lymphoma
+9689/3	Preferred	Splenic marginal zone B-cell lymphoma
+9689/3	Synonym	Splenic marginal zone lymphoma, NOS
+9689/3	Synonym	Splenic lymphoma with villous lymphocytes
+9690/3	Preferred	Follicular lymphoma, NOS (see also M-9675/3)
+9690/3	Synonym	Malignant lymphoma, follicle center, NOS
+9690/3	Synonym	Malignant lymphoma, follicular, NOS
+9690/3	Synonym	Malignant lymphoma, lymphocytic, nodular, NOS
+9690/3	Synonym	Malignant lymphoma, nodular, NOS
+9690/3	Synonym	Malignant lymphoma, centroblastic-centrocytic, follicular
+9690/3	Synonym	Malignant lymphoma, follicle center, follicular
+9690/3	Related	Follicular lymphoma, pediatric type
+9691/3	Preferred	Follicular lymphoma, grade 2
+9691/3	Synonym	Malignant lymphoma, mixed cell type, follicular
+9691/3	Synonym	Malignant lymphoma, mixed cell type, nodular
+9691/3	Synonym	Malignant lymphoma, mixed lymphocytic-histiocytic, nodular
+9691/3	Synonym	Malignant lymphoma, mixed small cleaved and large cell, follicular
+9695/1	Preferred	In situ follicular neoplasia
+9695/1	Synonym	In situ follicular lymphoma
+9695/3	Preferred	Follicular lymphoma, grade 1
+9695/3	Synonym	Follicular lymphoma, small cleaved cell
+9695/3	Synonym	Malignant lymphoma, lymphocytic, poorly differentiated, nodular
+9695/3	Synonym	Malignant lymphoma, small cleaved cell, follicular
+9695/3	Related	Follicular lymphoma, duodenal type
+9698/3	Preferred	Follicular lymphoma, grade 3
+9698/3	Synonym	Malignant lymphoma, large cell, follicular, NOS
+9698/3	Synonym	Malignant lymphoma, noncleaved cell, follicular, NOS
+9698/3	Synonym	Follicular lymphoma, grade 3A
+9698/3	Synonym	Follicular lymphoma, grade 3B
+9698/3	Synonym	Malignant lymphoma, centroblastic, follicular
+9698/3	Synonym	Malignant lymphoma, histiocytic, nodular
+9698/3	Synonym	Malignant lymphoma, large cell, noncleaved, follicular
+9698/3	Synonym	Malignant lymphoma, large cleaved cell, follicular
+9698/3	Synonym	Malignant lymphoma, lymphocytic, well differentiated, nodular
+9698/3	Related	Large B-cell lymphoma with IRF4 rearrangement
+9699/3	Preferred	Marginal zone B-cell lymphoma, NOS
+9699/3	Synonym	Marginal zone lymphoma, NOS
+9699/3	Synonym	BALT lymphoma
+9699/3	Synonym	Bronchus-associated lymphoid tissue lymphoma
+9699/3	Synonym	MALT lymphoma
+9699/3	Synonym	Monocytoid B-cell lymphoma
+9699/3	Synonym	Mucosa-associated lymphoid tissue lymphoma
+9699/3	Synonym	Nodal marginal zone lymphoma
+9699/3	Synonym	SALT lymphoma
+9699/3	Synonym	Skin-associated lymphoid tissue lymphoma
+9699/3	Related	Extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue
+9699/3	Related	Primary choroidal lymphoma
+970-971	3	Mature T- and NK-cell lymphomas
+9700/3	Preferred	Mycosis fungoides
+9700/3	Synonym	Pagetoid reticulosis
+9700/3	Related	Granulomatous slack skin
+9701/3	Preferred	Sezary syndrome
+9701/3	Synonym	Sezary disease
+9702/1	Preferred	Indolent T-cell lymphoproliferative disorder of gastrointestinal tract
+9702/3	Preferred	Mature T-cell lymphoma, NOS
+9702/3	Synonym	Peripheral T-cell lymphoma, NOS
+9702/3	Synonym	T-cell lymphoma, NOS
+9702/3	Synonym	Peripheral T-cell lymphoma, large cell
+9702/3	Synonym	Peripheral T-cell lymphoma, pleomorphic medium and large cell
+9702/3	Synonym	Peripheral T-cell lymphoma, pleomorphic small cell
+9702/3	Synonym	T-zone lymphoma
+9702/3	Related	Lymphoepithelioid lymphoma
+9702/3	Synonym	Lennert lymphoma
+9702/3	Related	Follicular T-cell lymphoma
+9702/3	Related	Nodal peripheral T-cell lymphoma with T follicular helper phenotype
+9705/3	Preferred	Angioimmunoblastic T-cell lymphoma
+9705/3	Synonym	Angioimmunoblastic lymphoma
+9705/3	Synonym	Peripheral T-cell lymphoma, AILD (Angioimmunoblastic Lymphadenopathy with Dysproteinemia)
+9708/3	Preferred	Subcutaneous panniculitis-like T-cell lymphoma
+9709/1	Preferred	Primary cutaneous CD4 positive small/medium T-cell lymphoproliferative disorder
+9709/1	Related	Primary cutaneous CD4 positive small/medium T-cell lymphoma
+9709/3	Preferred	Cutaneous T-cell lymphoma, NOS
+9709/3	Synonym	Cutaneous lymphoma, NOS
+9709/3	Related	Primary cutaneous CD8 positive aggressive epidermotropic cytotoxic T-cell lymphoma
+9709/3	Related	Primary cutaneous acral CD8 positive T-cell lymphoma
+9712/3	Preferred	Intravascular large B-cell lymphoma
+9712/3	Synonym	Intravascular B-cell lymphoma
+9712/3	Synonym	Angioendotheliomatosis
+9712/3	Synonym	Angiotropic lymphoma
+9714/3	Preferred	Anaplastic large cell lymphoma, T-cell and Null-cell type
+9714/3	Synonym	Large cell (Ki-1 positive) lymphoma
+9714/3	Related	Anaplastic large cell lymphoma, NOS
+9714/3	Synonym	Anaplastic large cell lymphoma, CD30 positive
+9714/3	Related	Anaplastic large cell lymphoma, ALK positive
+9715/3	Preferred	Anaplastic large cell lymphoma, ALK negative
+9715/3	Related	Breast implant-associated anaplastic large cell lymphoma
+9716/3	Preferred	Hepatosplenic T-cell lymphoma
+9716/3	Synonym	Hepatosplenic gamma-delta cell lymphoma
+9717/3	Preferred	Intestinal T-cell lymphoma
+9717/3	Synonym	Enteropathy-associated T-cell lymphoma
+9717/3	Synonym	Enteropathy type intestinal T-cell lymphoma
+9717/3	Related	Monomorphic epitheliotropic intestinal T-cell lymphoma
+9718/1	Preferred	Primary cutaneous CD30 positive T-cell lymphoproliferative disorder
+9718/1	Synonym	Lymphomatoid papulosis
+9718/3	Preferred	Primary cutaneous anaplastic large cell lymphoma
+9718/3	Synonym	Primary cutaneous CD30 positive large T-cell lymphoma
+9719/3	Preferred	NK/T-cell lymphoma, nasal and nasal type
+9719/3	Synonym	Malignant reticulosis, NOS
+9719/3	Synonym	Angiocentric T-cell lymphoma
+9719/3	Synonym	Extranodal NK/T-cell lymphoma, nasal type
+9719/3	Synonym	Malignant midline reticulosis
+9719/3	Synonym	Polymorphic reticulosis
+9719/3	Synonym	T/NK-cell lymphoma
+972	3	Precursor cell lymphoblastic lymphomas
+9724/3	Preferred	Systemic EBV positive T-cell lymphoproliferative disease of childhood
+9725/1	Preferred	Hydroa vacciniforme-like lymphoproliferative disorder
+9725/1	Synonym	Hydroa vacciniforme-like lymphoma
+9726/3	Preferred	Primary cutaneous gamma-delta T-cell lymphoma
+9727/3	Preferred	Precursor cell lymphoblastic lymphoma, NOS (see also M-9835/3)
+9727/3	Synonym	Malignant lymphoma, lymphoblastic, NOS (see also M-9835/3)
+9727/3	Synonym	Lymphoblastoma
+9727/3	Synonym	Malignant lymphoma, convoluted cell
+9727/3	Related	Blastic NK-cell lymphoma
+9727/3	Related	Blastic plasmacytoid dendritic cell neoplasm
+973	2	Plasma cell neoplasms
+9731/3	Preferred	Plasmacytoma, NOS
+9731/3	Synonym	Plasma cell tumor
+9731/3	Synonym	Plasmacytoma of bone
+9731/3	Synonym	Solitary myeloma
+9731/3	Synonym	Solitary plasmacytoma
+9732/3	Preferred	Plasma cell myeloma
+9732/3	Synonym	Multiple myeloma
+9732/3	Synonym	Myeloma, NOS
+9732/3	Synonym	Myelomatosis
+9733/3	Preferred	Plasma cell leukemia
+9733/3	Synonym	Plasmacytic leukemia
+9734/3	Preferred	Plasmacytoma, extramedullary (not occurring in bone)
+9734/3	Synonym	Extraosseous plasmacytoma
+9735/3	Preferred	Plasmablastic lymphoma
+9737/3	Preferred	ALK positive large B-cell lymphoma
+9738/3	Preferred	HHV8 positive diffuse large B-cell lymphoma
+9738/3	Synonym	Large B-cell lymphoma arising in HHV8-associated multicentric Castleman disease
+974	2	Mast cell neoplasms
+9740/1	Preferred	Mastocytoma, NOS
+9740/1	Synonym	Mast cell tumor, NOS
+9740/1	Related	Cutaneous mastocytosis, NOS
+9740/1	Related	Diffuse cutaneous mastocytosis
+9740/1	Related	Extracutaneous mastocytoma
+9740/1	Related	Solitary mastocytoma of skin
+9740/1	Related	Urticaria pigmentosa
+9740/3	Preferred	Mast cell sarcoma
+9740/3	Synonym	Malignant mast cell tumor
+9740/3	Synonym	Malignant mastocytoma
+9741/1	Preferred	Indolent systemic mastocytosis
+9741/3	Preferred	Malignant mastocytosis
+9741/3	Synonym	Systemic tissue mast cell disease
+9741/3	Related	Aggressive systemic mastocytosis
+9741/3	Related	Systemic mastocytosis with AHNMD
+9741/3	Related	Systemic mastocytosis with associated hematological clonal non-mast cell disorder
+9742/3	Preferred	Mast cell leukemia
+9749/3	Preferred	Erdheim-Chester disease
+975	2	Neoplasms of histiocytes and accessory lymphoid cells
+9750/3	Preferred	Malignant histiocytosis
+9750/3	Related	Histiocytic medullary reticulosis
+9751/1	Preferred	Langerhans cell histiocytosis, NOS
+9751/1	Related	Langerhans cell histiocytosis, monostotic
+9751/1	Related	Langerhans cell histiocytosis, polystotic
+9751/3	Preferred	Langerhans cell histiocytosis, disseminated
+9751/3	Synonym	Langerhans cell granulomatosis
+9751/3	Related	Eosinophilic granuloma
+9751/3	Related	Acute progressive histiocytosis X
+9751/3	Related	Histiocytosis X, NOS
+9751/3	Related	Hand-Schuller-Christian disease
+9751/3	Related	Letterer-Siwe disease
+9751/3	Related	Nonlipid reticuloendotheliosis
+9755/3	Preferred	Histiocytic sarcoma
+9755/3	Related	True histiocytic lymphoma
+9756/3	Preferred	Langerhans cell sarcoma
+9757/3	Preferred	Interdigitating dendritic cell sarcoma
+9757/3	Synonym	Interdigitating cell sarcoma
+9757/3	Related	Dendritic cell sarcoma, NOS
+9757/3	Related	Indeterminate dendritic cell tumor
+9758/3	Preferred	Follicular dendritic cell sarcoma
+9758/3	Related	Follicular dendritic cell tumor
+9759/3	Preferred	Fibroblastic reticular cell tumor
+976	2	Immunoproliferative diseases
+9760/3	Preferred	Immunoproliferative disease, NOS
+9761/1	Preferred	IgM monoclonal gammopathy of undetermined significance
+9761/3	Preferred	Waldenstrom macroglobulinemia (see also M-9671/3)
+9762/3	Preferred	Heavy chain disease, NOS
+9762/3	Related	Alpha heavy chain disease
+9762/3	Related	Gamma heavy chain disease
+9762/3	Synonym	Franklin disease
+9762/3	Related	Mu heavy chain disease
+9764/3	Preferred	Immunoproliferative small intestinal disease
+9764/3	Synonym	Mediterranean lymphoma
+9765/1	Preferred	Monoclonal gammopathy of undetermined significance, NOS
+9765/1	Synonym	MGUS
+9765/1	Synonym	Monoclonal gammopathy, NOS
+9766/1	Preferred	Angiocentric immunoproliferative lesion
+9766/1	Related	Lymphomatoid granulomatosis, NOS
+9766/1	Related	Lymphomatoid granulomatosis, grade 1
+9766/1	Related	Lymphomatoid granulomatosis, grade 2
+9766/3	Preferred	Lymphomatoid granulomatosis, grade 3
+9767/1	Preferred	Angioimmunoblastic lymphadenopathy (AIL)
+9767/1	Synonym	Immunoblastic lymphadenopathy (IBL)
+9768/1	Preferred	T-gamma lymphoproliferative disease
+9769/1	Preferred	Immunoglobulin deposition disease
+9769/1	Synonym	Primary amyloidosis
+9769/1	Synonym	Systemic light chain disease
+980-994	2	Leukemias
+980	3	Leukemias, NOS
+9800/3	Preferred	Leukemia, NOS
+9800/3	Related	Aleukemic leukemia, NOS
+9800/3	Related	Chronic leukemia, NOS
+9800/3	Related	Subacute leukemia, NOS
+9801/3	Preferred	Acute leukemia, NOS
+9801/3	Synonym	Blast cell leukemia
+9801/3	Synonym	Stem cell leukemia
+9801/3	Synonym	Undifferentiated leukemia
+9805/3	Preferred	Acute biphenotypic leukemia
+9805/3	Related	Acute bilineal leukemia
+9805/3	Related	Acute mixed lineage leukemia
+9806/3	Preferred	"Mixed phenotype acute leukemia with t(9;22)(q34;q11.2); BCR-ABL1"
+9807/3	Preferred	"Mixed phenotype acute leukemia with t(v;11q23); MLL rearranged"
+9808/3	Preferred	Mixed phenotype acute leukemia, B/myeloid, NOS
+9809/3	Preferred	Mixed phenotype acute leukemia, T/myeloid, NOS
+981-983	3	Lymphoid leukemias
+9811/3	Preferred	B lymphoblastic leukemia/lymphoma, NOS
+9811/3	Synonym	c-ALL
+9811/3	Synonym	Common ALL
+9811/3	Synonym	Common precursor B ALL
+9811/3	Synonym	Pre-B ALL
+9811/3	Synonym	Pre-pre-B ALL
+9811/3	Synonym	Pro-B ALL
+9811/3	Synonym	Precursor B-cell lymphoblastic lymphoma
+9811/3	Synonym	Precursor B-cell lymphoblastic leukaemia
+9811/3	Related	B lymphoblastic leukemia/lymphoma with iAMP21
+9812/3	Preferred	"B lymphoblastic leukemia/lymphoma with t(9;22)(q34;q11.2); BCR-ABL1"
+9813/3	Preferred	"B lymphoblastic leukemia/lymphoma with t(v;11q23); MLL rearranged"
+9814/3	Preferred	"B lymphoblastic leukemia/lymphoma with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1)"
+9815/3	Preferred	B lymphoblastic leukemia/lymphoma with hyperdiploidy
+9816/3	Preferred	B lymphoblastic leukemia/lymphoma with hypodiploidy (Hypodiploid ALL)
+9817/3	Preferred	"B lymphoblastic leukemia/lymphoma with t(5;14)(q31;q32); IL3-IGH"
+9818/3	Preferred	"B lymphoblastic leukemia/lymphoma with t(1;19)(q23;p13.3); E2A-PBX1 (TCF3-PBX1)"
+9819/3	Preferred	B lymphoblastic leukemia/lymphoma, BCR-ABL1-like
+9820/3	Preferred	Lymphoid leukemia, NOS
+9820/3	Related	Lymphatic leukemia, NOS
+9820/3	Related	Lymphocytic leukemia, NOS
+9820/3	Related	Aleukemic lymphoid leukemia
+9820/3	Synonym	Aleukemic lymphatic leukemia
+9820/3	Synonym	Aleukemic lymphocytic leukemia
+9820/3	Related	Lymphosarcoma cell leukemia
+9820/3	Related	Subacute lymphoid leukemia
+9820/3	Synonym	Subacute lymphatic leukemia
+9820/3	Synonym	Subacute lymphocytic leukemia
+9823/1	Preferred	Monoclonal B-cell lymphocytosis, CLL type
+9823/3	Preferred	B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+9823/3	Synonym	Chronic lymphatic leukemia
+9823/3	Synonym	Chronic lymphocytic leukemia
+9823/3	Synonym	Chronic lymphocytic leukemia, B-cell type includes all variants
+9823/3	Synonym	Chronic lymphoid leukemia
+9823/3	Synonym	Malignant lymphoma, small B lymphocytic, NOS
+9823/3	Synonym	Malignant lymphoma, lymphocytic, NOS
+9823/3	Synonym	Malignant lymphoma, lymphocytic, diffuse, NOS
+9823/3	Synonym	Malignant lymphoma, small cell, NOS
+9823/3	Synonym	Malignant lymphoma, small lymphocytic, NOS
+9823/3	Synonym	Malignant lymphoma, lymphocytic, well differentiated, diffuse
+9823/3	Synonym	Malignant lymphoma, small cell diffuse
+9823/3	Synonym	Malignant lymphoma, small lymphocytic, diffuse
+9827/3	Preferred	Adult T-cell leukemia/lymphoma (HTLV-1 positive) includes all variants
+9827/3	Synonym	Adult T-cell leukemia
+9827/3	Synonym	Adult T-cell lymphoma
+9827/3	Synonym	Adult T-cell lymphoma/leukemia
+9831/3	Preferred	T-cell large granular lymphocytic leukemia
+9831/3	Synonym	Large granular lymphocytosis, NOS
+9831/3	Synonym	NK-cell large granular lymphocytic leukemia
+9831/3	Synonym	T-cell large granular lymphocytosis
+9831/3	Related	Chronic lymphoproliferative disorder of NK cells
+9832/3	Preferred	Prolymphocytic leukemia, NOS
+9833/3	Preferred	Prolymphocytic leukemia, B-cell type
+9834/3	Preferred	Prolymphocytic leukemia, T-cell type
+9835/3	Preferred	Precursor cell lymphoblastic leukemia, NOS (see also M-9727/3)
+9835/3	Synonym	Acute lymphoblastic leukemia, NOS (see also M-9727/3)
+9835/3	Synonym	Acute lymphoblastic leukemia, L2 type, NOS
+9835/3	Synonym	Acute lymphoblastic leukemia-lymphoma, NOS
+9835/3	Synonym	Lymphoblastic leukemia, NOS
+9835/3	Synonym	Acute lymphatic leukemia
+9835/3	Synonym	Acute lymphocytic leukemia
+9835/3	Synonym	Acute lymphoid leukemia
+9835/3	Synonym	FAB L1
+9835/3	Synonym	FAB L2
+9835/3	Synonym	Precursor cell lymphoblastic leukemia, not phenotyped
+9835/3	Synonym	Acute lymphoblastic leukemia, precursor-cell type
+9837/3	Preferred	Precursor T-cell lymphoblastic leukemia
+9837/3	Synonym	Cortical T ALL
+9837/3	Synonym	Mature T ALL
+9837/3	Synonym	Pre-T ALL
+9837/3	Synonym	Pro-T ALL
+9837/3	Synonym	Precursor T-cell lymphoblastic lymphoma
+9837/3	Related	T lymphoblastic leukemia/lymphoma
+9837/3	Related	Early T-cell precursor acute lymphoblastic leukemia
+984-993	3	Myeloid leukemias
+9840/3	Preferred	Acute erythroid leukemia
+9840/3	Synonym	Acute myeloid leukemia, M6 type
+9840/3	Synonym	Acute erythremia
+9840/3	Synonym	Acute erythremic myelosis
+9840/3	Synonym	AML M6
+9840/3	Synonym	Di Guglielmo disease
+9840/3	Synonym	Erythremic myelosis, NOS
+9840/3	Synonym	Erythroleukemia
+9840/3	Synonym	FAB M6
+9840/3	Synonym	M6A
+9840/3	Synonym	M6B
+9860/3	Preferred	Myeloid leukemia, NOS
+9860/3	Synonym	Granulocytic leukemia, NOS
+9860/3	Synonym	Myelocytic leukemia, NOS
+9860/3	Synonym	Myelogenous leukemia, NOS
+9860/3	Synonym	Myelomonocytic leukemia, NOS
+9860/3	Synonym	Non-lymphocytic leukemia, NOS
+9860/3	Related	Aleukemic myeloid leukemia
+9860/3	Synonym	Aleukemic granulocytic leukemia
+9860/3	Synonym	Aleukemic myelogenous leukemia
+9860/3	Related	Aleukemic monocytic leukemia
+9860/3	Related	Chronic monocytic leukemia
+9860/3	Related	Eosinophilic leukemia, NOS
+9860/3	Related	Monocytic leukemia, NOS
+9860/3	Related	Subacute monocytic leukemia
+9860/3	Related	Subacute myeloid leukemia
+9860/3	Synonym	Subacute granulocytic leukemia
+9860/3	Synonym	Subacute myelogenous leukemia
+9861/3	Preferred	Acute myeloid leukemia, NOS (see also M-9930/3)
+9861/3	Synonym	Acute granulocytic leukemia
+9861/3	Synonym	Acute myelocytic leukemia
+9861/3	Synonym	Acute myelogenous leukemia
+9861/3	Synonym	Acute non-lymphocytic leukemia
+9863/3	Preferred	Chronic myeloid leukemia, NOS
+9863/3	Synonym	Chronic granulocytic leukemia, NOS
+9863/3	Synonym	Chronic myelocytic leukemia, NOS
+9863/3	Synonym	Chronic myelogenous leukemia, NOS
+9865/3	Preferred	"Acute myeloid leukemia with t(6;9)(p23;q34); DEK-NUP214"
+9866/3	Preferred	"Acute promyelocytic leukemia, t(15;17)(q22;q11-12)"
+9866/3	Synonym	Acute promyelocytic leukemia, NOS
+9866/3	Synonym	Acute myeloid leukemia, PML/RAR-alpha
+9866/3	Synonym	"Acute myeloid leukemia, t(15;17)(q22;q11-12)"
+9866/3	Synonym	Acute promyelocytic leukemia, PML/RAR-alpha
+9866/3	Synonym	FAB M3 includes all variants
+9867/3	Preferred	Acute myelomonocytic leukemia, NOS
+9867/3	Synonym	FAB M4
+9869/3	Preferred	"Acute myeloid leukemia with inv(3)(q21;q26.2) or t(3;3)(q21;q26.2); RPN1-EVI1"
+9870/3	Preferred	Acute basophilic leukemia
+9871/3	Preferred	Acute myeloid leukemia with abnormal marrow eosinophils includes all variants
+9871/3	Synonym	Acute myeloid leukemia, CBF-beta/MYH11
+9871/3	Synonym	"Acute myeloid leukemia, inv(16)(p13;q22)"
+9871/3	Synonym	"Acute myeloid leukemia, t(16;16)(p13;q11)"
+9871/3	Synonym	Acute myelomonocytic leukemia with abnormal eosinophils
+9871/3	Synonym	FAB M4Eo
+9872/3	Preferred	Acute myeloid leukemia, minimal differentiation
+9872/3	Synonym	Acute myeloblastic leukemia
+9872/3	Synonym	FAB M0
+9873/3	Preferred	Acute myeloid leukemia without maturation
+9873/3	Synonym	FAB M1
+9874/3	Preferred	Acute myeloid leukemia with maturation
+9874/3	Synonym	FAB M2, NOS
+9875/3	Preferred	Chronic myelogenous leukemia, BCR/ABL positive
+9875/3	Synonym	Chronic granulocytic leukemia, BCR/ABL
+9875/3	Synonym	Chronic granulocytic leukemia, Philadelphia chromosome (Ph1) positive
+9875/3	Synonym	"Chronic granulocytic leukemia, t(9;22)(q34;q11)"
+9875/3	Synonym	Chronic myelogenous leukemia, Philadelphia chromosome (Ph1) positive
+9875/3	Synonym	"Chronic myelogenous leukemia, t(9;22)(q34;q11)"
+9876/3	Preferred	Atypical chronic myeloid leukemia, BCR/ABL negative
+9876/3	Related	Atypical chronic myeloid leukemia, Philadelphia chromosome (Ph1) negative
+9877/3	Preferred	Acute myeloid leukemia with mutated NPM1
+9878/3	Preferred	Acute myeloid leukemia with biallelic mutation of CEBPA
+9879/3	Preferred	Acute myeloid leukemia with mutated RUNX1
+9891/3	Preferred	Acute monocytic leukemia
+9891/3	Synonym	Monoblastic leukemia, NOS
+9891/3	Synonym	Acute monoblastic leukemia
+9891/3	Synonym	FAB M5 includes all variants
+9891/3	Related	Acute monoblastic and monocytic leukemia
+9895/3	Preferred	Acute myeloid leukemia with myelodysplasia-related changes
+9895/3	Synonym	Acute myeloid leukemia with multilineage dysplasia
+9895/3	Synonym	Acute myeloid leukemia with prior myelodysplastic syndrome
+9895/3	Synonym	Acute myeloid leukemia without prior myelodysplastic syndrome
+9896/3	Preferred	"Acute myeloid leukemia, t(8;21)(q22;q22)"
+9896/3	Synonym	Acute myeloid leukemia, AML1(CBF-alpha)/ETO
+9896/3	Synonym	"Acute myeloid leukemia with t(8;21)(q22;q22); RUNX1-RUNX1T1"
+9896/3	Synonym	FAB M2, AML1(CBF-alpha)/ETO
+9896/3	Synonym	"FAB M2, t(8;21)(q22;q22)"
+9897/3	Preferred	Acute myeloid leukemia, 11q23 abnormalities
+9897/3	Synonym	Acute myeloid leukemia, MLL
+9897/3	Synonym	"Acute myeloid leukemia with t(9;11)(p22;q23); MLLT3-MLL"
+9898/1	Preferred	Transient abnormal myelopoiesis
+9898/3	Preferred	Myeloid leukemia associated with Down syndrome
+9910/3	Preferred	Acute megakaryoblastic leukemia
+9910/3	Synonym	Megakaryocytic leukemia
+9910/3	Synonym	FAB M7
+9911/3	Preferred	"Acute myeloid leukemia (megakaryoblastic) with t(1;22)(p13;q13); RBM15-MKL1"
+9912/3	Preferred	Acute myeleoid leukemia with BCR-ABL1
+9920/3	Preferred	Therapy-related myeloid neoplasm
+9920/3	Synonym	Therapy-related acute myeloid leukemia, NOS
+9920/3	Related	Therapy-related acute myeloid leukemia, alkylating agent related
+9920/3	Related	Therapy-related acute myeloid leukemia, epipodophyllotoxin-related
+9930/3	Preferred	Myeloid sarcoma (see also M-9861/3)
+9930/3	Synonym	Chloroma
+9930/3	Synonym	Granulocytic sarcoma
+9931/3	Preferred	Acute panmyelosis with myelofibrosis
+9931/3	Synonym	Acute myelosclerosis, NOS
+9931/3	Synonym	Acute panmyelosis, NOS
+9931/3	Synonym	Acute myelofibrosis
+9931/3	Synonym	Malignant myelosclerosis
+994	3	Other leukemias
+9940/3	Preferred	Hairy cell leukemia, NOS
+9940/3	Synonym	Leukemic reticuloendotheliosis
+9945/3	Preferred	Chronic myelomonocytic leukemia, NOS
+9945/3	Related	Chronic myelomonocytic leukemia, type I
+9945/3	Related	Chronic myelomonocytic leukemia, type II
+9945/3	Synonym	Chronic myelomonocytic leukemia in transformation
+9946/3	Preferred	Juvenile myelomonocytic leukemia, NOS
+9946/3	Synonym	Juvenile chronic myelomonocytic leukemia
+9948/3	Preferred	Aggressive NK-cell leukemia
+995-996	2	Myeloproliferative neoplasms
+9950/3	Preferred	Polycythemia vera
+9950/3	Synonym	Chronic erythremia
+9950/3	Synonym	Polycythemia rubra vera
+9950/3	Synonym	Proliferative polycythemia
+9960/3	Preferred	Myeloproliferative neoplasm, NOS
+9960/3	Synonym	Chronic myeloproliferative disease, NOS
+9960/3	Synonym	Chronic myeloproliferative disorder
+9960/3	Synonym	Myeloproliferative disease, NOS
+9961/3	Preferred	Primary myelofibrosis
+9961/3	Synonym	Agnogenic myeloid metaplasia
+9961/3	Synonym	Chronic idiopathic myelofibrosis
+9961/3	Synonym	Megakaryocytic myelosclerosis
+9961/3	Synonym	Myelofibrosis as a result of myeloproliferative disease
+9961/3	Synonym	Myelofibrosis with myeloid metaplasia
+9961/3	Synonym	Myelosclerosis with myeloid metaplasia
+9962/3	Preferred	Essential thrombocythemia
+9962/3	Synonym	Essential hemorrhagic thrombocythemia
+9962/3	Synonym	Idiopathic hemorrhagic thrombocythemia
+9962/3	Synonym	Idiopathic thrombocythemia
+9963/3	Preferred	Chronic neutrophilic leukemia
+9964/3	Preferred	Chronic eosinophilic leukemia
+9964/3	Synonym	Hypereosinophilic syndrome
+9965/3	Preferred	Myeloid or lymphoid neoplasm with PDGFRA rearrangement
+9966/3	Preferred	Myeloid neoplasm with PDGFRB rearrangement
+9967/3	Preferred	Myeloid or lymphoid neoplasm with FGFR1 abnormalities
+9968/3	Preferred	Myeloid or lymphoid neoplasm with PCM1-JAK2
+997	2	Other hematological neoplasms
+9970/1	Preferred	Lymphoproliferative disorder, NOS
+9970/1	Synonym	Lymphoproliferative disease, NOS
+9971/1	Preferred	Post-transplant lymphoproliferative disorder, NOS (see also M-9650/3)
+9971/1	Synonym	PTLD, NOS
+9971/1	Related	Polymorphic post-transplant lymphoproliferative disorder
+9975/3	Preferred	Myeloproliferative neoplasm, unclassifiable
+9975/3	Related	Myelodysplastic/myeloproliferative neoplasm, unclassifiable
+998-999	2	Myelodysplastic syndromes
+9980/3	Preferred	Myelodysplastic syndrome with single lineage dysplasia
+9980/3	Synonym	Refractory anemia, NOS
+9980/3	Synonym	Refractory anemia without sideroblasts
+9980/3	Synonym	Refractory neutropenia
+9980/3	Synonym	Refractory thrombocytopenia
+9982/3	Preferred	Myelodysplastic syndrome with ring sideroblasts and single lineage dysplasia
+9982/3	Synonym	Refractory anemia with sideroblasts
+9982/3	Synonym	RARS
+9982/3	Synonym	Refractory anemia with ring sideroblasts associated with marked thrombocytosis
+9982/3	Synonym	Refractory anemia with ring sideroblasts, NOS
+9982/3	Synonym	Myelodysplastic syndrome with ring sideroblasts, NOS
+9983/3	Preferred	Myelodysplastic syndrome with excess blasts
+9983/3	Synonym	Refractory anemia with excess blasts, NOS
+9983/3	Synonym	RAEB, NOS
+9983/3	Synonym	RAEB I
+9983/3	Synonym	RAEB II
+9984/3	Preferred	Refractory anemia with excess blasts in transformation
+9984/3	Synonym	RAEB-T
+9985/3	Preferred	Myelodysplastic syndrome with multilineage dysplasia
+9985/3	Synonym	Refractory cytopenia with multilineage dysplasia
+9985/3	Related	Refractory cytopenia of childhood
+9986/3	Preferred	Myelodysplastic syndrome with isolated del (5q)
+9986/3	Synonym	Myelodysplastic syndrome with 5q deletion (5q-) syndrome
+9987/3	Preferred	Therapy-related myelodysplastic syndrome, NOS
+9987/3	Synonym	Therapy-related myelodysplastic syndrome, alkylating agent related
+9987/3	Synonym	Therapy-related myelodysplastic syndrome, epipodophyllotoxin-related
+9989/3	Preferred	Myelodysplastic syndrome, NOS
+9989/3	Synonym	Preleukemia
+9989/3	Synonym	Preleukemic syndrome
+9989/3	Related	Myelodysplastic syndrome, unclassifiable
+9993/3	Preferred	Myelodysplastic syndrome with ring sideroblasts and multilineage dysplasia
