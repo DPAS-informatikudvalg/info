@@ -1,16 +1,16 @@
 ### Velkommen til it-udvalgets wiki!
 
-[Arbejdsgang med SNOMED opdateringer](https://github.com/DPAS-informatikudvalg/snomed/blob/master/info/Arbejdsgang%20i%20opdateringer.adoc)
+[Arbejdsgang med SNOMED opdateringer](Arbejdsgang%20i%20opdateringer.adoc)
 
-[MOD1 og MOD2 modificerede koder](https://github.com/it-udvalg/snomed/wiki/MOD1-og-MOD2-modificerede-koder)
+[MOD1 og MOD2 modificerede koder](MOD1-og-MOD2-modificerede-koder.md)
 
-[Introduktion og vejledning til SNOMED (3. udgave 1996)](https://github.com/it-udvalg/snomed/wiki/Introduktion-og-vejledning-til-SNOMED-(3.-udgave-1996))
+[Introduktion og vejledning til SNOMED (3. udgave 1996)](Introduktion-og-vejledning-til-SNOMED-(3.-udgave-1996))
 
-[Betydning og betingelser af felter i SNOMED tabel (patoSnoMed)](https://github.com/it-udvalg/snomed/wiki/patoSnoMed-kodestruktur)
+[Betydning og betingelser af felter i SNOMED tabel (patoSnoMed)](patoSnoMed-kodestruktur)
 
-[Kodning af genforandringer](https://github.com/it-udvalg/snomed/blob/master/kodning-af-genforandringer.md)
+[Kodning af genforandringer](kodning-af-genforandringer.md)
 
-[Tags til SNOMED koder, anvendt til søgning via patobank.dk](https://github.com/it-udvalg/snomed/wiki/Tags)
+[Tags til SNOMED koder, anvendt til søgning via patobank.dk](Tags.md)
 
 [Opdateret liste over ICD-O koder hos IARC](http://codes.iarc.fr/codegroup/2)
 
