@@ -1,6 +1,6 @@
 ### Velkommen til it-udvalgets wiki!
 
-[Arbejdsgang med SNOMED opdateringer](https://github.com/it-udvalg/snomed/wiki/Arbejdsgand-i-SNOMED-opdateringer)
+[Arbejdsgang med SNOMED opdateringer](https://github.com/DPAS-informatikudvalg/snomed/blob/master/info/Arbejdsgang%20i%20opdateringer.adoc)
 
 [MOD1 og MOD2 modificerede koder](https://github.com/it-udvalg/snomed/wiki/MOD1-og-MOD2-modificerede-koder)
 
