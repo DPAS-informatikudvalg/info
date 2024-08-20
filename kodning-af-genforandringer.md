@@ -20,6 +20,8 @@ Betydningen af 6. karakter #:
 
 A. translokation påvist
 B. translokation ikke påvist
+C. rearrangement påvist
+D. rearrangement ikke påvist
 ```
 
 For at kunne præcisere hvor genforandringen er lokaliseret, kan FE-koden kombineres med en ny kode som følger:
