@@ -9,10 +9,10 @@ Betydningen af 6. karakter #:
 ```
 0. mutation ikke påvist
 1. genstatus normal
-2. geninsertion
+2. geninsertion påvist
 3. gen muteret
-4. gendeletion
-5. genamplifikation
+4. gendeletion påvist
+5. genamplifikation påvist
 6. genstatus borderline
 7. gen metyleret
 8. gen ikke metyleret
@@ -22,8 +22,11 @@ A. translokation påvist
 B. translokation ikke påvist
 C. rearrangement påvist
 D. rearrangement ikke påvist
+E. gendeletion ikke påvist
+F. genamplifikation ikke påvist
+G. geninsertion ikke påvist
 ```
-
+Hvis genmutation er kodet i forvejen med A til G som sidste bogstav, flyttes mutation til G akse.
 For at kunne præcisere hvor genforandringen er lokaliseret, kan FE-koden kombineres med en ny kode som følger:
 
 **Der indføres en ny G-akse:**
