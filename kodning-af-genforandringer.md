@@ -16,7 +16,7 @@ Betydningen af 6. karakter #:
 6. genstatus borderline
 7. gen metyleret
 8. gen ikke metyleret
-9. genændring uden kendt behandlingskonsekvens
+9. genvariant uden kendt behandlingskonsekvens
 
 A. translokation påvist
 B. translokation ikke påvist
