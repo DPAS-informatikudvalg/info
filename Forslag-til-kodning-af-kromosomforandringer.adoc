@@ -1,0 +1,71 @@
+# Forslag til kodning af kromosomforandringer
+
+Der allokeres serie `FK0100-FKMTZZ` til kodning af kromosomforandringer:
+
+[loweralpha]
+. FK01 til FK022 til kromosomer 1-22,
+. FK0X, FK0Y og FKMT til hhv. X kromosom, Y kromosom og mitokondriekromosom,
+
+.Forslag til placering af kromosomforandringer for en bestemt kromosom:
+* FKnnT1 trisomi påvist
+* FKnnT0 trisomi ikke påvist
+* FKnnD1 deletion påvist 
+* FKnnD0 deletion ikke påvist
+* FKnnA1 amplifikation påvist
+* FKnnA0 amplifikation ikke påvist
+* FKnnG1 gain påvist
+* FKnnG0 gain ikke påvist
+* FKnnC1 centromer tab påvist
+* FKnnC0 centromer tab ikke påvist
+* FKnnC2 centromer tilkomst påvist
+* FKnnC3 centromer tilkomst ikke påvist
+
+
+#### Aktuel liste af kromosomofrandringer
+
+[%header,format=tsv]
+|===
+Kromosomforandring
+del(11q22.3) ATM ikke påvist
+del(11q22.3) ATM påvist
+CRLF2 (Xp22.33 og Yp11.32) rearrangement ikke påvist
+CRLF2 (Xp22.33 og Yp11.32) rearrangement påvist
+Trisomi 12 ikke påvist
+Trisomi 12 påvist
+del(13q14.2) DLEU ikke påvist
+del(13q14.2) DLEU påvist
+del(17p13) TP53 ikke påvist
+del(17p13) TP53 påvist
+del(1p32) CDKN2C ikke påvist
+del(1p32) CDKN2C påvist
+1q21 gain CKS1B ikke påvist
+1q21 gain CKS1B påvist
+1q21 amplifikation CKS1B ikke påvist
+1q21 amplifikation CKS1B påvist
+del(5)(q31) ikke påvist
+del(5)(q31) påvist
+del(5)(q33) ikke påvist
+del(5)(q33) påvist
+del(7)(q22q31) ikke påvist
+del(7)(q22q31) påvist
+
+del(20q) ikke påvist
+del(20q) påvist
+
+cenX tab ikke påvist
+cenX tab påvist
+cenX tilkomst ikke påvist
+cenX tilkomst  påvist
+cenY tab ikke påvist
+cenY tab påvist
+cenY tilkomst ikke påvist
+cenY tilkomst  påvist
+cen9 tab ikke påvist
+cen9 tab påvist
+cen9 tilkomst ikke påvist
+cen9 tilkomst  påvist
+cen18 tab ikke påvist
+cen18 tab påvist
+cen18 tilkomst ikke påvist
+cen18 tilkomst  påvist
+|===
