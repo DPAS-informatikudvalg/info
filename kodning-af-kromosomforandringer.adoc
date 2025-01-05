@@ -1,33 +1,34 @@
 # Forslag til kodning af kromosomforandringer
 
 .Der allokeres serie `FK0100-FKMTZZ` til kodning af kromosomforandringer:
-* FK01 til FK22 til kromosomer 1-22,
-* FK0X, FK0Y og FKMT til hhv. X kromosom, Y kromosom og mitokondriekromosom,
+* `FK01 ... FK22` til kromosomer 1-22,
+* `FK0X`, `FK0Y` og `FKMT` til henholdsvis X kromosom, Y kromosom og mitokondriekromosom,
 
-.Forslag til placering af kromosomforandringer for en bestemt kromosom:
-* FKnnT0 trisomi påvist
-* FKnnT1 trisomi ikke påvist
-* FKnnD0 deletion påvist 
-* FKnnD1 deletion ikke påvist
-* FKnnA0 amplifikation påvist
-* FKnnA1 amplifikation ikke påvist
-* FKnnG0 gain påvist
-* FKnnG1 gain ikke påvist
-* FKnnC0 centromer tab påvist
-* FKnnC1 centromer tab ikke påvist
-* FKnnC2 centromer tilkomst påvist
-* FKnnC3 centromer tilkomst ikke påvist
+.Forslag til placering af kromosomforandringer for et bestemt kromosom:
+```
+FK##T0 trisomi påvist
+FK##T1 trisomi ikke påvist
+FK##D0 deletion påvist 
+FK##D1 deletion ikke påvist
+FK##A0 amplifikation påvist
+FK##A1 amplifikation ikke påvist
+FK##G0 gain påvist
+FK##G1 gain ikke påvist
+FK##C0 centromer tab påvist
+FK##C1 centromer tab ikke påvist
+FK##C2 centromer tilkomst påvist
+FK##C3 centromer tilkomst ikke påvist
+```
 
+#### Forslag til aktuel liste af kromosomofrandringer:
 
-#### Aktuel liste af kromosomofrandringer
-
-[%header,format=tsv]
+[%header,format=tsv,cols="1m,1"]
 |===
 Kode	Kromosomforandring
 FK11D0	del(11q22.3) ATM påvist
 FK11D1	del(11q22.3) ATM ikke påvist
-FE1GDH	CRLF2 (Xp22.33 og Yp11.32) rearrangement påvist
-FE1GDJ	CRLF2 (Xp22.33 og Yp11.32) rearrangement ikke påvist
+FE1GDH	CRLF2 (Xp22.33 og Yp11.32) rearrangement påvist (kodes som genforandring)
+FE1GDJ	CRLF2 (Xp22.33 og Yp11.32) rearrangement ikke påvist (kodes som genforandring)
 FK12T0	Trisomi 12 påvist
 FK12T1	Trisomi 12 ikke påvist
 FK13D0	del(13q14.2) DLEU påvist
