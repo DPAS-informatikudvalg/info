@@ -1,22 +1,20 @@
 # Forslag til kodning af kromosomforandringer
 
-Der allokeres serie `FK0100-FKMTZZ` til kodning af kromosomforandringer:
-
-[loweralpha]
-. FK01 til FK022 til kromosomer 1-22,
-. FK0X, FK0Y og FKMT til hhv. X kromosom, Y kromosom og mitokondriekromosom,
+.Der allokeres serie `FK0100-FKMTZZ` til kodning af kromosomforandringer:
+* FK01 til FK22 til kromosomer 1-22,
+* FK0X, FK0Y og FKMT til hhv. X kromosom, Y kromosom og mitokondriekromosom,
 
 .Forslag til placering af kromosomforandringer for en bestemt kromosom:
-* FKnnT1 trisomi påvist
-* FKnnT0 trisomi ikke påvist
-* FKnnD1 deletion påvist 
-* FKnnD0 deletion ikke påvist
-* FKnnA1 amplifikation påvist
-* FKnnA0 amplifikation ikke påvist
-* FKnnG1 gain påvist
-* FKnnG0 gain ikke påvist
-* FKnnC1 centromer tab påvist
-* FKnnC0 centromer tab ikke påvist
+* FKnnT0 trisomi påvist
+* FKnnT1 trisomi ikke påvist
+* FKnnD0 deletion påvist 
+* FKnnD1 deletion ikke påvist
+* FKnnA0 amplifikation påvist
+* FKnnA1 amplifikation ikke påvist
+* FKnnG0 gain påvist
+* FKnnG1 gain ikke påvist
+* FKnnC0 centromer tab påvist
+* FKnnC1 centromer tab ikke påvist
 * FKnnC2 centromer tilkomst påvist
 * FKnnC3 centromer tilkomst ikke påvist
 
@@ -25,47 +23,45 @@ Der allokeres serie `FK0100-FKMTZZ` til kodning af kromosomforandringer:
 
 [%header,format=tsv]
 |===
-Kromosomforandring
-del(11q22.3) ATM ikke påvist
-del(11q22.3) ATM påvist
-CRLF2 (Xp22.33 og Yp11.32) rearrangement ikke påvist
-CRLF2 (Xp22.33 og Yp11.32) rearrangement påvist
-Trisomi 12 ikke påvist
-Trisomi 12 påvist
-del(13q14.2) DLEU ikke påvist
-del(13q14.2) DLEU påvist
-del(17p13) TP53 ikke påvist
-del(17p13) TP53 påvist
-del(1p32) CDKN2C ikke påvist
-del(1p32) CDKN2C påvist
-1q21 gain CKS1B ikke påvist
-1q21 gain CKS1B påvist
-1q21 amplifikation CKS1B ikke påvist
-1q21 amplifikation CKS1B påvist
-del(5)(q31) ikke påvist
-del(5)(q31) påvist
-del(5)(q33) ikke påvist
-del(5)(q33) påvist
-del(7)(q22q31) ikke påvist
-del(7)(q22q31) påvist
-
-del(20q) ikke påvist
-del(20q) påvist
-
-cenX tab ikke påvist
-cenX tab påvist
-cenX tilkomst ikke påvist
-cenX tilkomst  påvist
-cenY tab ikke påvist
-cenY tab påvist
-cenY tilkomst ikke påvist
-cenY tilkomst  påvist
-cen9 tab ikke påvist
-cen9 tab påvist
-cen9 tilkomst ikke påvist
-cen9 tilkomst  påvist
-cen18 tab ikke påvist
-cen18 tab påvist
-cen18 tilkomst ikke påvist
-cen18 tilkomst  påvist
+Kode	Kromosomforandring
+FK11D0	del(11q22.3) ATM påvist
+FK11D1	del(11q22.3) ATM ikke påvist
+FE1GDH	CRLF2 (Xp22.33 og Yp11.32) rearrangement påvist
+FE1GDJ	CRLF2 (Xp22.33 og Yp11.32) rearrangement ikke påvist
+FK12T0	Trisomi 12 påvist
+FK12T1	Trisomi 12 ikke påvist
+FK13D0	del(13q14.2) DLEU påvist
+FK13D1	del(13q14.2) DLEU ikke påvist
+FK17D0	del(17p13) TP53 påvist
+FK17D1	del(17p13) TP53 ikke påvist
+FK01D0	del(1p32) CDKN2C påvist
+FK01D1	del(1p32) CDKN2C ikke påvist
+FK01G0	1q21 gain CKS1B påvist
+FK01G1	1q21 gain CKS1B ikke påvist
+FK01A0	1q21 amplifikation CKS1B påvist
+FK01A1	1q21 amplifikation CKS1B ikke påvist
+FK05D0	del(5)(q31) påvist
+FK05D1	del(5)(q31) ikke påvist
+FK05D2	del(5)(q33) påvist
+FK05D3	del(5)(q33) ikke påvist
+FK07D0	del(7)(q22q31) påvist
+FK07D1	del(7)(q22q31) ikke påvist
+FK20D0	del(20q) påvist
+FK20D1	del(20q) ikke påvist
+FK0XC0	cenX tab påvist
+FK0XC1	cenX tab ikke påvist
+FK0XC2	cenX tilkomst  påvist
+FK0XC3	cenX tilkomst ikke påvist
+FK0YC0	cenY tab påvist
+FK0YC1	cenY tab ikke påvist
+FK0YC2	cenY tilkomst  påvist
+FK0YC3	cenY tilkomst ikke påvist
+FK09C0	cen9 tab påvist
+FK09C1	cen9 tab ikke påvist
+FK09C2	cen9 tilkomst  påvist
+FK09C3	cen9 tilkomst ikke påvist
+FK18C0	cen18 tab påvist
+FK18C1	cen18 tab ikke påvist
+FK18C2	cen18 tilkomst  påvist
+FK18C3	cen18 tilkomst ikke påvist
 |===
