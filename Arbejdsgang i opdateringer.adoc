@@ -6,7 +6,21 @@
 . Ofte er det nødvendigt med en indledende, afklarende korrespondance med dem, der har kodeønsker, så kodeforslaget bliver entydigt
 . Samler kodeforslagene i en excel-fil,
 . Excel-fil med forslag tages til høring i Informatikudvalget
-. *Høringen afsluttes 2 måneder før opdateringen* og liste med M8 og M9 koder sendes til SDS (Margit Caroline Rasted).
+. *Høringen afsluttes 2 måneder før opdateringen* og liste med M8 og M9 koder (relateret til ICD-O koder, der anvendes i "WHO Classification of Tumours" sendes til SDS (Margit Caroline Rasted, MACR@sundhedsdata.dk).
 . Tilbagemelding fra SDS (Margit) efter senest 2 uger som en samlet respons/kommentar.
 . Der er 2 uger til behandling af komentarer i IT-udvalget.
-. Én måned før opdatering returneres listen til Henrik Tholstrup og Margit Caroline Rasted. Når Henrik har genereret opdateringsfilen fremsendes den til IT-udvalget til en sidste endelig gennemgang. Opdateringsfilen sendes til ansøgere med 1 uges frist for evt. tilbagemeldinger. Derefter returneres opdateringsfilen til Henrik som udfører opdateringen på planlagt opdateringsdato. 
+. Én måned før opdatering sendes hele kodelisten (M8-M9 koder såvel som resterende koder) til Sundhedstyrrelses kodeforvalter Henrik Tholstrup (HETH@sundhedsdata.dk) og Margit Caroline Rasted. Når Henrik har genereret opdateringsfilen fremsendes den til IT-udvalget til en sidste endelig gennemgang. Denne opdateringsfil sendes til ansøgere med 1 uges frist for evt. små rettelser. Derefter returneres opdateringsfilen til Henrik som udfører opdateringen på planlagt opdateringsdato. 
+
+Eksempel på ekscel fil til Sundhedsdatastyrrelsen med nødvendige kolonner:
+
+[%header,cols="1,1,3,1,1,1,1,1,1,1,1,1"]
+|===
+|Emne|Kode|Korttekst|Ændring|Kommentar|Tags|Farve|Mod|Fuldtekst|ICDo-kode|ICDo-tekst|ICDo-kilde
+
+|233|M45410|isoleret perivenulitis|ny||K|||isoleret perivenulitis|||
+|236|M81401|atypisk parathyroidea tumor|ændres|tidligere tekst: adenom, usikkert om benignt eller malignt|Q|#ffa500||atypisk parathyroidea tumor|8140/1|Atypical parathyroid tumour|WHO Endocrine and Neuroendocrine Tumours (5th ed.)
+|237|T5530A|Glandula submandibularis, højre|ændres uden historik|tidligere tekst: Højre glandula submandibularis|G,S,J|||Glandula submandibularis, højre|||
+|===
+
+TODO:
+Farvemarkering, tags, MOD1 og MOD2 modificerede koder
