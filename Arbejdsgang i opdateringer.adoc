@@ -1,5 +1,7 @@
+:doctitle: Arbejdsgang for kodeforvalteren
 :table-caption!:
 . Kodeønsker modtages
+. Ønsket kan med fordel registreres som en ny emne ("issue") på dokumentdepot link:https://github.com/DPAS-informatikudvalg/snomed/issues[], hvor udvalgets medlemmer kan kommentere og følge op på opdateringer vial mail.
 . Der findes et kodeforslag:
 .. find ud af om der er en kode i SNOMED-internationl (for tumorer i WHOs ICD-koder)
 .. check om den internationale kode passer ind i det danske system, dvs. er den brugt før? kommer koden til at stå i sammenhæng med tidligere beslægtede koder? Ellers brug pkt. c
@@ -15,7 +17,7 @@
 .Eksempel på ekscel fil til Sundhedsdatastyrrelsen med nødvendige kolonner:
 [%header,cols="1,1,3,1,1,1,1,1,1,1,1,1"]
 |===
-|Emne|Kode|Korttekst|Ændring|Kommentar|Tagsfootnote:[link:Tags.md[Tags til SNOMED koder, anvendt til søgning via patobank.dk]]|Farvefootnote:[HUSK at sætte farvekode for maligne og præmaligne diagnoser. Se link:farvemarkering.adoc[regler for farvemarkering af snomed koder]]|Modfootnote:[Sæt '2' for hæmatologiske neoplasier og '1' for øvrige maligne tumorer. Se link:MOD1-og-MOD2-modificerede-koder.md[kodegrupper for maligne og hæmatologiske koder Mod1, Mod2]]|Fuldtekst|ICDo-kode|ICDo-tekst|ICDo-kilde
+|Emne|Kode|Korttekstfootnote:[Diagnostekst kan ikke være længere end *60 karakterer*. Hele teksten kan angives i kolonne "Fuldtekst"]|Ændring|Kommentar|Tagsfootnote:[link:Tags.md[Tags til SNOMED koder], som anvendes til filtrering/gruppering af diagnoser på link:https://www.patobank.dk/kodebog/[patobanks kodebog]]|Farvefootnote:[HUSK at sætte farvekode for maligne og præmaligne diagnoser. Se link:farvemarkering.adoc[regler for farvemarkering af snomed koder]]|Modfootnote:[Sæt '2' for hæmatologiske neoplasier og '1' for øvrige maligne tumorer. Se link:MOD1-og-MOD2-modificerede-koder.md[kodegrupper for maligne og hæmatologiske koder Mod1, Mod2]]|Fuldtekst|ICDo-kode|ICDo-tekst|ICDo-kilde
 
 |233|M45410|isoleret perivenulitis|ny||K|||isoleret perivenulitis|||
 |236|M81401|atypisk parathyroidea tumor|ændres|tidligere tekst: adenom, usikkert om benignt eller malignt|Q|#ffa500||atypisk parathyroidea tumor|8140/1|Atypical parathyroid tumour|WHO Endocrine and Neuroendocrine Tumours (5th ed.)
