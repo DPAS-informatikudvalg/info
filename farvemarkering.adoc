@@ -1,49 +1,50 @@
 :table-caption!:
 :doctitle: Koder som vises med anden farve i patobank
 
-[%header,format=tsv,cols="<.^1m,.^1,.^4",frame="none",grid="rows"]
+[%header,cols="<.^1m,.^1,.^4",frame="none",grid="rows"]
 |===
-SNOMED-kode	Markering (farvekode)	Kodetekst
-M67010	pass:[<span style="color: #ffa500">ORANGE (#ffa500)</span>]	ASCH - atypiske pladeepitelceller, muligt HSIL
-// M67016	SORT	LSIL - let grad af pladeepitelforandring, cytologisk
-M67017	+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++	HSIL - svær grad af pladeepitelforandring, cytologisk
-// M67020	SORT	AGC - atypiske cylinderepitelceller
-// M69701	SORT	let suspekte celler
-M69702	+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++	suspekte celler
-M69703	+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++	stærkt suspekte celler
-// M69711	SORT	atypiske pladeepitelceller
-// M69712	SORT	atypiske cylinderepitelceller
-M69760	+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++	malignitetssuspekte celler
-// M69761	SORT	atypiske pladeepitelceller (=M69711)
-// M69762	SORT	atypiske cylinderepitelceller (=M69712)
-// M69790	SORT	koilocytose
-// M697X0	SORT	moderat koilocytotisk atypi
-// M697Y0	SORT	svær koilocytotisk atypi
-M8000A	+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++	malignitetssuspekt histologisk forandring
-M80011	+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++	tumorceller
-{nbsp} +	{nbsp} +	{nbsp} +
-M7***9	+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++	dysplasi
-// M76700	SORT	kondylom
-// M76701	SORT	fladt kondylom
-// M76720	SORT	akuminat kondylom
-M8***1	+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++	uvist om benign eller malign, borderline
-M8***2	+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++	carcinoma in situ / inkomplet remission
-M8***3	+++<span style="color: #ff0000">RØD (#ff0000)</span>+++	malign, primær
-M8***4	+++<span style="color: #ff0000">RØD (#ff0000)</span>+++	direkte spredning
-M8***5	+++<span style="color: #ff0000">RØD (#ff0000)</span>+++	mikroinvasiv tumor
-M8***6	+++<span style="color: #ff0000">RØD (#ff0000)</span>+++	malign, metastase
-M8***7	+++<span style="color: #ff0000">RØD (#ff0000)</span>+++	malign, recidiv
-M8***X	+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++	malign, OBS PRO
-M8***9	+++<span style="color: #ff0000">RØD (#ff0000)</span>+++	malign, usikkert om primær eller metastase
-M9***1	+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++	uvist om benign eller malign, borderline
-M9***2	+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++	carcinoma in situ / inkomplet remission
-M9***3	+++<span style="color: #ff0000">RØD (#ff0000)</span>+++	malign, primær
-M9***4	+++<span style="color: #ff0000">RØD (#ff0000)</span>+++	direkte spredning
-M9***5	+++<span style="color: #ff0000">RØD (#ff0000)</span>+++	mikroinvasiv
-M9***6	+++<span style="color: #ff0000">RØD (#ff0000)</span>+++	malign, metastase
-M9***7	+++<span style="color: #ff0000">RØD (#ff0000)</span>+++	malign, recidiv
-// M9***8	SORT	malign i remission
-M9***9	+++<span style="color: #ff0000">RØD (#ff0000)</span>+++	malign, usikkert om primær eller metastase
-M9***X	+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++	malign, OBS PRO
-// ÆYYY00	SORT	OBS PRO
+|SNOMED-kode|Markering (farvekode)|Kodetekst
+3+^h|Specifikke diagnoser med farve
+|M67010|pass:[<span style="color: #ffa500">ORANGE (#ffa500)</span>]|ASCH - atypiske pladeepitelceller, muligt HSIL
+// |M67016|SORT|LSIL - let grad af pladeepitelforandring, cytologisk
+|M67017|+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++|HSIL - svær grad af pladeepitelforandring, cytologisk
+// |M67020|SORT|AGC - atypiske cylinderepitelceller
+// |M69701|SORT|let suspekte celler
+|M69702|+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++|suspekte celler
+|M69703|+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++|stærkt suspekte celler
+// |M69711|SORT|atypiske pladeepitelceller
+// |M69712|SORT|atypiske cylinderepitelceller
+|M69760|+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++|malignitetssuspekte celler
+// |M69761|SORT|atypiske pladeepitelceller (=M69711)
+// |M69762|SORT|atypiske cylinderepitelceller (=M69712)
+// |M69790|SORT|koilocytose
+// |M697X0|SORT|moderat koilocytotisk atypi
+// |M697Y0|SORT|svær koilocytotisk atypi
+|M8000A|+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++|malignitetssuspekt histologisk forandring
+|M80011|+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++|tumorceller
+3+^h|Øvrige diagnoser med farve
+|M7***9|+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++|dysplasi
+// |M76700|SORT|kondylom
+// |M76701|SORT|fladt kondylom
+// |M76720|SORT|akuminat kondylom
+|M8***1|+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++|uvist om benign eller malign, borderline
+|M8***2|+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++|carcinoma in situ / inkomplet remission
+|M8***3|+++<span style="color: #ff0000">RØD (#ff0000)</span>+++|malign, primær
+|M8***4|+++<span style="color: #ff0000">RØD (#ff0000)</span>+++|direkte spredning
+|M8***5|+++<span style="color: #ff0000">RØD (#ff0000)</span>+++|mikroinvasiv tumor
+|M8***6|+++<span style="color: #ff0000">RØD (#ff0000)</span>+++|malign, metastase
+|M8***7|+++<span style="color: #ff0000">RØD (#ff0000)</span>+++|malign, recidiv
+|M8***X|+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++|malign, OBS PRO
+|M8***9|+++<span style="color: #ff0000">RØD (#ff0000)</span>+++|malign, usikkert om primær eller metastase
+|M9***1|+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++|uvist om benign eller malign, borderline
+|M9***2|+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++|carcinoma in situ / inkomplet remission
+|M9***3|+++<span style="color: #ff0000">RØD (#ff0000)</span>+++|malign, primær
+|M9***4|+++<span style="color: #ff0000">RØD (#ff0000)</span>+++|direkte spredning
+|M9***5|+++<span style="color: #ff0000">RØD (#ff0000)</span>+++|mikroinvasiv
+|M9***6|+++<span style="color: #ff0000">RØD (#ff0000)</span>+++|malign, metastase
+|M9***7|+++<span style="color: #ff0000">RØD (#ff0000)</span>+++|malign, recidiv
+// |M9***8|SORT|malign i remission
+|M9***9|+++<span style="color: #ff0000">RØD (#ff0000)</span>+++|malign, usikkert om primær eller metastase
+|M9***X|+++<span style="color: #ffa500">ORANGE (#ffa500)</span>+++|malign, OBS PRO
+// |ÆYYY00|SORT|OBS PRO
 |===
