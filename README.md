@@ -1,4 +1,4 @@
-### Velkommen til it-udvalgets wiki!
+### Velkommen til it-udvalgets dokumentsamling
 
 [Arbejdsgang med SNOMED opdateringer](Arbejdsgang%20i%20opdateringer.adoc)
 
