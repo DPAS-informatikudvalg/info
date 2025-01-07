@@ -2,17 +2,19 @@
 
 [Arbejdsgang med SNOMED opdateringer](Arbejdsgang%20i%20opdateringer.adoc)
 
-[Forslag til kodning af kromosomforandringer](Forslag-til-kodning-af-kromosomforandringer.adoc)
+[Forslag til kodning af kromosomforandringer](kodning-af-kromosomforandringer.adoc)
+
+[Kodning af genforandringer](kodning-af-genforandringer.md)
 
 [MOD1 og MOD2 modificerede koder](MOD1-og-MOD2-modificerede-koder.md)
 
 [Introduktion og vejledning til SNOMED (3. udgave 1996)](Introduktion-og-vejledning-til-SNOMED-(3.-udgave-1996))
 
-[Betydning og betingelser af felter i SNOMED tabel (patoSnoMed)](patoSnoMed-kodestruktur)
+[Betegnelser af felter i SNOMED tabel (patoSnoMed)](patoSnoMed-kodestruktur.asciidoc)
 
-[Kodning af genforandringer](kodning-af-genforandringer.md)
+[Tags til SNOMED koder, anvendt gruppering i kodebog på patobank.dk](Tags.md)
 
-[Tags til SNOMED koder, anvendt til søgning via patobank.dk](Tags.md)
+[Rettelser af patologisvar](rettelser-i-svar.md)
 
 [Opdateret liste over ICD-O koder hos IARC](http://codes.iarc.fr/codegroup/2)
 
