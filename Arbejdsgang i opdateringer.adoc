@@ -1,7 +1,7 @@
 . Kodeønsker modtages
 . Der findes et kodeforslag:
 .. find ud af om der er en kode i SNOMED-internationl (for tumorer i WHOs ICD-koder)
-.. check om den internationale kode passer ind i det danske system, dvs. er den brugt før? kommer koden til at stå i sammenhæng med tidligere beslægtede koder? Ellers brug pkt. 3
+.. check om den internationale kode passer ind i det danske system, dvs. er den brugt før? kommer koden til at stå i sammenhæng med tidligere beslægtede koder? Ellers brug pkt. c
 .. hvis der ikke er en international kode, findes en kode, der placerer tilsdanden i sammenhæng med beslægtede koder
 . Ofte er det nødvendigt med en indledende, afklarende korrespondance med dem, der har kodeønsker, så kodeforslaget bliver entydigt
 . Samler kodeforslagene i en excel-fil,
@@ -22,5 +22,9 @@ Eksempel på ekscel fil til Sundhedsdatastyrrelsen med nødvendige kolonner:
 |237|T5530A|Glandula submandibularis, højre|ændres uden historik|tidligere tekst: Højre glandula submandibularis|G,S,J|||Glandula submandibularis, højre|||
 |===
 
-TODO:
-Farvemarkering, tags, MOD1 og MOD2 modificerede koder
+
+link:Tags.md[Tags til SNOMED koder, anvendt til søgning via patobank.dk]
+
+link:farvemarkering.adoc[Regler for farvemarkering af snomed koder]
+
+link:MOD1-og-MOD2-modificerede-koder.md[Kodegrupper for maligne og hæmatologiske koder (Mod1, Mod2)]
