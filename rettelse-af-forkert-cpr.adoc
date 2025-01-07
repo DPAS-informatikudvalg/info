@@ -1,0 +1,54 @@
+== Rettelse af afsendte patologisvar på forkert CPR-nummer
+
+[preface]
+Vejledning udarbejdet af DPAS' Informatikudvalget januar 2023
+
+=== Baggrund
+Det hænder, at et patologisvar afsendes på forkert CPR-nummer. Fejlen kan være opstået hos enten rekvirenten eller på patologiafdelingen. Der kan i klinikken/almen praksis være tale om oprettelse og rekvirering af en prøve på et CPR-nummer, der ikke har fået foretaget prøvetagning, eller reelle forbytninger mellem to eller flere CPR-numre. På patologiafdelingen vil der helt overvejende være tale om forbytninger. 
+Der kan være tale om forbytning af hele rekvisitioner eller kun undernumre.
+Det påhviler den instans, hvor fejlen er opstået at foretage en rettelse i samarbejde med øvrige instanser, der må være involveret i enten svarafgivelse eller behandling af den/de berørte patient/er.
+
+=== Formål
+At foretage en korrekt rettelse af afsendte patologibesvarelser med forkert CPR-nummer i henhold til gældende juridiske regler. 
+
+=== Fremgangsmåde
+. Rekvirenten og evt. andre kendte modtagere af svaret orienteres om fejlen.
+
+. Overordnet skal der altid oprettes en ny rekvisition til det korrekte CPR-nummer, så der ikke er sporbarhed mellem to patienter via et rekvisitionsnummer. Dette gælder også selv om der er tale om forbytning af to prøver, hvor man kunne ”bytte” svarene om. Det gøres for at synliggøre, at der er sket en fejl, og tydeliggøre det korrekte svar. Der oprettes også ny rekvisition til et forbyttet undernummer.
+Ved forbytninger opstået på patologiafdelingen påhviler det afdelingen videst muligt at finde frem til alle involverede prøver/CPR-numre.
++
+Hvis fejlen er opstået hos [.underline]#rekvirenten#, anmodes denne om at oprette en ny rekvisition med:
+
+* Korrekt CPR-nummer
+* Oprindelige kliniske oplysninger.
+* Materialebeskrivelse.
++
+Hvis fejlen er opstået på [.underline]#patologiafdelingen#, opretter patologiafdelingen en ny rekvisition med rekvirenten som modtager af svaret, og rekvisitionen gives: 
+
+* Korrekt CPR-nummer
+* Oprindelige kliniske oplysninger.
+* Materialebeskrivelse.
+
+[start=3]
+. Makro- og mikrobeskrivelse, evt. konklusion og SNOMED-koder kopieres fra den originale rekvisition med forkert CPR-nummer til den nye rekvisition med det korrekte CPR-nummer. 
+I undersøger note på den nye rekvisition noteres rekvisitionsnummeret på den originale rekvisition, såfremt der bliver behov for at se prøvens historik i laboratoriet. Patologen kontrollerer, at kopieringen er korrekt, inden svaret med korrekt CPR-nummer sendes ud. 
+
+. De kliniske oplysninger og alle patologidata (beskrivelser og koder) i rekvisitionen/undernummeret med det forkerte CPR-nummer slettes og erstattes med følgende tekst:
+
+  REKVISITIONEN ER OPRETTET PÅ FORKERT CPR-NUMMER OG PATOLOGISVARET ER DERFOR UGYLDIGT. 
+  Ved behov for adgang til den oprindelige tekst og diagnose bedes der rettet henvendelse til patologiafdelingen.
+
+. Afdelingens kopi af den originale rekvisition/besvarelse med det forkerte CPR-nummer er tilgængelig i patologisystem via ”Oversigter -> Tidligere rekvisitionssvar”.
+
+. Nyt svar på den originale rekvisition (med slettede kliniske oplysninger og patologidata) svares ud med SNOMED-kode:
+
+  T00002 Topografi kan ikke anvendes
+  M09021 UGYLDIGT SVAR
++
+eventuelt efterfulgt af 
+
+   M09025 materiale modtaget med manglende eller forkerte patientdata
+
+=== Ansvar
+På patologiafdelingen har patologen det endelige ansvar for rettelsen.
+

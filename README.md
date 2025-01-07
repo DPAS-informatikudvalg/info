@@ -1,6 +1,6 @@
 ### Velkommen til it-udvalgets dokumentsamling
 
-[Arbejdsgang med SNOMED opdateringer](Arbejdsgang%20i%20opdateringer.adoc)
+[Arbejdsgang for SNOMED kodeforvalteren](Arbejdsgang%20i%20opdateringer.adoc)
 
 [Forslag til kodning af kromosomforandringer](kodning-af-kromosomforandringer.adoc)
 
@@ -15,6 +15,8 @@
 [Tags til SNOMED koder, anvendt gruppering i kodebog på patobank.dk](Tags.md)
 
 [Rettelser af patologisvar](rettelser-i-svar.md)
+
+[Rettelse af afsendte patologisvar på forkert CPR-nummer](rettelse-af-forkert-cpr.adoc)
 
 [Opdateret liste over ICD-O koder hos IARC](http://codes.iarc.fr/codegroup/2)
 
