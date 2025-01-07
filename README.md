@@ -1,8 +1,8 @@
 ### Velkommen til it-udvalgets wiki!
 
-[Forslag til kodning af kromosomforandringer](Forslag-til-kodning-af-kromosomforandringer.adoc)
-
 [Arbejdsgang med SNOMED opdateringer](Arbejdsgang%20i%20opdateringer.adoc)
+
+[Forslag til kodning af kromosomforandringer](Forslag-til-kodning-af-kromosomforandringer.adoc)
 
 [MOD1 og MOD2 modificerede koder](MOD1-og-MOD2-modificerede-koder.md)
 
