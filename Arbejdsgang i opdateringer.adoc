@@ -5,17 +5,17 @@
 . Der findes et kodeforslag:
 .. find ud af om der er en kode i SNOMED-internationl (for tumorer i WHOs ICD-koder)
 .. check om den internationale kode passer ind i det danske system, dvs. er den brugt før? kommer koden til at stå i sammenhæng med tidligere beslægtede koder? Ellers brug pkt. c
-.. hvis der ikke er en international kode, findes en kode, der placerer tilsdanden i sammenhæng med beslægtede koder
+.. hvis der ikke er en international kode, findes en kode, der placerer tilstanden i sammenhæng med beslægtede koder
 . Ofte er det nødvendigt med en indledende, afklarende korrespondance med dem, der har kodeønsker, så kodeforslaget bliver entydigt
 . Samler kodeforslagene i en excel-fil,
 . Excel-fil med forslag tages til høring i Informatikudvalget
 . *Høringen afsluttes 2 måneder før opdateringen* og liste med M8 og M9 koder (relateret til ICD-O koder, der anvendes i "WHO Classification of Tumours" sendes til SDS (Margit Caroline Rasted, MACR@sundhedsdata.dk).
 . Tilbagemelding fra SDS (Margit) efter senest 2 uger som en samlet respons/kommentar.
-. Der er 2 uger til behandling af komentarer i IT-udvalget.
-. Én måned før opdatering sendes hele kodelisten (M8-M9 koder såvel som resterende koder) til Sundhedstyrrelses kodeforvalter Henrik Tholstrup (HETH@sundhedsdata.dk) og Margit Caroline Rasted. Når Henrik har genereret opdateringsfilen fremsendes den til IT-udvalget til en sidste endelig gennemgang. Denne opdateringsfil sendes til ansøgere med 1 uges frist for evt. små rettelser. Derefter returneres opdateringsfilen til Henrik som udfører opdateringen på planlagt opdateringsdato. 
+. Der er 2 uger til behandling af kommentarer i IT-udvalget.
+. Én måned før opdatering sendes hele kodelisten (M8-M9 koder såvel som resterende koder) til Sundhedstyrelses kodeforvalter Henrik Tholstrup (HETH@sundhedsdata.dk) og Margit Caroline Rasted. Når Henrik har genereret opdateringsfilen fremsendes den til IT-udvalget til en sidste endelig gennemgang. Denne opdateringsfil sendes til ansøgere med 1 uges frist for evt. små rettelser. Derefter returneres opdateringsfilen til Henrik som udfører opdateringen på planlagt opdateringsdato. 
 . Der laves 2 filer (helst i PDF format), den ene med nye og ændrede koder, den anden med koder der lukkes. De 2 filer sendes til Lone Bojesen (lone.bojesen.02@regionh.dk) mhp. publicering på patobank.dk. Eksempler på filerne kan ses på link:https://www.patobank.dk/snomed/[patobank.dk/snomed].
 
-.Format af ekscel fil til Sundhedsdatastyrrelsen med nødvendige kolonner:
+.Format af ekscel fil til Sundhedsdatastyrelsen med nødvendige kolonner:
 [%header,cols="1,1,3,1,1,1,1,1,1,1,1,1"]
 |===
 |Emne|Kode|Korttekstfootnote:[Diagnostekst kan ikke være længere end *60 karakterer*. Hele teksten kan angives i kolonne "Fuldtekst"]|Ændring|Kommentar|Tagsfootnote:[link:Tags.md[Tags til SNOMED koder], som anvendes til filtrering/gruppering af diagnoser på link:https://www.patobank.dk/kodebog/[patobanks kodebog]]|Farvefootnote:[HUSK at sætte farvekode for maligne og præmaligne diagnoser. Se link:farvemarkering.adoc[regler for farvemarkering af snomed koder]]|Modfootnote:[Sæt '2' for hæmatologiske neoplasier og '1' for øvrige maligne tumorer. Se link:MOD1-og-MOD2-modificerede-koder.md[kodegrupper for maligne og hæmatologiske koder Mod1, Mod2]]|Fuldtekst|ICDo-kode|ICDo-tekst|ICDo-kilde
