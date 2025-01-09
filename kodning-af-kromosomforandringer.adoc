@@ -1,3 +1,4 @@
+:table-caption!:
 # Forslag til kodning af kromosomforandringer
 
 .Der allokeres serie `FK0100-FKMTZZ` til kodning af kromosomforandringer:
@@ -20,8 +21,7 @@ FK##C2 centromer tilkomst påvist
 FK##C3 centromer tilkomst ikke påvist
 ```
 
-#### Forslag til aktuel liste af kromosomofrandringer:
-
+.Forslag til aktuel liste af kromosomofrandringer:
 [%header,format=tsv,cols="1m,1"]
 |===
 Kode	Kromosomforandring
