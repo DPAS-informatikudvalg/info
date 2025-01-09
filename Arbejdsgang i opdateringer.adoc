@@ -1,9 +1,9 @@
 :doctitle: Arbejdsgang for kodeforvalteren
 :table-caption!:
 . Kodeønsker modtages
-. Ønsket kan med fordel registreres som en ny emne ("issue") på dokumentdepot link:https://github.com/DPAS-informatikudvalg/snomed/issues[], hvor udvalgets medlemmer kan kommentere og følge op på opdateringer vial mail.
+. Ønsket kan med fordel registreres som et nyt emne ("issue") på dokumentdepot link:https://github.com/DPAS-informatikudvalg/snomed/issues[], hvor udvalgets medlemmer kan skrive kommentar. Emnerne kan tildeles en eller flere medlemmer ("Assignees") så at de kan følge op på opdateringer via mail.
 . Der findes et kodeforslag:
-.. find ud af om der er en kode i SNOMED-internationl (for tumorer i WHOs ICD-koder)
+.. find ud af om der er en kode i SNOMED-international (for tumorer i WHO's ICD-koder)
 .. check om den internationale kode passer ind i det danske system, dvs. er den brugt før? kommer koden til at stå i sammenhæng med tidligere beslægtede koder? Ellers brug pkt. c
 .. hvis der ikke er en international kode, findes en kode, der placerer tilstanden i sammenhæng med beslægtede koder
 . Ofte er det nødvendigt med en indledende, afklarende korrespondance med dem, der har kodeønsker, så kodeforslaget bliver entydigt
